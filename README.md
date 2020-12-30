@@ -1,20 +1,21 @@
 # Excess mortality during the covid19 pandemics
 
-Code: https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb
-Run in browser: https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb
+Code: https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb<br>
+Run in browser: https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb<br>
+
 The data are sourced from the Human Mortality Database, FT, and NYT. Ukraine data scraped by Иван Зайцев <a href="https://navizv.github.io/covid">here</a>. Excess mortality computed relative to the baseline with linear extrapolation of 2015–19 trend. 
 
-Red: excess mortality starting from the first officially reported covid19 death.
-Gray: excess mortality as a % of the usual yearly deaths.
-Black: excess mortality per 100,000 population.
+Red: excess mortality starting from the first officially reported covid19 death.<br>
+Gray: excess mortality as a % of the usual yearly deaths.<br>
+Black: excess mortality per 100,000 population.<br>
 Blue: ratio to the daily reported deaths over the same period (sourced from https://ourworldindata.org/covid-deaths).
 
 <p><a href="img/all-countries.png?raw=true"><img src="img/all-countries.png" width="800" title="Excess mortality all over the world"></a>
   
-Compare with:  
-FT: https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938  
-NYT: https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html  
-The Economist: https://www.economist.com/graphic-detail/2020/07/15/tracking-covid-19-excess-deaths-across-countries
+Compare with:<br>
+FT: https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938<br>
+NYT: https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html<br> 
+The Economist: https://www.economist.com/graphic-detail/2020/07/15/tracking-covid-19-excess-deaths-across-countries<br>
 
 --------------------------
 
