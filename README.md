@@ -21,6 +21,8 @@ The Economist: https://www.economist.com/graphic-detail/2020/07/15/tracking-covi
 
 # Excess mortality in Russia
 
+Code: https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb
+
 <p><a href="img/allregions.png?raw=true"><img src="img/allregions.png" width="800" title="Excess mortality in Russian regions"></a>
   
 <p>Animation (English):
