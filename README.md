@@ -3,7 +3,7 @@
 Code: https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb<br>
 Run in browser: https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb<br>
 
-The data are sourced from the Human Mortality Database, FT, and NYT. Ukraine data scraped by Иван Зайцев <a href="https://navizv.github.io/covid">here</a>. Excess mortality computed relative to the baseline with linear extrapolation of 2015–19 trend. 
+The data are sourced from the Human Mortality Database (and removing the last two weeks), FT, and NYT. Ukraine data scraped by Иван Зайцев <a href="https://navizv.github.io/covid">here</a>. Excess mortality is computed relative to the baseline using linear extrapolation of the 2015–19 trend. 
 
 Red: excess mortality starting from the first officially reported covid19 death.<br>
 Gray: excess mortality as a % of the usual yearly deaths.<br>
