@@ -3,12 +3,12 @@
 Code: https://github.com/dkobak/excess-mortality/blob/main/all-countries.ipynb<br>
 Run in browser: https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb<br>
 
-The data are sourced from the Human Mortality Database (and removing the last two weeks), FT, and NYT. Ukraine data scraped by Иван Зайцев <a href="https://navizv.github.io/covid">here</a>. Excess mortality is computed relative to the baseline using linear extrapolation of the 2015–19 trend. 
+The data are sourced from the Human Mortality Database (removing the last two weeks), FT, The Economist, and NYT. For the USA, I am using 'predicted' deaths by CDC that account for undercount in recent weeks. Ukraine data scraped by Иван Зайцев <a href="https://navizv.github.io/covid">here</a>. Iran data added manually by me. Excess mortality is computed relative to the baseline using linear extrapolation of the 2015–19 trend. 
 
 Red: excess mortality starting from the first officially reported covid19 death.<br>
 Gray: excess mortality as a % of the usual yearly deaths.<br>
 Black: excess mortality per 100,000 population.<br>
-Blue: ratio to the daily reported deaths over the same period (sourced from https://ourworldindata.org/covid-deaths).
+Blue: ratio to the daily reported deaths over the same period (possibly up to several days; sourced from https://ourworldindata.org/covid-deaths).
 
 <p><a href="img/all-countries.png?raw=true"><img src="img/all-countries.png" width="800" title="Excess mortality all over the world"></a>
   
