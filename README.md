@@ -5,7 +5,7 @@ Run in browser: https://colab.research.google.com/github/dkobak/excess-mortality
 
 Data source: https://github.com/akarlinsky/world_mortality
 
-**Preprint:** Karlinsky & Kobak 2021, The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic, https://www.medrxiv.org/content/10.1101/2021.01.XX.XXXXXXXXv1
+**Preprint:** Karlinsky & Kobak 2021, The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic, https://www.medrxiv.org/content/10.1101/2021.01.27.21250604v1
 
 The data are sourced from the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality). Excess mortality is computed relative to the baseline obtained using linear extrapolation of the 2015–19 trend. In the figure below, gray lines are 2015–19, black line is baseline for 2020, red line is 2020, purple line is 2021.
 
