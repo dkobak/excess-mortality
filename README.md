@@ -12,7 +12,7 @@ The data are sourced from the [World Mortality Dataset](https://github.com/akarl
 Red number: excess mortality starting from the first officially reported covid19 death.<br>
 Gray number: excess mortality as a % of the baseline yearly deaths.<br>
 Black number: excess mortality per 100,000 population.<br>
-Blue number: ratio to the daily reported deaths over the same period (possibly up to several days; sourced from https://ourworldindata.org/covid-deaths).
+Blue number: ratio to the daily reported deaths over the same period (sourced from JHU).
 
 <p><a href="img/all-countries.png?raw=true"><img src="img/all-countries.png" width="800" title="Excess mortality all over the world"></a>
   
