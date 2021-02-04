@@ -26,7 +26,9 @@ WSJ: https://www.wsj.com/articles/the-covid-19-death-toll-is-even-worse-than-it-
 
 # Excess mortality in Russia
 
-Code: https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb
+The code for my February 2021 paper in *Significance* [Excess mortality reveals Covid's true toll in Russia](https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01486) is available in the `significance2021` folder, together with the frozen data and the final figures.
+
+Figures below are updated every month. The up-to-date data can be found in the `russian-data` folder. Code: https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb
 
 <p><a href="img/allregions.png?raw=true"><img src="img/allregions.png" width="800" title="Excess mortality in Russian regions"></a>
   
