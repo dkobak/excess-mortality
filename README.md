@@ -51,12 +51,7 @@ Figures below are updated every month. The up-to-date data can be found in the `
 <p>Detailed statistics in regions with the most excess deaths:
 
 <p><a href="img/regions.png?raw=true"><img src="img/regions.png" width="600" title="Regions"></a>
-
-<p>Daily reported covid19 mortality and estimated excess mortality across the countries with the most reported covid19 deaths. Undercount estimates are taken from The Economist, NYT, Financial Times, and other sources. Note that in this figure the excess mortality in all countries is ESTIMATED using the undercount coefficient times the latest daily reported number of deaths:
-
-<p><a href="img/countries.png?raw=true"><img src="img/countries.png" width="600" title="Across countries"></a>
-
-
+ 
 
 ### Some technical figures
 
@@ -71,5 +66,10 @@ Figures below are updated every month. The up-to-date data can be found in the `
 <p>Evolution of the undercount coefficient:
 
 <p><a href="img/undercount.png?raw=true"><img src="img/undercount.png" width="400" title="Excess mortality in Russia"></a>
+ 
+ 
+ ### Extrapolation until today
+ 
+<p>Daily reported covid19 mortality and estimated excess mortality across the countries with the most reported covid19 deaths. Note that in this figure the excess mortality in all countries is ESTIMATED using the undercount coefficient (see above) times the LATEST daily reported number of deaths:
 
-
+<p><a href="img/countries.png?raw=true"><img src="img/countries.png" width="600" title="Across countries"></a>
