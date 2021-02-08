@@ -20,7 +20,7 @@ Compare with: [FT](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b3869
 
 --------------------------
 
-# Excess mortality in Russia
+## Excess mortality in Russia
 
 The code for my February 2021 paper in *Significance* [Excess mortality reveals Covid's true toll in Russia](https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01486) is available in the `significance2021` folder, together with the frozen data and the final figures.
 
@@ -67,8 +67,9 @@ Figures below are updated every month. The up-to-date data can be found in the `
 
 <p><a href="img/undercount.png?raw=true"><img src="img/undercount.png" width="400" title="Excess mortality in Russia"></a>
  
+----------------------
  
- ### Extrapolation until today
+## Extrapolation until today
  
 <p>Daily reported covid19 mortality and estimated excess mortality across the countries with the most reported covid19 deaths. Note that in this figure the excess mortality in all countries is ESTIMATED using the undercount coefficient (see above) times the LATEST daily reported number of deaths:
 
