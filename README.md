@@ -47,6 +47,10 @@ Figures below are updated every month. The up-to-date data can be found in the `
 <p>Without regions:
 
 <p><a href="img/russia.png?raw=true"><img src="img/russia.png" width="400" title="Excess mortality in Russia"></a>
+ 
+<p>Yearly deaths:
+
+<p><a href="img/yearly.png?raw=true"><img src="img/yearly.png" width="400" title="Yearly deaths in Russia"></a>
 
 <p>Detailed statistics in regions with the most excess deaths:
 
