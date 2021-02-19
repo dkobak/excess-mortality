@@ -35,6 +35,8 @@ Figures below are updated every month. The up-to-date data can be found in the `
 
 <p><a href="img/allregions.png?raw=true"><img src="img/allregions.png" width="800" title="Excess mortality in Russian regions"></a>
   
+<p>Note that around 10 thousand excess deaths in July in Ural and East Siberia could have been due to the heat wave.
+  
 <p>Animation (English):
 
 <p><a href="img/animation-eng.gif?raw=true"><img src="img/animation-eng.gif" width="600" title="Excess mortality in Russia, animation"></a>
