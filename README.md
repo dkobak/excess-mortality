@@ -58,6 +58,7 @@ Figures below are updated every month. The up-to-date data can be found in the `
 <p>Yearly deaths:
 
 <p><a href="img/yearly.png?raw=true"><img src="img/yearly.png" width="400" title="Yearly deaths in Russia"></a>
+<p style="font-size: 80%">Back in 2019 Rosttat made a forecast for 2020: 1.7890 million deaths (1.7413--1.8304). The actual number in 2019 was 1,800,683. The actual number in 2020 was 2,124,479. The excess compared to their forecast is 335 thousand. For reference, my linear forecast is 1.7660.</p>
 
 <p>Detailed statistics in regions with the most excess deaths:
 
