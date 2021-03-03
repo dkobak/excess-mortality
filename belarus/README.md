@@ -1,6 +1,6 @@
 # Leaked data on new Covid-19 cases in Minsk, Belarus
 
-![Leaked data on new cases in Minsk](belarus/belarus.png)
+![Leaked data on new cases in Minsk](belarus.png)
 
 An anonymous person from Belarus contacted me using an anonymous email address and said that they have leaked data 
 about all confirmed Covid-19 PCR tests done in Minsk between June and November 2020. I extracted the daily
