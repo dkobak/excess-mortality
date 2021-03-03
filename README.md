@@ -25,7 +25,7 @@ Compare with: [FT](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b3869
 
 
 ### Extrapolation until today
-Daily reported Covid-19 mortality and estimated excess mortality across the countries with the most reported Covid-19 deaths. Note that in this figure the excess mortality in all countries is ESTIMATED using the undercount coefficient and the LATEST daily reported number of deaths. So this corresponds to the gray markers in the figure above.
+Daily reported Covid-19 mortality and estimated excess mortality across the countries with the most reported Covid-19 deaths. Note that in this figure the excess mortality in all countries is FORECASTED using the undercount coefficient and the LATEST daily reported number of deaths. So this corresponds to the gray markers in the figure above.
 
 <p><a href="img/countries.png?raw=true"><img src="img/countries.png" width="600" title="Across countries"></a>
 
