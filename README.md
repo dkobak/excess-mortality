@@ -13,9 +13,9 @@ Blue number: ratio to the daily reported Covid-19 deaths over the same period (s
 
 <p><a href="img/all-countries.png?raw=true"><img src="img/all-countries.png" width="800" title="Excess mortality all over the world"></a>
 
-A version where y-scale in all subplots is the same (in percent):
+An old layout where y-scale in all subplots was different:
 
-<p><a href="img/all-countries-fixedscale.png?raw=true"><img src="img/all-countries-fixedscale.png" width="800" title="Excess mortality all over the world, fixed scale"></a>
+<p><a href="img/all-countries-old.png?raw=true"><img src="img/all-countries-old.png" width="800" title="Excess mortality all over the world, different scales"></a>
 
 Top-10 countries in the World Mortality Dataset according to different metrics (only countries with over 50,000 population are shown): 
 
