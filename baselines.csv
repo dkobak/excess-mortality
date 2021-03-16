@@ -1,56 +1,15 @@
-Albania, 1, 532.3
-Albania, 2, 573.7
-Albania, 3, 536.9
-Albania, 4, 541.3
-Albania, 5, 511.5
-Albania, 6, 482.5
-Albania, 7, 473.5
-Albania, 8, 488.1
-Albania, 9, 500.1
-Albania, 10, 451.7
-Albania, 11, 434.1
-Albania, 12, 456.9
-Albania, 13, 418.7
-Albania, 14, 407.5
-Albania, 15, 394.1
-Albania, 16, 417.5
-Albania, 17, 412.7
-Albania, 18, 409.5
-Albania, 19, 379.1
-Albania, 20, 370.5
-Albania, 21, 381.3
-Albania, 22, 374.7
-Albania, 23, 381.1
-Albania, 24, 359.1
-Albania, 25, 401.3
-Albania, 26, 386.5
-Albania, 27, 385.3
-Albania, 28, 392.1
-Albania, 29, 389.5
-Albania, 30, 413.1
-Albania, 31, 407.3
-Albania, 32, 401.1
-Albania, 33, 402.5
-Albania, 34, 356.5
-Albania, 35, 366.7
-Albania, 36, 358.5
-Albania, 37, 347.5
-Albania, 38, 366.5
-Albania, 39, 354.3
-Albania, 40, 378.9
-Albania, 41, 356.1
-Albania, 42, 368.9
-Albania, 43, 402.3
-Albania, 44, 401.1
-Albania, 45, 406.1
-Albania, 46, 391.3
-Albania, 47, 417.3
-Albania, 48, 437.5
-Albania, 49, 442.3
-Albania, 50, 436.1
-Albania, 51, 457.5
-Albania, 52, 498.1
-Albania, 53, 498.1
+Albania, 1, 2462.6
+Albania, 2, 1959.6
+Albania, 3, 1988.6
+Albania, 4, 1733.4
+Albania, 5, 1721.4
+Albania, 6, 1669.6
+Albania, 7, 1729.4
+Albania, 8, 1738.9
+Albania, 9, 1547.9
+Albania, 10, 1716.1
+Albania, 11, 1798.6
+Albania, 12, 2078.6
 Armenia, 1, 2585.9
 Armenia, 2, 2238.5
 Armenia, 3, 2307.9
@@ -493,18 +452,18 @@ Colombia, 50, 4965.8
 Colombia, 51, 4988.2
 Colombia, 52, 5162.8
 Colombia, 53, 5162.8
-Costa Rica, 1, 2130.8
-Costa Rica, 2, 1915.0
-Costa Rica, 3, 2040.4
-Costa Rica, 4, 2027.2
-Costa Rica, 5, 2085.6
-Costa Rica, 6, 2099.6
-Costa Rica, 7, 2097.6
-Costa Rica, 8, 2087.2
-Costa Rica, 9, 2079.0
-Costa Rica, 10, 2143.4
-Costa Rica, 11, 2192.0
-Costa Rica, 12, 2323.2
+Costa Rica, 1, 2211.7
+Costa Rica, 2, 1875.5
+Costa Rica, 3, 2063.7
+Costa Rica, 4, 2023.5
+Costa Rica, 5, 2096.3
+Costa Rica, 6, 2101.3
+Costa Rica, 7, 2088.9
+Costa Rica, 8, 2111.7
+Costa Rica, 9, 2063.1
+Costa Rica, 10, 2142.1
+Costa Rica, 11, 2139.3
+Costa Rica, 12, 2340.1
 Croatia, 1, 1186.7
 Croatia, 2, 1237.3
 Croatia, 3, 1232.1
@@ -782,6 +741,15 @@ Egypt, 9, 42402.3
 Egypt, 10, 42774.5
 Egypt, 11, 43552.1
 Egypt, 12, 53085.5
+El Salvador, 1, 3590.2
+El Salvador, 2, 3132.4
+El Salvador, 3, 3418.4
+El Salvador, 4, 3295.6
+El Salvador, 5, 3496.0
+El Salvador, 6, 3710.2
+El Salvador, 7, 3619.2
+El Salvador, 8, 3513.6
+El Salvador, 9, 3323.2
 Estonia, 1, 347.3
 Estonia, 2, 348.3
 Estonia, 3, 334.3
@@ -1929,6 +1897,18 @@ New Zealand, 50, 639.8
 New Zealand, 51, 621.6
 New Zealand, 52, 624.8
 New Zealand, 53, 624.8
+Nicaragua, 1, 2114.2
+Nicaragua, 2, 1770.0
+Nicaragua, 3, 1977.2
+Nicaragua, 4, 1984.5
+Nicaragua, 5, 1974.7
+Nicaragua, 6, 1984.2
+Nicaragua, 7, 2111.5
+Nicaragua, 8, 2115.2
+Nicaragua, 9, 2020.0
+Nicaragua, 10, 2090.0
+Nicaragua, 11, 2071.7
+Nicaragua, 12, 2124.5
 North Macedonia, 1, 2043.0
 North Macedonia, 2, 1749.6
 North Macedonia, 3, 1783.2
@@ -2030,59 +2010,59 @@ Paraguay, 9, 2707.6
 Paraguay, 10, 2639.2
 Paraguay, 11, 2453.2
 Paraguay, 12, 2652.6
-Peru, 1, 2241.3
-Peru, 2, 2230.9
-Peru, 3, 2236.3
-Peru, 4, 2251.3
+Peru, 1, 2241.9
+Peru, 2, 2229.9
+Peru, 3, 2235.9
+Peru, 4, 2251.6
 Peru, 5, 2342.3
-Peru, 6, 2272.6
-Peru, 7, 2301.6
+Peru, 6, 2272.9
+Peru, 7, 2301.3
 Peru, 8, 2371.6
-Peru, 9, 2429.9
+Peru, 9, 2429.6
 Peru, 10, 2313.3
-Peru, 11, 2356.6
-Peru, 12, 2300.6
+Peru, 11, 2357.3
+Peru, 12, 2300.9
 Peru, 13, 2265.6
-Peru, 14, 2273.6
-Peru, 15, 2200.9
-Peru, 16, 2281.3
-Peru, 17, 2204.6
-Peru, 18, 2289.3
+Peru, 14, 2273.3
+Peru, 15, 2201.3
+Peru, 16, 2280.9
+Peru, 17, 2204.9
+Peru, 18, 2288.9
 Peru, 19, 2215.3
-Peru, 20, 2288.3
-Peru, 21, 2338.3
-Peru, 22, 2355.3
+Peru, 20, 2288.6
+Peru, 21, 2337.6
+Peru, 22, 2354.6
 Peru, 23, 2439.6
 Peru, 24, 2454.9
 Peru, 25, 2528.9
-Peru, 26, 2505.3
-Peru, 27, 2544.3
+Peru, 26, 2504.9
+Peru, 27, 2545.6
 Peru, 28, 2446.3
-Peru, 29, 2505.3
+Peru, 29, 2504.6
 Peru, 30, 2520.3
 Peru, 31, 2487.6
-Peru, 32, 2535.6
+Peru, 32, 2535.3
 Peru, 33, 2439.9
 Peru, 34, 2428.6
-Peru, 35, 2498.3
-Peru, 36, 2473.6
-Peru, 37, 2479.9
+Peru, 35, 2498.6
+Peru, 36, 2473.3
+Peru, 37, 2479.6
 Peru, 38, 2518.3
-Peru, 39, 2522.3
-Peru, 40, 2456.6
-Peru, 41, 2496.6
-Peru, 42, 2537.3
+Peru, 39, 2522.6
+Peru, 40, 2455.9
+Peru, 41, 2496.3
+Peru, 42, 2537.9
 Peru, 43, 2490.6
-Peru, 44, 2509.9
-Peru, 45, 2473.6
-Peru, 46, 2363.3
+Peru, 44, 2510.3
+Peru, 45, 2474.3
+Peru, 46, 2362.6
 Peru, 47, 2387.3
-Peru, 48, 2363.6
+Peru, 48, 2363.3
 Peru, 49, 2392.9
-Peru, 50, 2419.3
-Peru, 51, 2405.6
-Peru, 52, 2463.9
-Peru, 53, 2463.9
+Peru, 50, 2419.6
+Peru, 51, 2405.9
+Peru, 52, 2464.3
+Peru, 53, 2464.3
 Philippines, 1, 55199.0
 Philippines, 2, 48657.6
 Philippines, 3, 51114.8
@@ -2713,18 +2693,70 @@ Thailand, 9, 40611.0
 Thailand, 10, 43549.5
 Thailand, 11, 41280.0
 Thailand, 12, 42626.8
-Tunisia, 1, 7681.7
-Tunisia, 2, 6902.5
-Tunisia, 3, 6731.9
-Tunisia, 4, 5565.7
-Tunisia, 5, 5284.5
-Tunisia, 6, 5061.9
-Tunisia, 7, 5717.9
-Tunisia, 8, 5710.3
-Tunisia, 9, 5257.5
-Tunisia, 10, 5561.1
-Tunisia, 11, 5855.7
-Tunisia, 12, 6500.5
+Transnistria, 1, 696.1
+Transnistria, 2, 579.8
+Transnistria, 3, 619.4
+Transnistria, 4, 532.8
+Transnistria, 5, 608.8
+Transnistria, 6, 522.8
+Transnistria, 7, 493.1
+Transnistria, 8, 547.6
+Transnistria, 9, 485.9
+Transnistria, 10, 573.4
+Transnistria, 11, 555.6
+Transnistria, 12, 577.1
+Tunisia, 1, 1751.5
+Tunisia, 2, 1761.1
+Tunisia, 3, 1785.1
+Tunisia, 4, 1813.9
+Tunisia, 5, 1762.5
+Tunisia, 6, 1755.1
+Tunisia, 7, 1743.3
+Tunisia, 8, 1726.5
+Tunisia, 9, 1719.3
+Tunisia, 10, 1600.5
+Tunisia, 11, 1522.7
+Tunisia, 12, 1543.3
+Tunisia, 13, 1486.5
+Tunisia, 14, 1365.9
+Tunisia, 15, 1360.9
+Tunisia, 16, 1316.1
+Tunisia, 17, 1276.1
+Tunisia, 18, 1254.7
+Tunisia, 19, 1236.3
+Tunisia, 20, 1195.1
+Tunisia, 21, 1204.9
+Tunisia, 22, 1223.1
+Tunisia, 23, 1200.9
+Tunisia, 24, 1184.3
+Tunisia, 25, 1183.5
+Tunisia, 26, 1238.3
+Tunisia, 27, 1277.1
+Tunisia, 28, 1312.5
+Tunisia, 29, 1302.1
+Tunisia, 30, 1339.1
+Tunisia, 31, 1392.5
+Tunisia, 32, 1404.1
+Tunisia, 33, 1264.9
+Tunisia, 34, 1246.7
+Tunisia, 35, 1270.1
+Tunisia, 36, 1249.1
+Tunisia, 37, 1259.7
+Tunisia, 38, 1266.9
+Tunisia, 39, 1215.1
+Tunisia, 40, 1251.9
+Tunisia, 41, 1292.5
+Tunisia, 42, 1290.7
+Tunisia, 43, 1269.3
+Tunisia, 44, 1314.5
+Tunisia, 45, 1353.5
+Tunisia, 46, 1403.9
+Tunisia, 47, 1444.9
+Tunisia, 48, 1475.7
+Tunisia, 49, 1481.7
+Tunisia, 50, 1499.9
+Tunisia, 51, 1560.1
+Tunisia, 52, 1544.1
 Ukraine, 1, 56561.0
 Ukraine, 2, 47728.6
 Ukraine, 3, 51502.4
