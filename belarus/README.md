@@ -3,8 +3,7 @@
 ![Leaked data on new cases in Minsk](belarus.png)
 
 An anonymous person from Belarus contacted me using an anonymous email address and said that they have leaked data 
-about all confirmed Covid-19 PCR tests done in Minsk between June and November 2020. I extracted the daily
-number of new cases in Minsk from these Excel spreadsheets (blue line in the figure above). It was often higher
+about all confirmed Covid-19 cases in Minsk between June and November 2020 (число т.н. "экстренных извещений"; see http://minzdrav.gov.by/upload/dadvfiles/law/1106.pdf, page 46). I extracted the daily number of new cases in Minsk from these Excel spreadsheets (blue line in the figure above). It was often higher
 than the official number of new cases in the entire Belarus (orange line). This suggests that the officially reported
 number of cases was manipulated.
 
