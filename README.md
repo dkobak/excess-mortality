@@ -4,7 +4,7 @@
 
 Analysis code: [`all-countries.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/all-countries.ipynb) (can be [run in Colab](https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb)).
 
-The data are sourced from the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality). Excess mortality is computed relative to the baseline obtained using linear extrapolation of the 2015–19 trend. In the figure below, gray lines are 2015–19, black line is baseline for 2020, red line is 2020, purple line is 2021. Countries are sorted by the % increase over the baseline.
+The data are sourced from the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality). Excess mortality is computed relative to the baseline obtained using linear extrapolation of the 2015–19 trend. In each subplot in the figure below, gray lines are 2015–19, black line is baseline for 2020, red line is 2020, blue line is 2021. Countries are sorted by the % increase over the baseline.
 
 Red number: excess mortality starting from the first officially reported Covid-19 death.<br>
 Gray number: excess mortality as a % of the annual baseline deaths.<br>
