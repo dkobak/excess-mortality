@@ -1,6 +1,6 @@
 # Excess mortality during the COVID-19 pandemic
 
-**Preprint:** Karlinsky & Kobak 2021, The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic, https://www.medrxiv.org/content/10.1101/2021.01.27.21250604v2
+**Preprint:** Karlinsky & Kobak 2021, The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic, https://www.medrxiv.org/content/10.1101/2021.01.27.21250604
 
 Analysis code: [`all-countries.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/all-countries.ipynb) (can be [run in Colab](https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb)).
 
@@ -12,6 +12,10 @@ Black number: excess mortality per 100,000 population.<br>
 Blue number: ratio to the daily reported Covid-19 deaths over the same period (sourced from WHO).
 
 <p><a href="img/all-countries.png?raw=true"><img src="img/all-countries.png" width="800" title="Excess mortality all over the world"></a>
+  
+The same data but now represented as the number of deaths per 1000 people per year, and with countries sorted accordingly:
+  
+<p><a href="img/all-countries-per1000.png?raw=true"><img src="img/all-countries-per1000.png" width="800" title="Excess mortality all over the world, per 1000 population"></a>
 
 Top-10 countries in the World Mortality Dataset according to different metrics (only countries with over 500,000 population are shown): 
 
@@ -20,6 +24,10 @@ Top-10 countries in the World Mortality Dataset according to different metrics (
 See full table in CSV: [`excess-mortality.csv`](https://github.com/dkobak/excess-mortality/blob/main/excess-mortality.csv).
 
 Compare with: [FT](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938), [NYT](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html), [The Economist](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker), [WSJ](https://www.wsj.com/articles/the-covid-19-death-toll-is-even-worse-than-it-looks-11610636840). 
+  
+Tracking of excess mortality and official Covid deaths:
+  
+<p><a href="img/tracking.png?raw=true"><img src="img/tracking.png" width="800" title="Excess mortality tracking Covid mortality"></a>
 
 
 ### Extrapolation until today
