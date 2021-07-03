@@ -1,6 +1,7 @@
 Country,Data until,Data type,COVID-19 deaths,Excess deaths,Excess deaths std,t-statistic,Undercount ratio,Excess per 100k,Excess as % of annual baseline
 Albania,"Mar 31, 2021",m,2235,9298,813,11.4,4.16,323.1,42.7
 Andorra,"Dec 31, 2020",m,84,81,26,3.1,0.97,105.4,24.7
+Argentina,"Dec 31, 2020",m,43163,41032,nan,nan,0.95,90.8,12.1
 Armenia,"Apr 30, 2021",m,4128,8340,837,10.0,2.02,281.5,32.9
 Aruba,"Dec 31, 2020",m,49,51,34,1.5,1.04,47.8,7.5
 Australia,"Mar 28, 2021",w,909,-3675,1033,3.6,nan,-14.4,-2.5
@@ -94,7 +95,7 @@ Switzerland,"Jun 06, 2021",w,10257,8627,1082,8.0,0.84,99.7,12.6
 Taiwan,"May 31, 2021",m,137,-6571,5678,1.2,nan,-27.6,-3.7
 Tajikistan,"Dec 31, 2020",q,90,8997,1373,6.6,99.96,94.3,27.5
 Thailand,"Jun 30, 2021",m,2080,14369,12754,1.1,nan,20.6,2.9
-Transnistria,"May 31, 2021",m,907,1569,245,6.4,1.73,337.2,23.1
+Transnistria,"May 31, 2021",m,1195,1569,245,6.4,1.31,337.2,23.1
 Tunisia,"Feb 14, 2021",w,7508,4582,1057,4.3,0.61,38.8,6.3
 Ukraine,"Apr 30, 2021",m,44436,81478,12817,6.4,1.83,195.1,14.1
 United Kingdom,"Jun 13, 2021",w,127896,109104,9185,11.9,0.85,160.7,17.7
