@@ -1,4 +1,4 @@
-# Tracking excess mortality across countries during the COVID-19pandemic with the World Mortality Dataset
+# Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset
 
 ## Ariel Karlinsky & Dmitry Kobak
 
