@@ -11,3 +11,5 @@ The data were frozen on July 3, 2021, and are stored in the `frozen-data` folder
 The Python notebook saves all figures to the `figures` folder and outputs the analysis results as CSV files into the `export` folder. The resulting figures (in PDF and in PNG) as well as the CSV files are provided here directly.
 
 For the up-do-date data and analysis (continuously updated after the paper was accepted), see https://github.com/akarlinsky/world_mortality (data) and https://github.com/dkobak/excess-mortality (analysis).
+
+![excess mortality](cover.png)
