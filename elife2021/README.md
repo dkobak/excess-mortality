@@ -4,9 +4,10 @@
 
 ***eLife* 2021: https://elifesciences.org/articles/69336**
 
-This folder contains the code running the entire analysis for our eLife paper. The analysis was run on July 3, 2021. 
-The frozen data are stored in the `frozen-data` folder. For the exact sources of the data in the World Mortality Dataset see `frozen-data/world-mortality-sources.md`. 
+This folder contains the code running the entire analysis for our eLife paper. 
 
-The Python notebook saves all figures to the `figures` folder and outputs the analysis results as CSV files into the `export` folder. The figures (in PDF and in PNG) and the CSV files are provided here directly.
+The data were frozen on July 3, 2021, and are stored in the `frozen-data` folder. This corresponds to the World Mortality Dataset [commit `0aa90df`](https://github.com/akarlinsky/world_mortality/tree/0aa90dff37a43796ae763fa253e0262d22208ed7). For the exact sources of this frozen snapshot of the World Mortality Dataset see `frozen-data/world-mortality-sources.md`. 
 
-For the up-do-date analysis (updated after the paper was accepted), see https://github.com/dkobak/excess-mortality.
+The Python notebook saves all figures to the `figures` folder and outputs the analysis results as CSV files into the `export` folder. The resulting figures (in PDF and in PNG) as well as the CSV files are provided here directly.
+
+For the up-do-date analysis (continuously updated after the paper was accepted), see https://github.com/dkobak/excess-mortality.
