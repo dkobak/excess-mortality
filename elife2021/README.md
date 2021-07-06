@@ -4,7 +4,7 @@
 
 ***eLife* 2021: https://elifesciences.org/articles/69336**
 
-This folder contains the code running the entire analysis for our eLife paper. 
+This folder contains the data and code reproducing the entire analysis for our eLife paper. 
 
 The data were frozen on July 3, 2021, and are stored in the `frozen-data` folder. This corresponds to the World Mortality Dataset [commit `0aa90df`](https://github.com/akarlinsky/world_mortality/tree/0aa90dff37a43796ae763fa253e0262d22208ed7). For the exact sources of this frozen snapshot of the World Mortality Dataset see `frozen-data/world-mortality-sources.md`. 
 
