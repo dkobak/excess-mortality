@@ -1,6 +1,10 @@
 # Excess mortality during the COVID-19 pandemic
 
-**Preprint:** Karlinsky & Kobak 2021, The World Mortality Dataset: Tracking excess mortality across countries during the COVID-19 pandemic, https://www.medrxiv.org/content/10.1101/2021.01.27.21250604
+**Publication:** Karlinsky & Kobak, eLife 2021, Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset, https://elifesciences.org/articles/69336.
+
+See the `elife2021` folder for reproducible analysis from the paper. The figures shown below are continuously updated after the publication.
+
+-------------------------------
 
 Analysis code: [`all-countries.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/all-countries.ipynb) (can be [run in Colab](https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb)).
 
