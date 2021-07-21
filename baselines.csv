@@ -241,6 +241,18 @@ Belgium, 50, 2215.9
 Belgium, 51, 2250.5
 Belgium, 52, 2235.3
 Belgium, 53, 2235.3
+Bermuda, 1, 53.9
+Bermuda, 2, 46.5
+Bermuda, 3, 47.3
+Bermuda, 4, 45.1
+Bermuda, 5, 45.9
+Bermuda, 6, 48.5
+Bermuda, 7, 45.3
+Bermuda, 8, 44.9
+Bermuda, 9, 40.1
+Bermuda, 10, 44.7
+Bermuda, 11, 42.9
+Bermuda, 12, 45.5
 Bolivia, 1, 4482.0
 Bolivia, 2, 4063.8
 Bolivia, 3, 4400.4
@@ -1038,59 +1050,59 @@ Georgia, 9, 3131.1
 Georgia, 10, 3590.1
 Georgia, 11, 3815.9
 Georgia, 12, 4220.5
-Germany, 1, 19902.9
-Germany, 2, 20161.9
-Germany, 3, 20102.9
-Germany, 4, 20416.2
-Germany, 5, 20925.4
-Germany, 6, 20887.7
-Germany, 7, 21192.2
-Germany, 8, 21544.2
-Germany, 9, 22094.9
-Germany, 10, 21854.7
-Germany, 11, 21003.7
-Germany, 12, 20114.4
-Germany, 13, 19503.7
-Germany, 14, 19044.9
-Germany, 15, 18457.2
-Germany, 16, 17922.9
-Germany, 17, 17968.2
-Germany, 18, 17526.9
-Germany, 19, 17878.7
-Germany, 20, 17420.4
-Germany, 21, 17132.2
-Germany, 22, 17351.7
-Germany, 23, 17012.2
-Germany, 24, 16517.2
-Germany, 25, 17102.4
-Germany, 26, 17115.2
-Germany, 27, 17006.4
-Germany, 28, 16590.7
-Germany, 29, 17332.7
-Germany, 30, 18095.9
-Germany, 31, 17884.2
-Germany, 32, 17121.9
-Germany, 33, 16857.2
-Germany, 34, 17025.2
-Germany, 35, 17000.2
-Germany, 36, 16599.7
-Germany, 37, 16827.9
-Germany, 38, 16865.2
-Germany, 39, 17163.2
-Germany, 40, 17183.9
-Germany, 41, 17938.7
-Germany, 42, 17800.4
-Germany, 43, 17694.7
-Germany, 44, 17730.9
-Germany, 45, 18203.7
-Germany, 46, 18366.9
-Germany, 47, 18526.4
-Germany, 48, 18723.4
-Germany, 49, 19192.9
-Germany, 50, 19157.9
-Germany, 51, 19531.7
-Germany, 52, 19188.2
-Germany, 53, 19188.2
+Germany, 1, 19643.7
+Germany, 2, 19964.9
+Germany, 3, 19961.1
+Germany, 4, 20180.9
+Germany, 5, 20862.3
+Germany, 6, 20869.9
+Germany, 7, 21411.5
+Germany, 8, 21866.9
+Germany, 9, 22374.3
+Germany, 10, 21862.9
+Germany, 11, 20935.7
+Germany, 12, 20072.1
+Germany, 13, 19402.9
+Germany, 14, 18948.3
+Germany, 15, 18362.3
+Germany, 16, 17940.3
+Germany, 17, 17886.9
+Germany, 18, 17423.1
+Germany, 19, 17696.1
+Germany, 20, 17261.5
+Germany, 21, 16950.5
+Germany, 22, 17100.1
+Germany, 23, 16943.9
+Germany, 24, 16446.9
+Germany, 25, 16784.5
+Germany, 26, 16901.3
+Germany, 27, 17434.3
+Germany, 28, 16723.5
+Germany, 29, 17134.3
+Germany, 30, 17709.9
+Germany, 31, 17372.5
+Germany, 32, 17006.5
+Germany, 33, 16840.7
+Germany, 34, 16645.5
+Germany, 35, 16802.3
+Germany, 36, 16389.3
+Germany, 37, 16631.5
+Germany, 38, 16677.7
+Germany, 39, 16842.7
+Germany, 40, 17011.7
+Germany, 41, 17684.9
+Germany, 42, 17588.7
+Germany, 43, 17602.7
+Germany, 44, 17522.5
+Germany, 45, 17946.5
+Germany, 46, 17995.9
+Germany, 47, 18169.7
+Germany, 48, 18317.9
+Germany, 49, 18734.9
+Germany, 50, 18715.9
+Germany, 51, 19085.7
+Germany, 52, 18764.5
+Germany, 53, 18764.5
 Gibraltar, 1, 33.8
 Gibraltar, 2, 29.0
 Gibraltar, 3, 25.2
@@ -3190,59 +3202,59 @@ United Kingdom, 50, 12379.1
 United Kingdom, 51, 13210.9
 United Kingdom, 52, 9284.9
 United Kingdom, 53, 9284.9
-United States, 1, 62093.0
-United States, 2, 63287.4
-United States, 3, 62153.4
-United States, 4, 61035.4
-United States, 5, 60384.2
-United States, 6, 60654.2
-United States, 7, 60141.6
-United States, 8, 59502.6
-United States, 9, 59174.2
-United States, 10, 59510.8
-United States, 11, 58565.6
-United States, 12, 58210.2
-United States, 13, 57315.4
-United States, 14, 57261.0
-United States, 15, 56789.0
-United States, 16, 55943.4
-United States, 17, 55100.0
-United States, 18, 55061.4
-United States, 19, 54471.6
-United States, 20, 53986.4
-United States, 21, 53522.8
-United States, 22, 53327.4
-United States, 23, 53542.8
-United States, 24, 53337.6
-United States, 25, 53101.6
-United States, 26, 52934.6
-United States, 27, 53230.4
-United States, 28, 52779.4
-United States, 29, 52614.2
-United States, 30, 52358.2
-United States, 31, 52495.4
-United States, 32, 52615.8
-United States, 33, 52291.4
-United States, 34, 52227.8
-United States, 35, 52579.8
-United States, 36, 52821.4
-United States, 37, 53060.4
-United States, 38, 53100.4
-United States, 39, 53347.0
-United States, 40, 53886.2
-United States, 41, 54357.8
-United States, 42, 54600.2
-United States, 43, 55012.4
-United States, 44, 55146.8
-United States, 45, 55679.6
-United States, 46, 56130.8
-United States, 47, 56371.8
-United States, 48, 56649.2
-United States, 49, 57641.0
-United States, 50, 58644.0
-United States, 51, 58859.6
-United States, 52, 59657.6
-United States, 53, 59657.6
+United States, 1, 62085.0
+United States, 2, 63285.3
+United States, 3, 62160.3
+United States, 4, 61037.5
+United States, 5, 60384.3
+United States, 6, 60660.7
+United States, 7, 60137.7
+United States, 8, 59497.7
+United States, 9, 59176.9
+United States, 10, 59510.3
+United States, 11, 58565.5
+United States, 12, 58213.7
+United States, 13, 57312.9
+United States, 14, 57257.9
+United States, 15, 56790.1
+United States, 16, 55944.1
+United States, 17, 55101.7
+United States, 18, 55063.7
+United States, 19, 54471.7
+United States, 20, 53984.5
+United States, 21, 53524.9
+United States, 22, 53325.3
+United States, 23, 53542.7
+United States, 24, 53335.9
+United States, 25, 53102.1
+United States, 26, 52936.3
+United States, 27, 53225.9
+United States, 28, 52779.1
+United States, 29, 52621.1
+United States, 30, 52356.5
+United States, 31, 52495.5
+United States, 32, 52612.7
+United States, 33, 52293.5
+United States, 34, 52228.3
+United States, 35, 52580.7
+United States, 36, 52824.7
+United States, 37, 53061.3
+United States, 38, 53098.7
+United States, 39, 53344.9
+United States, 40, 53886.1
+United States, 41, 54359.3
+United States, 42, 54600.5
+United States, 43, 55010.5
+United States, 44, 55147.5
+United States, 45, 55679.7
+United States, 46, 56137.1
+United States, 47, 56369.9
+United States, 48, 56645.1
+United States, 49, 57640.5
+United States, 50, 58645.9
+United States, 51, 58855.9
+United States, 52, 59659.7
+United States, 53, 59659.7
 Uruguay, 1, 2668.4
 Uruguay, 2, 2375.6
 Uruguay, 3, 2651.4
