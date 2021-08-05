@@ -2,7 +2,7 @@
 
 **Publication:** Karlinsky & Kobak, 2021, Tracking excess mortality across countries during the COVID-19 pandemic with the World Mortality Dataset. *eLife* 10:e69336. https://elifesciences.org/articles/69336.
 
-See the `elife2021` folder for reproducible analysis from the paper. The figures shown below are being continuously updated after the publication.
+See the [`elife2021`](https://github.com/dkobak/excess-mortality/blob/main/elife2021/) folder for reproducible analysis from the paper. The figures shown below are being continuously updated after the publication.
 
 -------------------------------
 
