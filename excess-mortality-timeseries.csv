@@ -319,6 +319,7 @@ Belgium,2021,25,weekly,-149.5
 Belgium,2021,26,weekly,15.1
 Belgium,2021,27,weekly,-220.1
 Belgium,2021,28,weekly,-37.7
+Belgium,2021,29,weekly,40.3
 Bermuda,2020,1,monthly,-14.9
 Bermuda,2020,2,monthly,3.5
 Bermuda,2020,3,monthly,10.7
@@ -1029,6 +1030,7 @@ Denmark,2021,26,weekly,100.2
 Denmark,2021,27,weekly,-24.6
 Denmark,2021,28,weekly,94.2
 Denmark,2021,29,weekly,37.0
+Denmark,2021,30,weekly,26.8
 Ecuador,2020,1,weekly,-140.3
 Ecuador,2020,2,weekly,57.9
 Ecuador,2020,3,weekly,17.9
@@ -1913,6 +1915,7 @@ Hungary,2021,23,weekly,7.1
 Hungary,2021,24,weekly,-82.7
 Hungary,2021,25,weekly,147.3
 Hungary,2021,26,weekly,-137.1
+Hungary,2021,27,weekly,-151.7
 Iceland,2020,1,weekly,10.5
 Iceland,2020,2,weekly,6.5
 Iceland,2020,3,weekly,6.9
@@ -3991,6 +3994,10 @@ Slovenia,2021,21,weekly,21.7
 Slovenia,2021,22,weekly,42.7
 Slovenia,2021,23,weekly,16.9
 Slovenia,2021,24,weekly,25.7
+Slovenia,2021,25,weekly,15.9
+Slovenia,2021,26,weekly,40.1
+Slovenia,2021,27,weekly,-33.9
+Slovenia,2021,28,weekly,-34.7
 South Africa,2020,1,weekly,214.0
 South Africa,2020,2,weekly,359.0
 South Africa,2020,3,weekly,126.0
@@ -4691,6 +4698,12 @@ Uruguay,2020,9,monthly,-278.8
 Uruguay,2020,10,monthly,-173.4
 Uruguay,2020,11,monthly,-83.0
 Uruguay,2020,12,monthly,162.6
+Uruguay,2021,1,monthly,471.6
+Uruguay,2021,2,monthly,-498.6
+Uruguay,2021,3,monthly,463.6
+Uruguay,2021,4,monthly,1883.8
+Uruguay,2021,5,monthly,1825.8
+Uruguay,2021,6,monthly,1120.0
 Uzbekistan,2020,1,monthly,827.4
 Uzbekistan,2020,2,monthly,196.8
 Uzbekistan,2020,3,monthly,-958.2
