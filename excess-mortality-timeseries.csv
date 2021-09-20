@@ -432,9 +432,9 @@ Brazil,2021,1,monthly,35711.2
 Brazil,2021,2,monthly,34024.4
 Brazil,2021,3,monthly,92103.4
 Brazil,2021,4,monthly,91627.4
-Brazil,2021,5,monthly,58614.8
-Brazil,2021,6,monthly,58647.4
-Brazil,2021,7,monthly,37606.8
+Brazil,2021,5,monthly,58612.8
+Brazil,2021,6,monthly,58656.4
+Brazil,2021,7,monthly,37617.8
 Bulgaria,2020,1,weekly,-453.7
 Bulgaria,2020,2,weekly,-275.5
 Bulgaria,2020,3,weekly,-323.7
@@ -3078,7 +3078,7 @@ Mayotte,2020,31,weekly,3.6
 Mayotte,2020,32,weekly,1.4
 Mayotte,2020,33,weekly,3.8
 Mayotte,2020,34,weekly,5.0
-Mayotte,2020,35,weekly,-0.0
+Mayotte,2020,35,weekly,0.0
 Mayotte,2020,36,weekly,-3.6
 Mayotte,2020,37,weekly,-3.4
 Mayotte,2020,38,weekly,3.8
@@ -3096,7 +3096,7 @@ Mayotte,2020,49,weekly,7.2
 Mayotte,2020,50,weekly,5.0
 Mayotte,2020,51,weekly,0.2
 Mayotte,2020,52,weekly,8.0
-Mayotte,2020,53,weekly,-0.0
+Mayotte,2020,53,weekly,0.0
 Mayotte,2021,1,weekly,12.2
 Mayotte,2021,2,weekly,3.2
 Mayotte,2021,3,weekly,5.2
@@ -3647,8 +3647,9 @@ Oman,2021,2,monthly,-5.4
 Oman,2021,3,monthly,57.2
 Oman,2021,4,monthly,359.0
 Oman,2021,5,monthly,475.6
-Oman,2021,6,monthly,998.6
-Oman,2021,7,monthly,1024.2
+Oman,2021,6,monthly,1002.6
+Oman,2021,7,monthly,1042.2
+Oman,2021,8,monthly,250.6
 Panama,2020,1,monthly,238.8
 Panama,2020,2,monthly,-47.4
 Panama,2020,3,monthly,-420.2
@@ -3672,18 +3673,18 @@ Paraguay,2020,4,monthly,-99.9
 Paraguay,2020,5,monthly,-286.9
 Paraguay,2020,6,monthly,-412.5
 Paraguay,2020,7,monthly,-289.1
-Paraguay,2020,8,monthly,366.5
+Paraguay,2020,8,monthly,367.5
 Paraguay,2020,9,monthly,586.9
-Paraguay,2020,10,monthly,649.9
+Paraguay,2020,10,monthly,652.9
 Paraguay,2020,11,monthly,506.3
 Paraguay,2020,12,monthly,700.5
 Paraguay,2021,1,monthly,241.9
 Paraguay,2021,2,monthly,555.9
 Paraguay,2021,3,monthly,1699.9
-Paraguay,2021,4,monthly,3296.1
-Paraguay,2021,5,monthly,4147.1
-Paraguay,2021,6,monthly,3499.5
-Paraguay,2021,7,monthly,1229.9
+Paraguay,2021,4,monthly,3297.1
+Paraguay,2021,5,monthly,4148.1
+Paraguay,2021,6,monthly,3501.5
+Paraguay,2021,7,monthly,1236.9
 Peru,2020,1,weekly,165.1
 Peru,2020,2,weekly,197.1
 Peru,2020,3,weekly,92.8
@@ -5060,6 +5061,7 @@ Ukraine,2021,3,monthly,13435.6
 Ukraine,2021,4,monthly,20100.2
 Ukraine,2021,5,monthly,6780.4
 Ukraine,2021,6,monthly,4702.4
+Ukraine,2021,7,monthly,1509.8
 United Kingdom,2020,1,weekly,71.9
 United Kingdom,2020,2,weekly,171.3
 United Kingdom,2020,3,weekly,-325.7
