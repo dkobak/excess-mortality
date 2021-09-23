@@ -433,8 +433,9 @@ Brazil,2021,2,monthly,34021.4
 Brazil,2021,3,monthly,92095.4
 Brazil,2021,4,monthly,91626.4
 Brazil,2021,5,monthly,58609.8
-Brazil,2021,6,monthly,58647.4
-Brazil,2021,7,monthly,37635.8
+Brazil,2021,6,monthly,58646.4
+Brazil,2021,7,monthly,37658.8
+Brazil,2021,8,monthly,29787.0
 Bulgaria,2020,1,weekly,-453.7
 Bulgaria,2020,2,weekly,-275.5
 Bulgaria,2020,3,weekly,-323.7
@@ -522,7 +523,8 @@ Bulgaria,2021,31,weekly,238.3
 Bulgaria,2021,32,weekly,254.3
 Bulgaria,2021,33,weekly,179.7
 Bulgaria,2021,34,weekly,459.9
-Bulgaria,2021,35,weekly,584.9
+Bulgaria,2021,35,weekly,595.9
+Bulgaria,2021,36,weekly,777.9
 Canada,2020,1,weekly,-192.1
 Canada,2020,2,weekly,-214.1
 Canada,2020,3,weekly,-257.1
@@ -1039,6 +1041,8 @@ Czechia,2021,27,weekly,-124.6
 Czechia,2021,28,weekly,-25.8
 Czechia,2021,29,weekly,-124.6
 Czechia,2021,30,weekly,-154.8
+Czechia,2021,31,weekly,-217.6
+Czechia,2021,32,weekly,-83.6
 Denmark,2020,1,weekly,-34.4
 Denmark,2020,2,weekly,5.0
 Denmark,2020,3,weekly,-61.4
@@ -1330,7 +1334,8 @@ Estonia,2021,32,weekly,16.3
 Estonia,2021,33,weekly,2.3
 Estonia,2021,34,weekly,20.3
 Estonia,2021,35,weekly,39.3
-Estonia,2021,36,weekly,67.7
+Estonia,2021,36,weekly,70.7
+Estonia,2021,37,weekly,-8.1
 Faroe Islands,2020,1,monthly,-12.0
 Faroe Islands,2020,2,monthly,-10.4
 Faroe Islands,2020,3,monthly,-11.4
@@ -1730,7 +1735,8 @@ Germany,2021,31,weekly,-476.5
 Germany,2021,32,weekly,459.5
 Germany,2021,33,weekly,673.3
 Germany,2021,34,weekly,713.5
-Germany,2021,35,weekly,743.7
+Germany,2021,35,weekly,427.7
+Germany,2021,36,weekly,2387.7
 Gibraltar,2020,1,monthly,0.2
 Gibraltar,2020,2,monthly,-2.0
 Gibraltar,2020,3,monthly,-1.2
@@ -2610,6 +2616,7 @@ Latvia,2021,31,weekly,62.0
 Latvia,2021,32,weekly,21.2
 Latvia,2021,33,weekly,60.2
 Latvia,2021,34,weekly,8.6
+Latvia,2021,35,weekly,53.4
 Lebanon,2020,1,monthly,-78.3
 Lebanon,2020,2,monthly,203.5
 Lebanon,2020,3,monthly,-214.5
@@ -3083,7 +3090,7 @@ Mayotte,2020,31,weekly,3.6
 Mayotte,2020,32,weekly,1.4
 Mayotte,2020,33,weekly,3.8
 Mayotte,2020,34,weekly,5.0
-Mayotte,2020,35,weekly,0.0
+Mayotte,2020,35,weekly,-0.0
 Mayotte,2020,36,weekly,-3.6
 Mayotte,2020,37,weekly,-3.4
 Mayotte,2020,38,weekly,3.8
@@ -3101,7 +3108,7 @@ Mayotte,2020,49,weekly,7.2
 Mayotte,2020,50,weekly,5.0
 Mayotte,2020,51,weekly,0.2
 Mayotte,2020,52,weekly,8.0
-Mayotte,2020,53,weekly,0.0
+Mayotte,2020,53,weekly,-0.0
 Mayotte,2021,1,weekly,12.2
 Mayotte,2021,2,weekly,3.2
 Mayotte,2021,3,weekly,5.2
@@ -3222,7 +3229,9 @@ Mexico,2021,29,weekly,2762.2
 Mexico,2021,30,weekly,4519.0
 Mexico,2021,31,weekly,6290.6
 Mexico,2021,32,weekly,7522.8
-Mexico,2021,33,weekly,7334.4
+Mexico,2021,33,weekly,9982.4
+Mexico,2021,34,weekly,8749.8
+Mexico,2021,35,weekly,6565.8
 Moldova,2020,1,monthly,-316.5
 Moldova,2020,2,monthly,-33.3
 Moldova,2020,3,monthly,-491.3
@@ -3634,7 +3643,8 @@ Norway,2021,31,weekly,57.6
 Norway,2021,32,weekly,35.8
 Norway,2021,33,weekly,33.8
 Norway,2021,34,weekly,-7.2
-Norway,2021,35,weekly,-26.4
+Norway,2021,35,weekly,18.6
+Norway,2021,36,weekly,-20.8
 Oman,2020,1,monthly,-47.2
 Oman,2020,2,monthly,-50.4
 Oman,2020,3,monthly,-4.8
@@ -3683,13 +3693,13 @@ Paraguay,2020,9,monthly,586.9
 Paraguay,2020,10,monthly,652.9
 Paraguay,2020,11,monthly,506.3
 Paraguay,2020,12,monthly,700.5
-Paraguay,2021,1,monthly,241.9
+Paraguay,2021,1,monthly,242.9
 Paraguay,2021,2,monthly,555.9
 Paraguay,2021,3,monthly,1699.9
-Paraguay,2021,4,monthly,3297.1
-Paraguay,2021,5,monthly,4148.1
-Paraguay,2021,6,monthly,3501.5
-Paraguay,2021,7,monthly,1236.9
+Paraguay,2021,4,monthly,3305.1
+Paraguay,2021,5,monthly,4151.1
+Paraguay,2021,6,monthly,3504.5
+Paraguay,2021,7,monthly,1284.9
 Peru,2020,1,weekly,165.1
 Peru,2020,2,weekly,197.1
 Peru,2020,3,weekly,92.8
@@ -3742,43 +3752,44 @@ Peru,2020,49,weekly,406.4
 Peru,2020,50,weekly,544.4
 Peru,2020,51,weekly,745.4
 Peru,2020,52,weekly,789.1
-Peru,2020,53,weekly,1036.1
-Peru,2021,1,weekly,1742.1
-Peru,2021,2,weekly,2405.1
-Peru,2021,3,weekly,3467.8
-Peru,2021,4,weekly,4457.8
+Peru,2020,53,weekly,1038.1
+Peru,2021,1,weekly,1740.1
+Peru,2021,2,weekly,2408.1
+Peru,2021,3,weekly,3466.8
+Peru,2021,4,weekly,4454.8
 Peru,2021,5,weekly,4675.1
-Peru,2021,6,weekly,5417.4
-Peru,2021,7,weekly,5410.4
-Peru,2021,8,weekly,5020.1
+Peru,2021,6,weekly,5413.4
+Peru,2021,7,weekly,5408.4
+Peru,2021,8,weekly,5024.1
 Peru,2021,9,weekly,5071.4
-Peru,2021,10,weekly,5064.8
-Peru,2021,11,weekly,5071.4
-Peru,2021,12,weekly,5267.1
-Peru,2021,13,weekly,5637.1
-Peru,2021,14,weekly,6195.1
-Peru,2021,15,weekly,6226.8
-Peru,2021,16,weekly,5967.1
-Peru,2021,17,weekly,5491.4
-Peru,2021,18,weekly,4881.4
-Peru,2021,19,weekly,4314.1
-Peru,2021,20,weekly,3764.1
-Peru,2021,21,weekly,3289.1
+Peru,2021,10,weekly,5063.8
+Peru,2021,11,weekly,5070.4
+Peru,2021,12,weekly,5269.1
+Peru,2021,13,weekly,5632.1
+Peru,2021,14,weekly,6198.1
+Peru,2021,15,weekly,6227.8
+Peru,2021,16,weekly,5970.1
+Peru,2021,17,weekly,5490.4
+Peru,2021,18,weekly,4882.4
+Peru,2021,19,weekly,4316.1
+Peru,2021,20,weekly,3763.1
+Peru,2021,21,weekly,3288.1
 Peru,2021,22,weekly,2932.1
-Peru,2021,23,weekly,2285.1
-Peru,2021,24,weekly,1879.1
-Peru,2021,25,weekly,1494.8
-Peru,2021,26,weekly,1308.8
-Peru,2021,27,weekly,1050.1
+Peru,2021,23,weekly,2286.1
+Peru,2021,24,weekly,1876.1
+Peru,2021,25,weekly,1493.8
+Peru,2021,26,weekly,1312.8
+Peru,2021,27,weekly,1054.1
 Peru,2021,28,weekly,885.4
-Peru,2021,29,weekly,744.4
-Peru,2021,30,weekly,636.8
-Peru,2021,31,weekly,540.4
-Peru,2021,32,weekly,537.8
-Peru,2021,33,weekly,457.1
-Peru,2021,34,weekly,624.1
-Peru,2021,35,weekly,412.8
-Peru,2021,36,weekly,325.1
+Peru,2021,29,weekly,745.4
+Peru,2021,30,weekly,639.8
+Peru,2021,31,weekly,544.4
+Peru,2021,32,weekly,538.8
+Peru,2021,33,weekly,463.1
+Peru,2021,34,weekly,629.1
+Peru,2021,35,weekly,418.8
+Peru,2021,36,weekly,344.1
+Peru,2021,37,weekly,227.1
 Philippines,2020,1,monthly,-1693.0
 Philippines,2020,2,monthly,-2393.6
 Philippines,2020,3,monthly,-5111.8
@@ -3975,27 +3986,27 @@ Portugal,2021,34,weekly,100.6
 Portugal,2021,35,weekly,186.0
 Puerto Rico,2020,1,weekly,-122.3
 Puerto Rico,2020,2,weekly,-51.5
-Puerto Rico,2020,3,weekly,11.9
+Puerto Rico,2020,3,weekly,15.9
 Puerto Rico,2020,4,weekly,-7.1
 Puerto Rico,2020,5,weekly,-58.1
-Puerto Rico,2020,6,weekly,-24.7
+Puerto Rico,2020,6,weekly,-22.7
 Puerto Rico,2020,7,weekly,5.5
 Puerto Rico,2020,8,weekly,11.1
 Puerto Rico,2020,9,weekly,22.9
-Puerto Rico,2020,10,weekly,40.7
-Puerto Rico,2020,11,weekly,25.1
+Puerto Rico,2020,10,weekly,40.9
+Puerto Rico,2020,11,weekly,24.9
 Puerto Rico,2020,12,weekly,43.9
 Puerto Rico,2020,13,weekly,93.3
-Puerto Rico,2020,14,weekly,18.5
+Puerto Rico,2020,14,weekly,22.5
 Puerto Rico,2020,15,weekly,42.1
 Puerto Rico,2020,16,weekly,28.7
-Puerto Rico,2020,17,weekly,1.5
+Puerto Rico,2020,17,weekly,3.5
 Puerto Rico,2020,18,weekly,0.9
 Puerto Rico,2020,19,weekly,19.1
 Puerto Rico,2020,20,weekly,-18.7
-Puerto Rico,2020,21,weekly,-15.1
-Puerto Rico,2020,22,weekly,24.1
-Puerto Rico,2020,23,weekly,42.3
+Puerto Rico,2020,21,weekly,-11.1
+Puerto Rico,2020,22,weekly,26.1
+Puerto Rico,2020,23,weekly,44.3
 Puerto Rico,2020,24,weekly,-10.3
 Puerto Rico,2020,25,weekly,40.7
 Puerto Rico,2020,26,weekly,-10.5
@@ -4007,23 +4018,23 @@ Puerto Rico,2020,31,weekly,99.1
 Puerto Rico,2020,32,weekly,108.7
 Puerto Rico,2020,33,weekly,114.9
 Puerto Rico,2020,34,weekly,153.1
-Puerto Rico,2020,35,weekly,72.3
-Puerto Rico,2020,36,weekly,75.5
+Puerto Rico,2020,35,weekly,73.3
+Puerto Rico,2020,36,weekly,77.5
 Puerto Rico,2020,37,weekly,63.3
-Puerto Rico,2020,38,weekly,45.3
-Puerto Rico,2020,39,weekly,-11.1
+Puerto Rico,2020,38,weekly,48.3
+Puerto Rico,2020,39,weekly,-7.1
 Puerto Rico,2020,40,weekly,-0.3
-Puerto Rico,2020,41,weekly,84.1
+Puerto Rico,2020,41,weekly,86.1
 Puerto Rico,2020,42,weekly,36.3
 Puerto Rico,2020,43,weekly,34.5
 Puerto Rico,2020,44,weekly,63.7
 Puerto Rico,2020,45,weekly,56.7
-Puerto Rico,2020,46,weekly,53.7
+Puerto Rico,2020,46,weekly,55.7
 Puerto Rico,2020,47,weekly,70.7
-Puerto Rico,2020,48,weekly,81.7
-Puerto Rico,2020,49,weekly,78.3
-Puerto Rico,2020,50,weekly,73.5
-Puerto Rico,2020,51,weekly,87.9
+Puerto Rico,2020,48,weekly,83.7
+Puerto Rico,2020,49,weekly,80.3
+Puerto Rico,2020,50,weekly,74.5
+Puerto Rico,2020,51,weekly,89.9
 Puerto Rico,2020,52,weekly,64.7
 Puerto Rico,2020,53,weekly,65.7
 Puerto Rico,2021,1,weekly,40.7
@@ -4035,26 +4046,26 @@ Puerto Rico,2021,6,weekly,11.3
 Puerto Rico,2021,7,weekly,29.5
 Puerto Rico,2021,8,weekly,20.1
 Puerto Rico,2021,9,weekly,29.9
-Puerto Rico,2021,10,weekly,24.7
-Puerto Rico,2021,11,weekly,33.1
+Puerto Rico,2021,10,weekly,24.9
+Puerto Rico,2021,11,weekly,32.9
 Puerto Rico,2021,12,weekly,60.9
 Puerto Rico,2021,13,weekly,48.3
 Puerto Rico,2021,14,weekly,15.5
 Puerto Rico,2021,15,weekly,90.1
 Puerto Rico,2021,16,weekly,155.7
 Puerto Rico,2021,17,weekly,75.5
-Puerto Rico,2021,18,weekly,112.9
+Puerto Rico,2021,18,weekly,115.9
 Puerto Rico,2021,19,weekly,114.1
-Puerto Rico,2021,20,weekly,68.3
+Puerto Rico,2021,20,weekly,67.3
 Puerto Rico,2021,21,weekly,34.9
-Puerto Rico,2021,22,weekly,75.1
-Puerto Rico,2021,23,weekly,34.3
-Puerto Rico,2021,24,weekly,38.7
-Puerto Rico,2021,25,weekly,82.7
+Puerto Rico,2021,22,weekly,70.1
+Puerto Rico,2021,23,weekly,31.3
+Puerto Rico,2021,24,weekly,34.7
+Puerto Rico,2021,25,weekly,81.7
 Puerto Rico,2021,26,weekly,85.5
 Puerto Rico,2021,27,weekly,20.7
-Puerto Rico,2021,28,weekly,-24.5
-Puerto Rico,2021,29,weekly,-60.3
+Puerto Rico,2021,28,weekly,-25.5
+Puerto Rico,2021,29,weekly,-67.3
 Qatar,2020,1,monthly,-0.7
 Qatar,2020,2,monthly,14.5
 Qatar,2020,3,monthly,33.3
@@ -4282,6 +4293,7 @@ San Marino,2021,4,monthly,4.8
 San Marino,2021,5,monthly,0.2
 San Marino,2021,6,monthly,-2.0
 San Marino,2021,7,monthly,4.4
+San Marino,2021,8,monthly,1.0
 Serbia,2020,1,monthly,-504.7
 Serbia,2020,2,monthly,78.1
 Serbia,2020,3,monthly,-93.5
@@ -4515,7 +4527,7 @@ South Africa,2020,4,weekly,-153.0
 South Africa,2020,5,weekly,350.0
 South Africa,2020,6,weekly,867.0
 South Africa,2020,7,weekly,318.0
-South Africa,2020,8,weekly,467.0
+South Africa,2020,8,weekly,468.0
 South Africa,2020,9,weekly,-188.0
 South Africa,2020,10,weekly,581.0
 South Africa,2020,11,weekly,399.0
@@ -4530,73 +4542,74 @@ South Africa,2020,19,weekly,-940.0
 South Africa,2020,20,weekly,-840.0
 South Africa,2020,21,weekly,-426.0
 South Africa,2020,22,weekly,-591.0
-South Africa,2020,23,weekly,-516.0
+South Africa,2020,23,weekly,-515.0
 South Africa,2020,24,weekly,-113.0
-South Africa,2020,25,weekly,1426.0
+South Africa,2020,25,weekly,1427.0
 South Africa,2020,26,weekly,1961.0
-South Africa,2020,27,weekly,2744.0
+South Africa,2020,27,weekly,2745.0
 South Africa,2020,28,weekly,4323.0
 South Africa,2020,29,weekly,6086.0
-South Africa,2020,30,weekly,6332.0
+South Africa,2020,30,weekly,6333.0
 South Africa,2020,31,weekly,4975.0
 South Africa,2020,32,weekly,3602.0
 South Africa,2020,33,weekly,2468.0
 South Africa,2020,34,weekly,2287.0
 South Africa,2020,35,weekly,1466.0
 South Africa,2020,36,weekly,977.0
-South Africa,2020,37,weekly,582.0
-South Africa,2020,38,weekly,263.0
+South Africa,2020,37,weekly,583.0
+South Africa,2020,38,weekly,264.0
 South Africa,2020,39,weekly,613.0
 South Africa,2020,40,weekly,-169.0
 South Africa,2020,41,weekly,901.0
 South Africa,2020,42,weekly,1266.0
-South Africa,2020,43,weekly,1169.0
+South Africa,2020,43,weekly,1170.0
 South Africa,2020,44,weekly,731.0
-South Africa,2020,45,weekly,1049.0
+South Africa,2020,45,weekly,1051.0
 South Africa,2020,46,weekly,1705.0
 South Africa,2020,47,weekly,1699.0
 South Africa,2020,48,weekly,1008.0
 South Africa,2020,49,weekly,2132.0
-South Africa,2020,50,weekly,3514.0
-South Africa,2020,51,weekly,4446.0
-South Africa,2020,52,weekly,7561.0
-South Africa,2020,53,weekly,10267.0
+South Africa,2020,50,weekly,3516.0
+South Africa,2020,51,weekly,4450.0
+South Africa,2020,52,weekly,7562.0
+South Africa,2020,53,weekly,10270.0
 South Africa,2021,1,weekly,13387.0
-South Africa,2021,2,weekly,15788.0
-South Africa,2021,3,weekly,12824.0
-South Africa,2021,4,weekly,7028.0
-South Africa,2021,5,weekly,4752.0
-South Africa,2021,6,weekly,2945.0
-South Africa,2021,7,weekly,2469.0
-South Africa,2021,8,weekly,1864.0
+South Africa,2021,2,weekly,15791.0
+South Africa,2021,3,weekly,12826.0
+South Africa,2021,4,weekly,7030.0
+South Africa,2021,5,weekly,4751.0
+South Africa,2021,6,weekly,2948.0
+South Africa,2021,7,weekly,2471.0
+South Africa,2021,8,weekly,1867.0
 South Africa,2021,9,weekly,1759.0
 South Africa,2021,10,weekly,1657.0
-South Africa,2021,11,weekly,1155.0
-South Africa,2021,12,weekly,1277.0
-South Africa,2021,13,weekly,1362.0
-South Africa,2021,14,weekly,1354.0
+South Africa,2021,11,weekly,1158.0
+South Africa,2021,12,weekly,1278.0
+South Africa,2021,13,weekly,1363.0
+South Africa,2021,14,weekly,1355.0
 South Africa,2021,15,weekly,1587.0
-South Africa,2021,16,weekly,1408.0
+South Africa,2021,16,weekly,1410.0
 South Africa,2021,17,weekly,1483.0
 South Africa,2021,18,weekly,1468.0
-South Africa,2021,19,weekly,1817.0
-South Africa,2021,20,weekly,1853.0
+South Africa,2021,19,weekly,1818.0
+South Africa,2021,20,weekly,1855.0
 South Africa,2021,21,weekly,2561.0
-South Africa,2021,22,weekly,3125.0
-South Africa,2021,23,weekly,3287.0
-South Africa,2021,24,weekly,2788.0
-South Africa,2021,25,weekly,4719.0
-South Africa,2021,26,weekly,6279.0
-South Africa,2021,27,weekly,7599.0
-South Africa,2021,28,weekly,10361.0
-South Africa,2021,29,weekly,9707.0
-South Africa,2021,30,weekly,8778.0
-South Africa,2021,31,weekly,6685.0
-South Africa,2021,32,weekly,4957.0
-South Africa,2021,33,weekly,5389.0
-South Africa,2021,34,weekly,4643.0
-South Africa,2021,35,weekly,4239.0
-South Africa,2021,36,weekly,3383.0
+South Africa,2021,22,weekly,3129.0
+South Africa,2021,23,weekly,3291.0
+South Africa,2021,24,weekly,2796.0
+South Africa,2021,25,weekly,4725.0
+South Africa,2021,26,weekly,6284.0
+South Africa,2021,27,weekly,7606.0
+South Africa,2021,28,weekly,10369.0
+South Africa,2021,29,weekly,9715.0
+South Africa,2021,30,weekly,8789.0
+South Africa,2021,31,weekly,6708.0
+South Africa,2021,32,weekly,4976.0
+South Africa,2021,33,weekly,5428.0
+South Africa,2021,34,weekly,4689.0
+South Africa,2021,35,weekly,4455.0
+South Africa,2021,36,weekly,2937.0
+South Africa,2021,37,weekly,2674.0
 South Korea,2020,1,weekly,24.4
 South Korea,2020,2,weekly,-129.2
 South Korea,2020,3,weekly,-6.0
@@ -4931,6 +4944,7 @@ Switzerland,2021,30,weekly,-88.0
 Switzerland,2021,31,weekly,-82.6
 Switzerland,2021,32,weekly,56.8
 Switzerland,2021,33,weekly,-16.0
+Switzerland,2021,34,weekly,-97.8
 Taiwan,2020,1,monthly,-922.4
 Taiwan,2020,2,monthly,1525.0
 Taiwan,2020,3,monthly,-1502.8
@@ -5158,92 +5172,93 @@ United Kingdom,2021,31,weekly,1231.3
 United Kingdom,2021,32,weekly,1376.5
 United Kingdom,2021,33,weekly,1118.1
 United Kingdom,2021,34,weekly,1169.1
-United States,2020,1,weekly,-1892.7
-United States,2020,2,weekly,-2546.3
-United States,2020,3,weekly,-2782.5
-United States,2020,4,weekly,-1876.7
-United States,2020,5,weekly,-1549.1
-United States,2020,6,weekly,-1176.5
-United States,2020,7,weekly,-1315.5
-United States,2020,8,weekly,-588.1
-United States,2020,9,weekly,168.7
-United States,2020,10,weekly,206.7
-United States,2020,11,weekly,130.9
-United States,2020,12,weekly,1008.7
-United States,2020,13,weekly,5708.3
-United States,2020,14,weekly,15032.7
-United States,2020,15,weekly,22306.1
-United States,2020,16,weekly,20887.1
-United States,2020,17,weekly,18829.1
-United States,2020,18,weekly,14239.7
-United States,2020,19,weekly,12342.7
-United States,2020,20,weekly,10504.5
-United States,2020,21,weekly,8121.5
-United States,2020,22,weekly,6354.5
-United States,2020,23,weekly,5366.3
-United States,2020,24,weekly,4693.9
-United States,2020,25,weekly,4899.1
-United States,2020,26,weekly,5587.5
-United States,2020,27,weekly,6595.1
-United States,2020,28,weekly,9168.1
-United States,2020,29,weekly,10579.7
-United States,2020,30,weekly,11905.3
-United States,2020,31,weekly,11737.3
-United States,2020,32,weekly,11125.7
-United States,2020,33,weekly,11353.1
-United States,2020,34,weekly,10336.3
-United States,2020,35,weekly,8521.9
-United States,2020,36,weekly,7438.7
-United States,2020,37,weekly,6606.1
-United States,2020,38,weekly,6650.7
-United States,2020,39,weekly,7265.7
-United States,2020,40,weekly,5913.1
-United States,2020,41,weekly,7442.9
-United States,2020,42,weekly,6063.1
-United States,2020,43,weekly,7180.9
-United States,2020,44,weekly,8274.9
-United States,2020,45,weekly,11908.7
-United States,2020,46,weekly,12689.1
-United States,2020,47,weekly,15331.9
-United States,2020,48,weekly,16656.5
-United States,2020,49,weekly,19785.7
-United States,2020,50,weekly,23383.3
-United States,2020,51,weekly,24082.5
-United States,2020,52,weekly,24731.1
-United States,2020,53,weekly,27347.1
-United States,2021,1,weekly,24912.3
-United States,2021,2,weekly,24015.7
-United States,2021,3,weekly,21404.5
-United States,2021,4,weekly,18018.3
-United States,2021,5,weekly,16013.9
-United States,2021,6,weekly,10769.5
-United States,2021,7,weekly,9275.5
-United States,2021,8,weekly,7129.9
-United States,2021,9,weekly,4400.7
-United States,2021,10,weekly,2204.7
-United States,2021,11,weekly,1648.9
-United States,2021,12,weekly,2768.7
-United States,2021,13,weekly,1240.3
-United States,2021,14,weekly,2974.7
-United States,2021,15,weekly,1719.1
-United States,2021,16,weekly,3657.1
-United States,2021,17,weekly,3915.1
-United States,2021,18,weekly,2639.7
-United States,2021,19,weekly,2779.7
-United States,2021,20,weekly,3574.5
-United States,2021,21,weekly,2526.5
-United States,2021,22,weekly,2931.5
-United States,2021,23,weekly,2495.3
-United States,2021,24,weekly,2720.9
-United States,2021,25,weekly,2696.1
-United States,2021,26,weekly,3362.5
-United States,2021,27,weekly,2713.1
-United States,2021,28,weekly,3152.1
-United States,2021,29,weekly,4657.7
-United States,2021,30,weekly,6709.3
-United States,2021,31,weekly,9183.3
-United States,2021,32,weekly,11641.7
-United States,2021,33,weekly,13338.1
+United States,2020,1,weekly,-1914.8
+United States,2020,2,weekly,-2541.2
+United States,2020,3,weekly,-2783.8
+United States,2020,4,weekly,-1875.6
+United States,2020,5,weekly,-1553.0
+United States,2020,6,weekly,-1174.0
+United States,2020,7,weekly,-1315.6
+United States,2020,8,weekly,-590.0
+United States,2020,9,weekly,168.8
+United States,2020,10,weekly,187.4
+United States,2020,11,weekly,108.6
+United States,2020,12,weekly,1025.2
+United States,2020,13,weekly,5711.8
+United States,2020,14,weekly,15036.2
+United States,2020,15,weekly,22324.0
+United States,2020,16,weekly,20867.0
+United States,2020,17,weekly,18811.6
+United States,2020,18,weekly,14250.6
+United States,2020,19,weekly,12338.2
+United States,2020,20,weekly,10494.8
+United States,2020,21,weekly,8123.6
+United States,2020,22,weekly,6353.0
+United States,2020,23,weekly,5365.2
+United States,2020,24,weekly,4698.4
+United States,2020,25,weekly,4898.2
+United States,2020,26,weekly,5584.8
+United States,2020,27,weekly,6594.8
+United States,2020,28,weekly,9165.6
+United States,2020,29,weekly,10577.6
+United States,2020,30,weekly,11909.8
+United States,2020,31,weekly,11737.0
+United States,2020,32,weekly,11104.6
+United States,2020,33,weekly,11352.6
+United States,2020,34,weekly,10357.6
+United States,2020,35,weekly,8543.8
+United States,2020,36,weekly,7437.8
+United States,2020,37,weekly,6606.0
+United States,2020,38,weekly,6639.8
+United States,2020,39,weekly,7265.2
+United States,2020,40,weekly,5912.4
+United States,2020,41,weekly,7443.4
+United States,2020,42,weekly,6042.8
+United States,2020,43,weekly,7200.2
+United States,2020,44,weekly,8275.8
+United States,2020,45,weekly,11932.4
+United States,2020,46,weekly,12692.2
+United States,2020,47,weekly,15303.6
+United States,2020,48,weekly,16657.4
+United States,2020,49,weekly,19788.8
+United States,2020,50,weekly,23365.4
+United States,2020,51,weekly,24079.0
+United States,2020,52,weekly,24727.8
+United States,2020,53,weekly,27345.8
+United States,2021,1,weekly,24894.2
+United States,2021,2,weekly,24025.8
+United States,2021,3,weekly,21385.2
+United States,2021,4,weekly,18049.4
+United States,2021,5,weekly,16027.0
+United States,2021,6,weekly,10762.0
+United States,2021,7,weekly,9278.4
+United States,2021,8,weekly,7144.0
+United States,2021,9,weekly,4406.8
+United States,2021,10,weekly,2213.4
+United States,2021,11,weekly,1661.6
+United States,2021,12,weekly,2408.2
+United States,2021,13,weekly,1515.8
+United States,2021,14,weekly,3793.2
+United States,2021,15,weekly,2238.0
+United States,2021,16,weekly,4191.0
+United States,2021,17,weekly,4394.6
+United States,2021,18,weekly,2635.6
+United States,2021,19,weekly,2784.2
+United States,2021,20,weekly,3567.8
+United States,2021,21,weekly,2487.6
+United States,2021,22,weekly,3087.0
+United States,2021,23,weekly,2699.2
+United States,2021,24,weekly,2943.4
+United States,2021,25,weekly,2881.2
+United States,2021,26,weekly,3442.8
+United States,2021,27,weekly,2726.8
+United States,2021,28,weekly,3120.6
+United States,2021,29,weekly,4644.6
+United States,2021,30,weekly,6692.8
+United States,2021,31,weekly,9727.0
+United States,2021,32,weekly,12484.6
+United States,2021,33,weekly,14671.6
+United States,2021,34,weekly,15013.6
 Uruguay,2020,1,monthly,-122.4
 Uruguay,2020,2,monthly,51.4
 Uruguay,2020,3,monthly,-50.4
