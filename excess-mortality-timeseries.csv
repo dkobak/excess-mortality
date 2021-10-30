@@ -388,6 +388,7 @@ Belgium,2021,37,weekly,17.7
 Belgium,2021,38,weekly,-8.7
 Belgium,2021,39,weekly,6.5
 Belgium,2021,40,weekly,39.1
+Belgium,2021,41,weekly,140.1
 Belize,2020,1,monthly,1.2
 Belize,2020,2,monthly,4.6
 Belize,2020,3,monthly,-19.2
@@ -461,14 +462,14 @@ Brazil,2020,9,monthly,17603.0
 Brazil,2020,10,monthly,17819.6
 Brazil,2020,11,monthly,17500.8
 Brazil,2020,12,monthly,28334.6
-Brazil,2021,1,monthly,35692.2
-Brazil,2021,2,monthly,34071.4
-Brazil,2021,3,monthly,92246.4
-Brazil,2021,4,monthly,91959.4
-Brazil,2021,5,monthly,58863.8
-Brazil,2021,6,monthly,59087.4
-Brazil,2021,7,monthly,38559.8
-Brazil,2021,8,monthly,31198.0
+Brazil,2021,1,monthly,35723.2
+Brazil,2021,2,monthly,34043.4
+Brazil,2021,3,monthly,92207.4
+Brazil,2021,4,monthly,91948.4
+Brazil,2021,5,monthly,58856.8
+Brazil,2021,6,monthly,59074.4
+Brazil,2021,7,monthly,38549.8
+Brazil,2021,8,monthly,31226.0
 Bulgaria,2020,1,weekly,-453.7
 Bulgaria,2020,2,weekly,-275.5
 Bulgaria,2020,3,weekly,-323.7
@@ -1199,6 +1200,7 @@ Denmark,2021,38,weekly,55.8
 Denmark,2021,39,weekly,124.0
 Denmark,2021,40,weekly,55.6
 Denmark,2021,41,weekly,122.2
+Denmark,2021,42,weekly,97.2
 Ecuador,2020,1,weekly,-140.3
 Ecuador,2020,2,weekly,57.9
 Ecuador,2020,3,weekly,20.9
@@ -2613,6 +2615,10 @@ Italy,2021,27,weekly,38.5
 Italy,2021,28,weekly,-575.9
 Italy,2021,29,weekly,-115.9
 Italy,2021,30,weekly,-1582.9
+Italy,2021,31,weekly,363.5
+Italy,2021,32,weekly,1002.3
+Italy,2021,33,weekly,968.3
+Italy,2021,34,weekly,570.1
 Jamaica,2020,1,monthly,-156.0
 Jamaica,2020,2,monthly,-188.4
 Jamaica,2020,3,monthly,-174.8
@@ -3785,6 +3791,7 @@ North Macedonia,2021,4,monthly,1555.6
 North Macedonia,2021,5,monthly,836.0
 North Macedonia,2021,6,monthly,394.4
 North Macedonia,2021,7,monthly,306.8
+North Macedonia,2021,8,monthly,659.2
 Norway,2020,1,weekly,-61.4
 Norway,2020,2,weekly,34.4
 Norway,2020,3,weekly,-69.2
@@ -3878,6 +3885,7 @@ Norway,2021,37,weekly,103.6
 Norway,2021,38,weekly,68.4
 Norway,2021,39,weekly,17.6
 Norway,2021,40,weekly,4.8
+Norway,2021,41,weekly,-15.4
 Oman,2020,1,monthly,-47.2
 Oman,2020,2,monthly,-50.4
 Oman,2020,3,monthly,-4.8
@@ -3917,24 +3925,24 @@ Panama,2021,3,monthly,729.8
 Panama,2021,4,monthly,180.4
 Paraguay,2020,1,monthly,61.9
 Paraguay,2020,2,monthly,352.9
-Paraguay,2020,3,monthly,289.9
-Paraguay,2020,4,monthly,-90.9
+Paraguay,2020,3,monthly,288.9
+Paraguay,2020,4,monthly,-91.9
 Paraguay,2020,5,monthly,-279.9
-Paraguay,2020,6,monthly,-410.5
-Paraguay,2020,7,monthly,-281.1
+Paraguay,2020,6,monthly,-409.5
+Paraguay,2020,7,monthly,-280.1
 Paraguay,2020,8,monthly,375.5
-Paraguay,2020,9,monthly,590.9
-Paraguay,2020,10,monthly,671.9
+Paraguay,2020,9,monthly,589.9
+Paraguay,2020,10,monthly,670.9
 Paraguay,2020,11,monthly,529.3
 Paraguay,2020,12,monthly,723.5
-Paraguay,2021,1,monthly,262.9
-Paraguay,2021,2,monthly,589.9
-Paraguay,2021,3,monthly,1721.9
-Paraguay,2021,4,monthly,3347.1
-Paraguay,2021,5,monthly,4180.1
-Paraguay,2021,6,monthly,3559.5
-Paraguay,2021,7,monthly,1420.9
-Paraguay,2021,8,monthly,13.5
+Paraguay,2021,1,monthly,285.9
+Paraguay,2021,2,monthly,593.9
+Paraguay,2021,3,monthly,1724.9
+Paraguay,2021,4,monthly,3350.1
+Paraguay,2021,5,monthly,4182.1
+Paraguay,2021,6,monthly,3563.5
+Paraguay,2021,7,monthly,1422.9
+Paraguay,2021,8,monthly,34.5
 Peru,2020,1,weekly,165.1
 Peru,2020,2,weekly,197.1
 Peru,2020,3,weekly,92.8
@@ -4235,6 +4243,7 @@ Portugal,2021,37,weekly,76.8
 Portugal,2021,38,weekly,154.8
 Portugal,2021,39,weekly,85.8
 Portugal,2021,40,weekly,131.6
+Portugal,2021,41,weekly,174.8
 Puerto Rico,2020,1,weekly,-122.3
 Puerto Rico,2020,2,weekly,-51.5
 Puerto Rico,2020,3,weekly,11.9
@@ -4346,6 +4355,7 @@ Qatar,2021,5,monthly,75.7
 Qatar,2021,6,monthly,47.1
 Qatar,2021,7,monthly,34.5
 Qatar,2021,8,monthly,43.7
+Qatar,2021,9,monthly,-12.7
 Romania,2020,1,weekly,-579.5
 Romania,2020,2,weekly,-524.9
 Romania,2020,3,weekly,-426.3
@@ -4453,7 +4463,7 @@ Russia,2021,5,monthly,10594.4
 Russia,2021,6,monthly,42109.2
 Russia,2021,7,monthly,72255.4
 Russia,2021,8,monthly,65563.6
-Russia,2021,9,monthly,58318.2
+Russia,2021,9,monthly,64729.2
 Réunion,2020,1,weekly,-17.5
 Réunion,2020,2,weekly,-5.1
 Réunion,2020,3,weekly,-9.7
@@ -5327,6 +5337,7 @@ Transnistria,2021,5,monthly,163.2
 Transnistria,2021,6,monthly,120.2
 Transnistria,2021,7,monthly,65.9
 Transnistria,2021,8,monthly,-28.6
+Transnistria,2021,9,monthly,105.1
 Tunisia,2020,1,monthly,-216.7
 Tunisia,2020,2,monthly,47.5
 Tunisia,2020,3,monthly,-434.9
@@ -5582,3 +5593,6 @@ Uzbekistan,2021,3,monthly,11.8
 Uzbekistan,2021,4,monthly,-715.8
 Uzbekistan,2021,5,monthly,-583.2
 Uzbekistan,2021,6,monthly,2337.2
+Uzbekistan,2021,7,monthly,3596.4
+Uzbekistan,2021,8,monthly,5075.4
+Uzbekistan,2021,9,monthly,6471.0
