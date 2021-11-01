@@ -46,11 +46,11 @@ Daily reported Covid-19 mortality and estimated excess mortality across the coun
 
 The code for my February 2021 paper in *Significance* [Excess mortality reveals Covid's true toll in Russia](https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01486) is available in the `significance2021` folder, together with the frozen data and the final figures.
 
-Figures below are updated every month. The up-to-date data can be found in the `russian-data` folder. Code: [`russia.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb)
+Figures below are updated every month. The up-to-date data can be found in the `russian-data` folder. Code: [`russia.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb). Since November 1, 2021, I am using monthly data _by date of death_ for all years up to 2020, and monthly date _by date of registration_ starting from 2021 (as the data by date of death are not yet available).
 
 <p><a href="img/allregions.png?raw=true"><img src="img/allregions.png" width="800" title="Excess mortality in Russian regions"></a>
   
-<p>Note that around 10 thousand excess deaths in July in the Ural region and West Siberia could have been due to the heat wave.
+<p>Note that 10--20 thousand excess deaths in July in the Ural region and West Siberia could have been due to the heat wave.
   
 <p>Animation (English):
 
@@ -80,18 +80,11 @@ Figures below are updated every month. The up-to-date data can be found in the `
 <p>Detailed statistics in regions with the most excess deaths:
 
 <p><a href="img/regions.png?raw=true"><img src="img/regions.png" width="600" title="Regions"></a>
- 
-
-### Some technical figures
-
-<p>Extrapolation of the linear trend:
-
-<p><a href="img/average-monthly.png?raw=true"><img src="img/average-monthly.png" width="400" title="Monthly deviations"></a>
-
-<p>Seasonal variation:
-
-<p><a href="img/monthly-deviations.png?raw=true"><img src="img/monthly-deviations.png" width="400" title="Monthly deviations"></a>
 
 <p>Evolution of the undercount coefficient:
 
 <p><a href="img/undercount.png?raw=true"><img src="img/undercount.png" width="400" title="Excess mortality in Russia"></a>
+
+<p>Seasonal variation:
+
+<p><a href="img/monthly-deviations.png?raw=true"><img src="img/monthly-deviations.png" width="400" title="Monthly deviations"></a>
