@@ -75,6 +75,8 @@ Figures below are updated every month. The up-to-date data can be found in the `
 <p>Excess based on weekly data from http://mortality.org (only 2020 data are available so far):
 
 <p><a href="img/russia-weekly-excess.png?raw=true"><img src="img/russia-weekly-excess.png" width="400" title="Weekly excess mortality in Russia"></a>
+  
+<p>Note the bump in weeks 28--29: that is the effect of the heatwave (e.g. in Ufa it was very hot from 10th to 20th of July, precisely these two weeks: http://www.pogodaiklimat.ru/monitor.php?id=28722&month=7&year=2020). It contributed around 4 thousand excess deaths per week, i.e. around 8 thousand in total, on top of the excess Covid-related mortality.
 
 <p>Yearly deaths:
 
