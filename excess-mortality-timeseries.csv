@@ -467,15 +467,15 @@ Brazil,2020,9,monthly,17603.0
 Brazil,2020,10,monthly,17819.6
 Brazil,2020,11,monthly,17500.8
 Brazil,2020,12,monthly,28334.6
-Brazil,2021,1,monthly,35853.2
-Brazil,2021,2,monthly,34187.4
-Brazil,2021,3,monthly,92291.4
-Brazil,2021,4,monthly,91940.4
-Brazil,2021,5,monthly,58844.8
-Brazil,2021,6,monthly,59041.4
-Brazil,2021,7,monthly,38579.8
-Brazil,2021,8,monthly,31322.0
-Brazil,2021,9,monthly,18287.0
+Brazil,2021,1,monthly,35857.2
+Brazil,2021,2,monthly,34188.4
+Brazil,2021,3,monthly,92298.4
+Brazil,2021,4,monthly,91935.4
+Brazil,2021,5,monthly,58840.8
+Brazil,2021,6,monthly,59061.4
+Brazil,2021,7,monthly,38608.8
+Brazil,2021,8,monthly,31344.0
+Brazil,2021,9,monthly,18361.0
 Bulgaria,2020,1,weekly,-453.7
 Bulgaria,2020,2,weekly,-275.5
 Bulgaria,2020,3,weekly,-323.7
@@ -1218,6 +1218,15 @@ Denmark,2021,40,weekly,59.6
 Denmark,2021,41,weekly,135.2
 Denmark,2021,42,weekly,111.2
 Denmark,2021,43,weekly,93.2
+Dominican Republic,2020,1,monthly,237.5
+Dominican Republic,2020,2,monthly,94.9
+Dominican Republic,2020,3,monthly,-502.9
+Dominican Republic,2020,4,monthly,-813.3
+Dominican Republic,2020,5,monthly,-628.5
+Dominican Republic,2020,6,monthly,182.3
+Dominican Republic,2020,7,monthly,1081.7
+Dominican Republic,2020,8,monthly,825.9
+Dominican Republic,2020,9,monthly,-113.9
 Ecuador,2020,1,weekly,-139.3
 Ecuador,2020,2,weekly,57.9
 Ecuador,2020,3,weekly,20.9
@@ -3989,26 +3998,26 @@ Panama,2021,1,monthly,1353.8
 Panama,2021,2,monthly,1449.6
 Panama,2021,3,monthly,729.8
 Panama,2021,4,monthly,180.4
-Paraguay,2020,1,monthly,61.9
+Paraguay,2020,1,monthly,59.9
 Paraguay,2020,2,monthly,351.9
-Paraguay,2020,3,monthly,288.9
+Paraguay,2020,3,monthly,289.9
 Paraguay,2020,4,monthly,-91.9
 Paraguay,2020,5,monthly,-278.9
-Paraguay,2020,6,monthly,-409.5
-Paraguay,2020,7,monthly,-277.1
-Paraguay,2020,8,monthly,375.5
-Paraguay,2020,9,monthly,589.9
+Paraguay,2020,6,monthly,-411.5
+Paraguay,2020,7,monthly,-276.1
+Paraguay,2020,8,monthly,374.5
+Paraguay,2020,9,monthly,590.9
 Paraguay,2020,10,monthly,672.9
 Paraguay,2020,11,monthly,532.3
 Paraguay,2020,12,monthly,774.5
-Paraguay,2021,1,monthly,392.9
-Paraguay,2021,2,monthly,717.9
-Paraguay,2021,3,monthly,1786.9
-Paraguay,2021,4,monthly,3388.1
-Paraguay,2021,5,monthly,4224.1
-Paraguay,2021,6,monthly,3596.5
-Paraguay,2021,7,monthly,1507.9
-Paraguay,2021,8,monthly,178.5
+Paraguay,2021,1,monthly,394.9
+Paraguay,2021,2,monthly,720.9
+Paraguay,2021,3,monthly,1807.9
+Paraguay,2021,4,monthly,3389.1
+Paraguay,2021,5,monthly,4227.1
+Paraguay,2021,6,monthly,3598.5
+Paraguay,2021,7,monthly,1509.9
+Paraguay,2021,8,monthly,209.5
 Peru,2020,1,weekly,165.1
 Peru,2020,2,weekly,197.1
 Peru,2020,3,weekly,92.8
@@ -5387,6 +5396,7 @@ Taiwan,2021,6,monthly,2416.6
 Taiwan,2021,7,monthly,451.4
 Taiwan,2021,8,monthly,219.4
 Taiwan,2021,9,monthly,153.8
+Taiwan,2021,10,monthly,-506.8
 Tajikistan,2020,1,quarterly,198.0
 Tajikistan,2020,2,quarterly,1488.0
 Tajikistan,2020,3,quarterly,1907.8
