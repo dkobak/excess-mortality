@@ -1,5 +1,5 @@
 Country,Data until,Data type,COVID-19 deaths,Excess deaths,Excess deaths std,t-statistic,Undercount ratio,Excess per 100k,Excess as % of annual baseline
-Albania,"Jun 30, 2021",m,2456,10042,961,10.5,4.09,348.9,46.1
+Albania,"Sep 30, 2021",m,2698,11115,1102,10.1,4.12,386.2,51.0
 Andorra,"Dec 31, 2020",m,84,81,26,3.1,0.97,105.4,24.7
 Antigua and Barbuda,"Dec 31, 2020",m,5,-52,42,1.2,nan,-53.3,-8.3
 Argentina,"Dec 31, 2020",m,43163,42246,6384,6.6,0.98,93.5,12.5
@@ -96,7 +96,7 @@ Slovakia,"Sep 19, 2021",w,12569,17481,1125,15.5,1.39,320.2,32.0
 Slovenia,"Oct 17, 2021",w,5012,4098,468,8.8,0.82,197.1,19.2
 South Africa,"Nov 07, 2021",w,89319,226001,5800,39.0,2.53,381.1,42.5
 South Korea,"Aug 29, 2021",w,2279,791,3546,0.2,nan,1.5,0.3
-Spain,"Oct 24, 2021",w,87405,102177,7561,13.5,1.17,218.5,23.8
+Spain,"Oct 24, 2021",w,87423,102177,7561,13.5,1.17,218.5,23.8
 Sweden,"Oct 24, 2021",w,15027,9503,1301,7.3,0.63,94.1,10.4
 Switzerland,"Oct 17, 2021",w,10752,9557,1325,7.2,0.89,110.4,13.9
 Taiwan,"Oct 31, 2021",m,847,-3836,7149,0.5,nan,-16.1,-2.1
