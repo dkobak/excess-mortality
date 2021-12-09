@@ -76,7 +76,7 @@ Figures below are updated every month. The up-to-date data can be found in the `
 
 <p><a href="img/russia.png?raw=true"><img src="img/russia.png" width="400" title="Excess mortality in Russia"></a>
   
-<p>Excess based on weekly data from http://mortality.org (only 2020 data are available so far):
+<p>Excess based on weekly data (by date of death) from http://mortality.org (only 2020 data are available so far; note that these weekly data do not include Crimea and do not include deaths with unknown week of death):
 
 <p><a href="img/russia-weekly-excess.png?raw=true"><img src="img/russia-weekly-excess.png" width="400" title="Weekly excess mortality in Russia"></a>
   
