@@ -76,12 +76,6 @@ Figures below are updated every month. The up-to-date data can be found in the `
 
 <p><a href="img/russia.png?raw=true"><img src="img/russia.png" width="400" title="Excess mortality in Russia"></a>
   
-<p>Excess based on weekly data (by date of death) from http://mortality.org (only 2020 data are available so far; note that these weekly data do not include Crimea and do not include deaths with unknown week of death):
-
-<p><a href="img/russia-weekly-excess.png?raw=true"><img src="img/russia-weekly-excess.png" width="400" title="Weekly excess mortality in Russia"></a>
-  
-<p>Note the bump in weeks 28--29: that is the effect of the heatwave (e.g. in Ufa it was very hot from 10th to 20th of July, precisely these two weeks: http://www.pogodaiklimat.ru/monitor.php?id=28722&month=7&year=2020). It contributed around 4 thousand excess deaths per week, i.e. around 8 thousand in total, on top of the excess Covid-related mortality.
-
 <p>Yearly deaths:
 
 <p><a href="img/yearly.png?raw=true"><img src="img/yearly.png" width="400" title="Yearly deaths in Russia"></a>
@@ -98,3 +92,19 @@ Figures below are updated every month. The up-to-date data can be found in the `
 <p>Seasonal variation:
 
 <p><a href="img/monthly-deviations.png?raw=true"><img src="img/monthly-deviations.png" width="400" title="Monthly deviations"></a>
+  
+### Weekly data
+  
+<p>Excess based on weekly data (by date of death) from http://mortality.org (only 2020 data are available so far; note that these weekly data do not include Crimea and do not include deaths with unknown week of death):
+
+<p><a href="img/russia-weekly-excess.png?raw=true"><img src="img/russia-weekly-excess.png" width="400" title="Weekly excess mortality in Russia"></a>
+  
+<p>Note the bump in weeks 28--29: that is the effect of the heatwave (e.g. in Ufa it was very hot from 10th to 20th of July, precisely these two weeks: http://www.pogodaiklimat.ru/monitor.php?id=28722&month=7&year=2020). It contributed around 4 thousand excess deaths per week, i.e. around 8 thousand in total, on top of the excess Covid-related mortality.
+
+<p>The same split by gender and narrow age groups (using "input" data to STMF shared at http://mortality.org). Here I use linear trend based only on 2018-19 for linear extrapolation:
+
+<p><a href="img/russia-weekly-excess-agebands.png?raw=true"><img src="img/russia-weekly-excess-agebands.png" width="600" title="Weekly excess mortality in Russia, split by age"></a>
+
+<p>And as summary across age groups:
+  
+<p><a href="img/russia-weekly-excess-agebands-summary.png?raw=true"><img src="img/russia-weekly-excess-agebands-summary.png" width="600" title="Excess mortality in Russia, by age and gender"></a>  
