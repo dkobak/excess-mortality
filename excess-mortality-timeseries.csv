@@ -533,16 +533,17 @@ Brazil,2020,9,monthly,17603.0
 Brazil,2020,10,monthly,17819.6
 Brazil,2020,11,monthly,17500.8
 Brazil,2020,12,monthly,28334.6
-Brazil,2021,1,monthly,35943.2
-Brazil,2021,2,monthly,34287.4
-Brazil,2021,3,monthly,92424.4
-Brazil,2021,4,monthly,92061.4
-Brazil,2021,5,monthly,59029.8
-Brazil,2021,6,monthly,59222.4
-Brazil,2021,7,monthly,38545.8
-Brazil,2021,8,monthly,31414.0
-Brazil,2021,9,monthly,18853.0
-Brazil,2021,10,monthly,8296.6
+Brazil,2021,1,monthly,35938.2
+Brazil,2021,2,monthly,34284.4
+Brazil,2021,3,monthly,92418.4
+Brazil,2021,4,monthly,92046.4
+Brazil,2021,5,monthly,59018.8
+Brazil,2021,6,monthly,59244.4
+Brazil,2021,7,monthly,38582.8
+Brazil,2021,8,monthly,31444.0
+Brazil,2021,9,monthly,18895.0
+Brazil,2021,10,monthly,8310.6
+Brazil,2021,11,monthly,14909.8
 Brunei,2020,1,monthly,26.8
 Brunei,2020,2,monthly,16.0
 Brunei,2020,3,monthly,1.2
@@ -4239,6 +4240,7 @@ North Macedonia,2021,6,monthly,394.4
 North Macedonia,2021,7,monthly,306.8
 North Macedonia,2021,8,monthly,659.2
 North Macedonia,2021,9,monthly,1652.2
+North Macedonia,2021,10,monthly,511.0
 Norway,2020,1,weekly,-61.4
 Norway,2020,2,weekly,35.4
 Norway,2020,3,weekly,-69.2
@@ -4413,7 +4415,7 @@ Paraguay,2021,4,monthly,3587.1
 Paraguay,2021,5,monthly,4434.1
 Paraguay,2021,6,monthly,3765.5
 Paraguay,2021,7,monthly,1720.9
-Paraguay,2021,8,monthly,453.5
+Paraguay,2021,8,monthly,463.5
 Peru,2020,1,weekly,303.1
 Peru,2020,2,weekly,382.1
 Peru,2020,3,weekly,271.8
@@ -4467,25 +4469,25 @@ Peru,2020,50,weekly,687.4
 Peru,2020,51,weekly,898.4
 Peru,2020,52,weekly,948.1
 Peru,2020,53,weekly,1148.1
-Peru,2021,1,weekly,1745.1
+Peru,2021,1,weekly,1744.1
 Peru,2021,2,weekly,2407.1
-Peru,2021,3,weekly,3470.8
-Peru,2021,4,weekly,4459.8
-Peru,2021,5,weekly,4681.1
+Peru,2021,3,weekly,3471.8
+Peru,2021,4,weekly,4458.8
+Peru,2021,5,weekly,4682.1
 Peru,2021,6,weekly,5423.4
 Peru,2021,7,weekly,5421.4
 Peru,2021,8,weekly,5025.1
-Peru,2021,9,weekly,5075.4
+Peru,2021,9,weekly,5076.4
 Peru,2021,10,weekly,5077.8
 Peru,2021,11,weekly,5077.4
-Peru,2021,12,weekly,5278.1
+Peru,2021,12,weekly,5277.1
 Peru,2021,13,weekly,5642.1
-Peru,2021,14,weekly,6203.1
-Peru,2021,15,weekly,6232.8
+Peru,2021,14,weekly,6201.1
+Peru,2021,15,weekly,6233.8
 Peru,2021,16,weekly,5971.1
-Peru,2021,17,weekly,5495.4
+Peru,2021,17,weekly,5496.4
 Peru,2021,18,weekly,4886.4
-Peru,2021,19,weekly,4321.1
+Peru,2021,19,weekly,4322.1
 Peru,2021,20,weekly,3770.1
 Peru,2021,21,weekly,3292.1
 Peru,2021,22,weekly,2935.1
@@ -4502,7 +4504,7 @@ Peru,2021,32,weekly,581.8
 Peru,2021,33,weekly,496.1
 Peru,2021,34,weekly,681.1
 Peru,2021,35,weekly,490.8
-Peru,2021,36,weekly,417.1
+Peru,2021,36,weekly,416.1
 Peru,2021,37,weekly,410.1
 Peru,2021,38,weekly,426.8
 Peru,2021,39,weekly,362.8
@@ -4511,13 +4513,13 @@ Peru,2021,41,weekly,394.4
 Peru,2021,42,weekly,331.1
 Peru,2021,43,weekly,309.4
 Peru,2021,44,weekly,432.1
-Peru,2021,45,weekly,372.1
-Peru,2021,46,weekly,436.4
+Peru,2021,45,weekly,373.1
+Peru,2021,46,weekly,438.4
 Peru,2021,47,weekly,496.4
-Peru,2021,48,weekly,596.1
-Peru,2021,49,weekly,654.4
-Peru,2021,50,weekly,516.4
-Peru,2021,51,weekly,553.4
+Peru,2021,48,weekly,603.1
+Peru,2021,49,weekly,659.4
+Peru,2021,50,weekly,528.4
+Peru,2021,51,weekly,598.4
 Philippines,2020,1,monthly,-1696.0
 Philippines,2020,2,monthly,-2398.6
 Philippines,2020,3,monthly,-5118.8
@@ -4981,6 +4983,7 @@ Russia,2021,8,monthly,67130.9
 Russia,2021,9,monthly,62933.7
 Russia,2021,10,monthly,100509.1
 Russia,2021,11,monthly,117967.1
+Russia,2021,12,monthly,57823.9
 Réunion,2020,1,weekly,-17.5
 Réunion,2020,2,weekly,-5.1
 Réunion,2020,3,weekly,-9.7
