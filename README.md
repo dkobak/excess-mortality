@@ -79,7 +79,7 @@ Figures below are updated every month. The up-to-date data can be found in the `
 <p>Yearly deaths:
 
 <p><a href="img/yearly.png?raw=true"><img src="img/yearly.png" width="400" title="Yearly deaths in Russia"></a>
-<p style="font-size: 80%">Back in 2019 Rosttat made <a href="https://rosstat.gov.ru/folder/12781">forecast for 2020</a> (<a href="https://rosstat.gov.ru/storage/mediabank/progn5.xls">xls</a>): 1.7890 million deaths (1.7413--1.8304). The actual number in 2019 was 1,798,307. The actual number in 2020 was 2,138,586. The excess compared to their forecast is 349 thousand. For reference, my linear forecast is 1.7658.</p>
+<p style="font-size: 80%">Back in 2019 Rosstat made <a href="https://rosstat.gov.ru/folder/12781">forecast for 2020</a> (<a href="https://rosstat.gov.ru/storage/mediabank/progn5.xls">xls</a>): 1.7890 million deaths (1.7413--1.8304). The actual number in 2019 was 1,798,307. The actual number in 2020 was 2,138,586. The excess compared to their forecast is 349 thousand. For reference, my linear forecast is 1.7658.</p>
 
 <p>Detailed statistics in regions with the most excess deaths:
 
