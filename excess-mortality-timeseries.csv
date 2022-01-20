@@ -549,12 +549,12 @@ Brazil,2021,3,monthly,94367.4
 Brazil,2021,4,monthly,81412.4
 Brazil,2021,5,monthly,60277.8
 Brazil,2021,6,monthly,49317.4
-Brazil,2021,7,monthly,37194.8
-Brazil,2021,8,monthly,30134.0
-Brazil,2021,9,monthly,17610.0
-Brazil,2021,10,monthly,7106.6
-Brazil,2021,11,monthly,13961.8
-Brazil,2021,12,monthly,10629.6
+Brazil,2021,7,monthly,37201.8
+Brazil,2021,8,monthly,30118.0
+Brazil,2021,9,monthly,17572.0
+Brazil,2021,10,monthly,7070.6
+Brazil,2021,11,monthly,13925.8
+Brazil,2021,12,monthly,10592.6
 Brunei,2020,1,monthly,26.8
 Brunei,2020,2,monthly,16.0
 Brunei,2020,3,monthly,1.2
@@ -3361,6 +3361,7 @@ Lithuania,2021,49,weekly,256.5
 Lithuania,2021,50,weekly,311.1
 Lithuania,2021,51,weekly,347.3
 Lithuania,2021,52,weekly,131.5
+Lithuania,2022,1,weekly,172.8
 Luxembourg,2020,1,weekly,-30.6
 Luxembourg,2020,2,weekly,-15.4
 Luxembourg,2020,3,weekly,-1.2
@@ -3982,6 +3983,7 @@ Monaco,2021,8,monthly,9.8
 Monaco,2021,9,monthly,8.6
 Monaco,2021,10,monthly,8.6
 Monaco,2021,11,monthly,-12.6
+Monaco,2021,12,monthly,18.2
 Mongolia,2020,1,monthly,-118.9
 Mongolia,2020,2,monthly,-73.1
 Mongolia,2020,3,monthly,-216.1
@@ -4437,6 +4439,7 @@ Norway,2021,49,weekly,192.1
 Norway,2021,50,weekly,136.9
 Norway,2021,51,weekly,84.5
 Norway,2021,52,weekly,-0.9
+Norway,2022,1,weekly,-33.8
 Oman,2020,1,monthly,-47.2
 Oman,2020,2,monthly,-50.4
 Oman,2020,3,monthly,-4.8
@@ -4458,8 +4461,9 @@ Oman,2021,6,monthly,980.7
 Oman,2021,7,monthly,1024.3
 Oman,2021,8,monthly,234.7
 Oman,2021,9,monthly,-54.5
-Oman,2021,10,monthly,0.3
-Oman,2021,11,monthly,-14.7
+Oman,2021,10,monthly,-0.7
+Oman,2021,11,monthly,-8.7
+Oman,2021,12,monthly,-0.1
 Palestine,2020,1,monthly,-18.8
 Palestine,2020,2,monthly,43.2
 Palestine,2020,3,monthly,-50.8
@@ -4742,6 +4746,11 @@ Poland,2021,46,weekly,4013.8
 Poland,2021,47,weekly,4570.0
 Poland,2021,48,weekly,4687.8
 Poland,2021,49,weekly,4130.6
+Poland,2021,50,weekly,5484.2
+Poland,2021,51,weekly,5201.6
+Poland,2021,52,weekly,4430.0
+Poland,2022,1,weekly,2319.9
+Poland,2022,2,weekly,724.9
 Portugal,2020,1,weekly,-336.0
 Portugal,2020,2,weekly,-195.6
 Portugal,2020,3,weekly,-138.2
