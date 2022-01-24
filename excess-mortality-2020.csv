@@ -1,5 +1,6 @@
 Country,Data type,COVID-19 deaths,Excess deaths,Excess deaths std,t-statistic,Undercount ratio,Excess per 100k,Excess as % of annual baseline
 Albania,m,1181,6004,671,9.0,5.08,208.6,27.6
+Algeria,m,2756,50425,1990,25.3,18.30,115.0,27.1
 Andorra,m,84,81,26,3.1,0.97,105.4,24.7
 Antigua and Barbuda,m,5,-52,42,1.2,nan,-53.3,-8.3
 Argentina,m,43163,42246,6384,6.6,0.98,93.5,12.5
