@@ -563,12 +563,12 @@ Brazil,2021,3,monthly,94367.4
 Brazil,2021,4,monthly,81412.4
 Brazil,2021,5,monthly,60277.8
 Brazil,2021,6,monthly,49317.4
-Brazil,2021,7,monthly,37269.8
-Brazil,2021,8,monthly,30127.0
-Brazil,2021,9,monthly,17653.0
-Brazil,2021,10,monthly,7190.6
-Brazil,2021,11,monthly,14134.8
-Brazil,2021,12,monthly,10974.6
+Brazil,2021,7,monthly,37253.8
+Brazil,2021,8,monthly,30105.0
+Brazil,2021,9,monthly,17650.0
+Brazil,2021,10,monthly,7223.6
+Brazil,2021,11,monthly,14167.8
+Brazil,2021,12,monthly,11058.6
 Brunei,2020,1,monthly,26.8
 Brunei,2020,2,monthly,16.0
 Brunei,2020,3,monthly,1.2
@@ -2898,19 +2898,21 @@ Israel,2021,34,weekly,234.0
 Israel,2021,35,weekly,273.4
 Israel,2021,36,weekly,187.8
 Israel,2021,37,weekly,236.4
-Israel,2021,38,weekly,149.4
-Israel,2021,39,weekly,140.0
+Israel,2021,38,weekly,148.4
+Israel,2021,39,weekly,141.0
 Israel,2021,40,weekly,142.6
-Israel,2021,41,weekly,87.6
+Israel,2021,41,weekly,88.6
 Israel,2021,42,weekly,116.6
 Israel,2021,43,weekly,32.2
-Israel,2021,44,weekly,42.2
-Israel,2021,45,weekly,73.4
-Israel,2021,46,weekly,-36.8
-Israel,2021,47,weekly,-36.8
-Israel,2021,48,weekly,-59.0
-Israel,2021,49,weekly,45.4
-Israel,2021,50,weekly,14.6
+Israel,2021,44,weekly,44.2
+Israel,2021,45,weekly,74.4
+Israel,2021,46,weekly,-28.8
+Israel,2021,47,weekly,-32.8
+Israel,2021,48,weekly,-47.0
+Israel,2021,49,weekly,54.4
+Israel,2021,50,weekly,22.6
+Israel,2021,51,weekly,4.0
+Israel,2021,52,weekly,46.4
 Italy,2020,1,weekly,-1904.1
 Italy,2020,2,weekly,-1710.3
 Italy,2020,3,weekly,-1413.5
@@ -3075,6 +3077,7 @@ Kazakhstan,2021,7,monthly,5030.6
 Kazakhstan,2021,8,monthly,13743.0
 Kazakhstan,2021,9,monthly,9336.2
 Kazakhstan,2021,10,monthly,4863.2
+Kazakhstan,2021,11,monthly,5109.6
 Kosovo,2020,1,monthly,16.2
 Kosovo,2020,2,monthly,-9.0
 Kosovo,2020,3,monthly,-17.0
@@ -3238,6 +3241,7 @@ Latvia,2021,49,weekly,152.6
 Latvia,2021,50,weekly,109.0
 Latvia,2021,51,weekly,70.0
 Latvia,2021,52,weekly,111.4
+Latvia,2022,1,weekly,81.7
 Lebanon,2020,1,monthly,-78.3
 Lebanon,2020,2,monthly,203.5
 Lebanon,2020,3,monthly,-214.5
@@ -3271,7 +3275,7 @@ Liechtenstein,2020,8,monthly,-0.2
 Liechtenstein,2020,9,monthly,8.6
 Liechtenstein,2020,10,monthly,-0.0
 Liechtenstein,2020,11,monthly,16.4
-Liechtenstein,2020,12,monthly,28.6
+Liechtenstein,2020,12,monthly,29.6
 Liechtenstein,2021,1,monthly,5.2
 Liechtenstein,2021,2,monthly,2.0
 Liechtenstein,2021,3,monthly,-12.2
@@ -3282,7 +3286,8 @@ Liechtenstein,2021,7,monthly,3.6
 Liechtenstein,2021,8,monthly,-3.4
 Liechtenstein,2021,9,monthly,-3.6
 Liechtenstein,2021,10,monthly,-3.2
-Liechtenstein,2021,11,monthly,-2.8
+Liechtenstein,2021,11,monthly,2.2
+Liechtenstein,2021,12,monthly,2.4
 Lithuania,2020,1,weekly,-3.1
 Lithuania,2020,2,weekly,-22.7
 Lithuania,2020,3,weekly,-85.1
@@ -3389,6 +3394,7 @@ Lithuania,2021,50,weekly,311.1
 Lithuania,2021,51,weekly,347.3
 Lithuania,2021,52,weekly,131.5
 Lithuania,2022,1,weekly,172.8
+Lithuania,2022,2,weekly,147.2
 Luxembourg,2020,1,weekly,-30.6
 Luxembourg,2020,2,weekly,-15.4
 Luxembourg,2020,3,weekly,-1.2
@@ -4534,23 +4540,23 @@ Paraguay,2020,2,monthly,358.9
 Paraguay,2020,3,monthly,288.9
 Paraguay,2020,4,monthly,-89.9
 Paraguay,2020,5,monthly,-278.9
-Paraguay,2020,6,monthly,-410.5
-Paraguay,2020,7,monthly,-272.1
+Paraguay,2020,6,monthly,-411.5
+Paraguay,2020,7,monthly,-274.1
 Paraguay,2020,8,monthly,390.5
 Paraguay,2020,9,monthly,599.9
-Paraguay,2020,10,monthly,678.9
+Paraguay,2020,10,monthly,677.9
 Paraguay,2020,11,monthly,545.3
 Paraguay,2020,12,monthly,787.5
-Paraguay,2021,1,monthly,379.3
-Paraguay,2021,2,monthly,690.3
-Paraguay,2021,3,monthly,1866.3
-Paraguay,2021,4,monthly,3522.5
-Paraguay,2021,5,monthly,4373.5
-Paraguay,2021,6,monthly,3705.9
-Paraguay,2021,7,monthly,1666.3
+Paraguay,2021,1,monthly,385.3
+Paraguay,2021,2,monthly,691.3
+Paraguay,2021,3,monthly,1875.3
+Paraguay,2021,4,monthly,3539.5
+Paraguay,2021,5,monthly,4383.5
+Paraguay,2021,6,monthly,3713.9
+Paraguay,2021,7,monthly,1668.3
 Paraguay,2021,8,monthly,433.9
 Paraguay,2021,9,monthly,-97.7
-Paraguay,2021,10,monthly,-123.7
+Paraguay,2021,10,monthly,-104.7
 Peru,2020,1,weekly,303.1
 Peru,2020,2,weekly,382.1
 Peru,2020,3,weekly,271.8
@@ -6058,6 +6064,7 @@ Switzerland,2021,48,weekly,314.6
 Switzerland,2021,49,weekly,394.6
 Switzerland,2021,50,weekly,311.0
 Switzerland,2021,51,weekly,133.0
+Switzerland,2021,52,weekly,148.0
 Taiwan,2020,1,monthly,-922.4
 Taiwan,2020,2,monthly,1525.0
 Taiwan,2020,3,monthly,-1502.8
@@ -6391,7 +6398,6 @@ United States,2021,49,weekly,11321.6
 United States,2021,50,weekly,9342.4
 United States,2021,51,weekly,8546.4
 United States,2021,52,weekly,7999.8
-United States,2022,1,weekly,1342.7
 Uruguay,2020,1,monthly,-122.4
 Uruguay,2020,2,monthly,51.4
 Uruguay,2020,3,monthly,-50.4
@@ -6432,6 +6438,9 @@ Uzbekistan,2021,3,monthly,-31.5
 Uzbekistan,2021,4,monthly,-759.1
 Uzbekistan,2021,5,monthly,-626.5
 Uzbekistan,2021,6,monthly,2293.9
-Uzbekistan,2021,7,monthly,3553.1
-Uzbekistan,2021,8,monthly,5032.1
-Uzbekistan,2021,9,monthly,6427.7
+Uzbekistan,2021,7,monthly,3765.1
+Uzbekistan,2021,8,monthly,8782.1
+Uzbekistan,2021,9,monthly,2425.7
+Uzbekistan,2021,10,monthly,1610.1
+Uzbekistan,2021,11,monthly,-22.5
+Uzbekistan,2021,12,monthly,-3112.5
