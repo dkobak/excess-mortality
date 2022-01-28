@@ -8,10 +8,10 @@ See the [`elife2021`](https://github.com/dkobak/excess-mortality/blob/main/elife
 
 Analysis code: [`all-countries.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/all-countries.ipynb) (can be [run in Colab](https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb)).
 
-The data are sourced from the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality). Excess mortality is computed relative to the baseline obtained using linear extrapolation of the 2015–19 trend. In each subplot in the figure below, gray lines are 2015–19, black line is baseline for 2020, red line is 2020, blue line is 2021. Countries are sorted by the % increase over the baseline.
+The data are sourced from the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality). Excess mortality is computed relative to the baseline obtained using linear extrapolation of the 2015–19 trend (different baselines for 2020, 2021, and 2022). In each subplot in the figure below, gray lines are 2015–19, black line is baseline for 2020, red line is 2020, blue line is 2021, orange line is 2022. Countries are sorted by the total excess mortality as % of the 2020 baseline.
 
 Red number: excess mortality starting from the first officially reported Covid-19 death.<br>
-Gray number: excess mortality as a % of the annual baseline deaths.<br>
+Gray number: excess mortality as a % of the annual (2020) baseline deaths.<br>
 Black number: excess mortality per 100,000 population.<br>
 Blue number: ratio to the daily reported Covid-19 deaths over the same period (sourced from WHO).
 
@@ -51,6 +51,8 @@ Daily reported Covid-19 mortality and estimated excess mortality across the coun
 The code for my February 2021 paper in *Significance* [Excess mortality reveals Covid's true toll in Russia](https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01486) is available in the `significance2021` folder, together with the frozen data and the final figures.
 
 Figures below are updated every month. The up-to-date data can be found in the `russian-data` folder. Code: [`russia.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb). Since November 1, 2021, I am using monthly data _by date of death_ for all years up to 2020, and monthly date _by date of registration_ starting from 2021 (as the data by date of death are not yet available). The data by date of death were provided by Rosstat upon my request. (Note that the dataset includes deaths with known year but unknown month of death; I redistributed those proportionally to the deaths with known month of death.) Thanks to [Alexey Raksha](https://www.facebook.com/100001739601178) for helpful discussions.
+  
+Note: at the moment all estimates are in this section are made using the same 2020 baseline for all years (2020, 2021). I plan to change it to using different baselines for each year, as above.
 
 <p><a href="img/allregions.png?raw=true"><img src="img/allregions.png" width="800" title="Excess mortality in Russian regions"></a>
   
@@ -79,7 +81,7 @@ Figures below are updated every month. The up-to-date data can be found in the `
 <p>Yearly deaths:
 
 <p><a href="img/yearly.png?raw=true"><img src="img/yearly.png" width="400" title="Yearly deaths in Russia"></a>
-<p style="font-size: 80%">Back in 2019 Rosstat made <a href="https://rosstat.gov.ru/folder/12781">forecast for 2020</a> (<a href="https://rosstat.gov.ru/storage/mediabank/progn5.xls">xls</a>): 1.7890 million deaths (1.7413--1.8304). The actual number in 2019 was 1,798,307. The actual number in 2020 was 2,138,586. The excess compared to their forecast is 349 thousand. For reference, my linear forecast is 1.7658.</p>
+<p style="font-size: 80%">Back in 2019 Rosstat made <a href="https://rosstat.gov.ru/folder/12781">forecast for 2020</a> (<a href="https://rosstat.gov.ru/storage/mediabank/progn5.xls">xls</a>): 1.7890 million deaths (1.7413--1.8304). Upper/lower/middle forecasts are shown with dashed lines. The actual number in 2019 was 1,798,307. The actual number in 2020 was 2,138,586. The excess compared to their forecast is 349 thousand. For reference, my linear forecast is 1.7658.</p>
 
 <p>Detailed statistics in regions with the most excess deaths:
 
