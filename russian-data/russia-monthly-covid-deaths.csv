@@ -98,10 +98,10 @@
 Российская Федерация,2021,11,Covid19 contributed,1462
 Российская Федерация,2021,11,Covid19 unrelated,5788
 Российская Федерация,2021,11,Covid19 daily reported,36726
-Российская Федерация,2021,12,Covid19 confirmed,44390
-Российская Федерация,2021,12,Covid19 suspected,4732
-Российская Федерация,2021,12,Covid19 contributed,1000
-Российская Федерация,2021,12,Covid19 unrelated,4508
+Российская Федерация,2021,12,Covid19 confirmed,45096
+Российская Федерация,2021,12,Covid19 suspected,4596
+Российская Федерация,2021,12,Covid19 contributed,1034
+Российская Федерация,2021,12,Covid19 unrelated,4092
 Российская Федерация,2021,12,Covid19 daily reported,33288
 Белгородская область,2020,4,Covid19 confirmed,0
 Белгородская область,2020,4,Covid19 suspected,0
@@ -203,8 +203,8 @@
 Белгородская область,2021,11,Covid19 contributed,2
 Белгородская область,2021,11,Covid19 unrelated,37
 Белгородская область,2021,11,Covid19 daily reported,221
-Белгородская область,2021,12,Covid19 confirmed,458
-Белгородская область,2021,12,Covid19 suspected,123
+Белгородская область,2021,12,Covid19 confirmed,459
+Белгородская область,2021,12,Covid19 suspected,122
 Белгородская область,2021,12,Covid19 contributed,2
 Белгородская область,2021,12,Covid19 unrelated,29
 Белгородская область,2021,12,Covid19 daily reported,215
@@ -308,10 +308,10 @@
 Брянская область,2021,11,Covid19 contributed,1
 Брянская область,2021,11,Covid19 unrelated,272
 Брянская область,2021,11,Covid19 daily reported,425
-Брянская область,2021,12,Covid19 confirmed,405
+Брянская область,2021,12,Covid19 confirmed,436
 Брянская область,2021,12,Covid19 suspected,4
 Брянская область,2021,12,Covid19 contributed,1
-Брянская область,2021,12,Covid19 unrelated,154
+Брянская область,2021,12,Covid19 unrelated,128
 Брянская область,2021,12,Covid19 daily reported,594
 Владимирская область,2020,4,Covid19 confirmed,13
 Владимирская область,2020,4,Covid19 suspected,5
@@ -413,7 +413,7 @@
 Владимирская область,2021,11,Covid19 contributed,7
 Владимирская область,2021,11,Covid19 unrelated,56
 Владимирская область,2021,11,Covid19 daily reported,330
-Владимирская область,2021,12,Covid19 confirmed,486
+Владимирская область,2021,12,Covid19 confirmed,488
 Владимирская область,2021,12,Covid19 suspected,35
 Владимирская область,2021,12,Covid19 contributed,1
 Владимирская область,2021,12,Covid19 unrelated,18
@@ -518,10 +518,10 @@
 Воронежская область,2021,11,Covid19 contributed,17
 Воронежская область,2021,11,Covid19 unrelated,67
 Воронежская область,2021,11,Covid19 daily reported,850
-Воронежская область,2021,12,Covid19 confirmed,726
+Воронежская область,2021,12,Covid19 confirmed,728
 Воронежская область,2021,12,Covid19 suspected,112
 Воронежская область,2021,12,Covid19 contributed,6
-Воронежская область,2021,12,Covid19 unrelated,25
+Воронежская область,2021,12,Covid19 unrelated,24
 Воронежская область,2021,12,Covid19 daily reported,1117
 Ивановская область,2020,4,Covid19 confirmed,3
 Ивановская область,2020,4,Covid19 suspected,1
@@ -938,10 +938,10 @@
 Курская область,2021,11,Covid19 contributed,5
 Курская область,2021,11,Covid19 unrelated,26
 Курская область,2021,11,Covid19 daily reported,188
-Курская область,2021,12,Covid19 confirmed,616
-Курская область,2021,12,Covid19 suspected,131
+Курская область,2021,12,Covid19 confirmed,638
+Курская область,2021,12,Covid19 suspected,109
 Курская область,2021,12,Covid19 contributed,6
-Курская область,2021,12,Covid19 unrelated,15
+Курская область,2021,12,Covid19 unrelated,14
 Курская область,2021,12,Covid19 daily reported,234
 Липецкая область,2020,4,Covid19 confirmed,1
 Липецкая область,2020,4,Covid19 suspected,0
@@ -1043,7 +1043,7 @@
 Липецкая область,2021,11,Covid19 contributed,2
 Липецкая область,2021,11,Covid19 unrelated,5
 Липецкая область,2021,11,Covid19 daily reported,388
-Липецкая область,2021,12,Covid19 confirmed,243
+Липецкая область,2021,12,Covid19 confirmed,245
 Липецкая область,2021,12,Covid19 suspected,1
 Липецкая область,2021,12,Covid19 contributed,0
 Липецкая область,2021,12,Covid19 unrelated,6
@@ -1358,8 +1358,8 @@
 Рязанская область,2021,11,Covid19 contributed,18
 Рязанская область,2021,11,Covid19 unrelated,18
 Рязанская область,2021,11,Covid19 daily reported,565
-Рязанская область,2021,12,Covid19 confirmed,432
-Рязанская область,2021,12,Covid19 suspected,31
+Рязанская область,2021,12,Covid19 confirmed,436
+Рязанская область,2021,12,Covid19 suspected,34
 Рязанская область,2021,12,Covid19 contributed,2
 Рязанская область,2021,12,Covid19 unrelated,15
 Рязанская область,2021,12,Covid19 daily reported,526
@@ -1463,10 +1463,10 @@
 Смоленская область,2021,11,Covid19 contributed,1
 Смоленская область,2021,11,Covid19 unrelated,22
 Смоленская область,2021,11,Covid19 daily reported,217
-Смоленская область,2021,12,Covid19 confirmed,351
+Смоленская область,2021,12,Covid19 confirmed,359
 Смоленская область,2021,12,Covid19 suspected,2
 Смоленская область,2021,12,Covid19 contributed,2
-Смоленская область,2021,12,Covid19 unrelated,25
+Смоленская область,2021,12,Covid19 unrelated,24
 Смоленская область,2021,12,Covid19 daily reported,224
 Тамбовская область,2020,4,Covid19 confirmed,2
 Тамбовская область,2020,4,Covid19 suspected,0
@@ -1883,10 +1883,10 @@
 Ярославская область,2021,11,Covid19 contributed,21
 Ярославская область,2021,11,Covid19 unrelated,62
 Ярославская область,2021,11,Covid19 daily reported,179
-Ярославская область,2021,12,Covid19 confirmed,442
-Ярославская область,2021,12,Covid19 suspected,4
+Ярославская область,2021,12,Covid19 confirmed,449
+Ярославская область,2021,12,Covid19 suspected,2
 Ярославская область,2021,12,Covid19 contributed,19
-Ярославская область,2021,12,Covid19 unrelated,56
+Ярославская область,2021,12,Covid19 unrelated,55
 Ярославская область,2021,12,Covid19 daily reported,327
 Москва,2020,4,Covid19 confirmed,636
 Москва,2020,4,Covid19 suspected,169
@@ -2198,10 +2198,10 @@
 Республика Коми,2021,11,Covid19 contributed,20
 Республика Коми,2021,11,Covid19 unrelated,75
 Республика Коми,2021,11,Covid19 daily reported,339
-Республика Коми,2021,12,Covid19 confirmed,273
-Республика Коми,2021,12,Covid19 suspected,7
-Республика Коми,2021,12,Covid19 contributed,21
-Республика Коми,2021,12,Covid19 unrelated,57
+Республика Коми,2021,12,Covid19 confirmed,279
+Республика Коми,2021,12,Covid19 suspected,8
+Республика Коми,2021,12,Covid19 contributed,23
+Республика Коми,2021,12,Covid19 unrelated,56
 Республика Коми,2021,12,Covid19 daily reported,334
 Ненецкий АО,2020,4,Covid19 confirmed,0
 Ненецкий АО,2020,4,Covid19 suspected,0
@@ -2408,10 +2408,10 @@
 Архангельская область без АО,2021,11,Covid19 contributed,10
 Архангельская область без АО,2021,11,Covid19 unrelated,53
 Архангельская область без АО,2021,11,Covid19 daily reported,90
-Архангельская область без АО,2021,12,Covid19 confirmed,214
-Архангельская область без АО,2021,12,Covid19 suspected,231
-Архангельская область без АО,2021,12,Covid19 contributed,8
-Архангельская область без АО,2021,12,Covid19 unrelated,34
+Архангельская область без АО,2021,12,Covid19 confirmed,224
+Архангельская область без АО,2021,12,Covid19 suspected,230
+Архангельская область без АО,2021,12,Covid19 contributed,6
+Архангельская область без АО,2021,12,Covid19 unrelated,35
 Архангельская область без АО,2021,12,Covid19 daily reported,151
 Вологодская область,2020,4,Covid19 confirmed,0
 Вологодская область,2020,4,Covid19 suspected,0
@@ -2723,10 +2723,10 @@
 Ленинградская область,2021,11,Covid19 contributed,1
 Ленинградская область,2021,11,Covid19 unrelated,3
 Ленинградская область,2021,11,Covid19 daily reported,230
-Ленинградская область,2021,12,Covid19 confirmed,608
-Ленинградская область,2021,12,Covid19 suspected,138
+Ленинградская область,2021,12,Covid19 confirmed,630
+Ленинградская область,2021,12,Covid19 suspected,134
 Ленинградская область,2021,12,Covid19 contributed,0
-Ленинградская область,2021,12,Covid19 unrelated,1
+Ленинградская область,2021,12,Covid19 unrelated,2
 Ленинградская область,2021,12,Covid19 daily reported,207
 Мурманская область,2020,4,Covid19 confirmed,4
 Мурманская область,2020,4,Covid19 suspected,0
@@ -2828,10 +2828,10 @@
 Мурманская область,2021,11,Covid19 contributed,2
 Мурманская область,2021,11,Covid19 unrelated,9
 Мурманская область,2021,11,Covid19 daily reported,234
-Мурманская область,2021,12,Covid19 confirmed,235
+Мурманская область,2021,12,Covid19 confirmed,234
 Мурманская область,2021,12,Covid19 suspected,2
 Мурманская область,2021,12,Covid19 contributed,3
-Мурманская область,2021,12,Covid19 unrelated,3
+Мурманская область,2021,12,Covid19 unrelated,4
 Мурманская область,2021,12,Covid19 daily reported,213
 Новгородская область,2020,4,Covid19 confirmed,1
 Новгородская область,2020,4,Covid19 suspected,1
@@ -2933,7 +2933,7 @@
 Новгородская область,2021,11,Covid19 contributed,2
 Новгородская область,2021,11,Covid19 unrelated,11
 Новгородская область,2021,11,Covid19 daily reported,106
-Новгородская область,2021,12,Covid19 confirmed,251
+Новгородская область,2021,12,Covid19 confirmed,253
 Новгородская область,2021,12,Covid19 suspected,0
 Новгородская область,2021,12,Covid19 contributed,1
 Новгородская область,2021,12,Covid19 unrelated,9
@@ -3143,10 +3143,10 @@
 Санкт-Петербург,2021,11,Covid19 contributed,47
 Санкт-Петербург,2021,11,Covid19 unrelated,335
 Санкт-Петербург,2021,11,Covid19 daily reported,2298
-Санкт-Петербург,2021,12,Covid19 confirmed,1894
-Санкт-Петербург,2021,12,Covid19 suspected,190
-Санкт-Петербург,2021,12,Covid19 contributed,42
-Санкт-Петербург,2021,12,Covid19 unrelated,330
+Санкт-Петербург,2021,12,Covid19 confirmed,1924
+Санкт-Петербург,2021,12,Covid19 suspected,171
+Санкт-Петербург,2021,12,Covid19 contributed,43
+Санкт-Петербург,2021,12,Covid19 unrelated,322
 Санкт-Петербург,2021,12,Covid19 daily reported,1829
 Республика Адыгея,2020,4,Covid19 confirmed,0
 Республика Адыгея,2020,4,Covid19 suspected,0
@@ -3458,8 +3458,8 @@
 Республика Крым,2021,11,Covid19 contributed,21
 Республика Крым,2021,11,Covid19 unrelated,48
 Республика Крым,2021,11,Covid19 daily reported,622
-Республика Крым,2021,12,Covid19 confirmed,411
-Республика Крым,2021,12,Covid19 suspected,27
+Республика Крым,2021,12,Covid19 confirmed,444
+Республика Крым,2021,12,Covid19 suspected,24
 Республика Крым,2021,12,Covid19 contributed,11
 Республика Крым,2021,12,Covid19 unrelated,34
 Республика Крым,2021,12,Covid19 daily reported,739
@@ -3773,10 +3773,10 @@
 Волгоградская область,2021,11,Covid19 contributed,5
 Волгоградская область,2021,11,Covid19 unrelated,11
 Волгоградская область,2021,11,Covid19 daily reported,1032
-Волгоградская область,2021,12,Covid19 confirmed,900
-Волгоградская область,2021,12,Covid19 suspected,75
+Волгоградская область,2021,12,Covid19 confirmed,909
+Волгоградская область,2021,12,Covid19 suspected,71
 Волгоградская область,2021,12,Covid19 contributed,2
-Волгоградская область,2021,12,Covid19 unrelated,12
+Волгоградская область,2021,12,Covid19 unrelated,9
 Волгоградская область,2021,12,Covid19 daily reported,935
 Ростовская область,2020,4,Covid19 confirmed,10
 Ростовская область,2020,4,Covid19 suspected,0
@@ -5138,10 +5138,10 @@
 Республика Татарстан,2021,11,Covid19 contributed,6
 Республика Татарстан,2021,11,Covid19 unrelated,81
 Республика Татарстан,2021,11,Covid19 daily reported,267
-Республика Татарстан,2021,12,Covid19 confirmed,245
-Республика Татарстан,2021,12,Covid19 suspected,371
-Республика Татарстан,2021,12,Covid19 contributed,2
-Республика Татарстан,2021,12,Covid19 unrelated,62
+Республика Татарстан,2021,12,Covid19 confirmed,274
+Республика Татарстан,2021,12,Covid19 suspected,409
+Республика Татарстан,2021,12,Covid19 contributed,3
+Республика Татарстан,2021,12,Covid19 unrelated,22
 Республика Татарстан,2021,12,Covid19 daily reported,187
 Удмуртская Республика,2020,4,Covid19 confirmed,6
 Удмуртская Республика,2020,4,Covid19 suspected,0
@@ -5243,7 +5243,7 @@
 Удмуртская Республика,2021,11,Covid19 contributed,6
 Удмуртская Республика,2021,11,Covid19 unrelated,41
 Удмуртская Республика,2021,11,Covid19 daily reported,430
-Удмуртская Республика,2021,12,Covid19 confirmed,166
+Удмуртская Республика,2021,12,Covid19 confirmed,165
 Удмуртская Республика,2021,12,Covid19 suspected,49
 Удмуртская Республика,2021,12,Covid19 contributed,9
 Удмуртская Республика,2021,12,Covid19 unrelated,25
@@ -5348,10 +5348,10 @@
 Чувашская Республика,2021,11,Covid19 contributed,0
 Чувашская Республика,2021,11,Covid19 unrelated,0
 Чувашская Республика,2021,11,Covid19 daily reported,545
-Чувашская Республика,2021,12,Covid19 confirmed,206
-Чувашская Республика,2021,12,Covid19 suspected,104
+Чувашская Республика,2021,12,Covid19 confirmed,231
+Чувашская Республика,2021,12,Covid19 suspected,26
 Чувашская Республика,2021,12,Covid19 contributed,0
-Чувашская Республика,2021,12,Covid19 unrelated,1
+Чувашская Республика,2021,12,Covid19 unrelated,2
 Чувашская Республика,2021,12,Covid19 daily reported,568
 Пермский край,2020,4,Covid19 confirmed,7
 Пермский край,2020,4,Covid19 suspected,0
@@ -5453,10 +5453,10 @@
 Пермский край,2021,11,Covid19 contributed,15
 Пермский край,2021,11,Covid19 unrelated,46
 Пермский край,2021,11,Covid19 daily reported,1048
-Пермский край,2021,12,Covid19 confirmed,649
-Пермский край,2021,12,Covid19 suspected,35
-Пермский край,2021,12,Covid19 contributed,10
-Пермский край,2021,12,Covid19 unrelated,32
+Пермский край,2021,12,Covid19 confirmed,657
+Пермский край,2021,12,Covid19 suspected,32
+Пермский край,2021,12,Covid19 contributed,9
+Пермский край,2021,12,Covid19 unrelated,27
 Пермский край,2021,12,Covid19 daily reported,602
 Кировская область,2020,4,Covid19 confirmed,0
 Кировская область,2020,4,Covid19 suspected,0
@@ -5768,10 +5768,10 @@
 Оренбургская область,2021,11,Covid19 contributed,12
 Оренбургская область,2021,11,Covid19 unrelated,48
 Оренбургская область,2021,11,Covid19 daily reported,560
-Оренбургская область,2021,12,Covid19 confirmed,392
+Оренбургская область,2021,12,Covid19 confirmed,395
 Оренбургская область,2021,12,Covid19 suspected,122
 Оренбургская область,2021,12,Covid19 contributed,31
-Оренбургская область,2021,12,Covid19 unrelated,33
+Оренбургская область,2021,12,Covid19 unrelated,31
 Оренбургская область,2021,12,Covid19 daily reported,287
 Пензенская область,2020,4,Covid19 confirmed,8
 Пензенская область,2020,4,Covid19 suspected,0
@@ -5873,7 +5873,7 @@
 Пензенская область,2021,11,Covid19 contributed,0
 Пензенская область,2021,11,Covid19 unrelated,10
 Пензенская область,2021,11,Covid19 daily reported,695
-Пензенская область,2021,12,Covid19 confirmed,441
+Пензенская область,2021,12,Covid19 confirmed,442
 Пензенская область,2021,12,Covid19 suspected,1
 Пензенская область,2021,12,Covid19 contributed,1
 Пензенская область,2021,12,Covid19 unrelated,2
@@ -6083,10 +6083,10 @@
 Саратовская область,2021,11,Covid19 contributed,25
 Саратовская область,2021,11,Covid19 unrelated,190
 Саратовская область,2021,11,Covid19 daily reported,762
-Саратовская область,2021,12,Covid19 confirmed,867
+Саратовская область,2021,12,Covid19 confirmed,875
 Саратовская область,2021,12,Covid19 suspected,20
 Саратовская область,2021,12,Covid19 contributed,19
-Саратовская область,2021,12,Covid19 unrelated,83
+Саратовская область,2021,12,Covid19 unrelated,80
 Саратовская область,2021,12,Covid19 daily reported,426
 Ульяновская область,2020,4,Covid19 confirmed,2
 Ульяновская область,2020,4,Covid19 suspected,0
@@ -6293,8 +6293,8 @@
 Курганская область,2021,11,Covid19 contributed,3
 Курганская область,2021,11,Covid19 unrelated,21
 Курганская область,2021,11,Covid19 daily reported,84
-Курганская область,2021,12,Covid19 confirmed,253
-Курганская область,2021,12,Covid19 suspected,21
+Курганская область,2021,12,Covid19 confirmed,255
+Курганская область,2021,12,Covid19 suspected,19
 Курганская область,2021,12,Covid19 contributed,3
 Курганская область,2021,12,Covid19 unrelated,17
 Курганская область,2021,12,Covid19 daily reported,124
@@ -6398,10 +6398,10 @@
 Свердловская область,2021,11,Covid19 contributed,56
 Свердловская область,2021,11,Covid19 unrelated,190
 Свердловская область,2021,11,Covid19 daily reported,958
-Свердловская область,2021,12,Covid19 confirmed,1638
-Свердловская область,2021,12,Covid19 suspected,146
-Свердловская область,2021,12,Covid19 contributed,39
-Свердловская область,2021,12,Covid19 unrelated,141
+Свердловская область,2021,12,Covid19 confirmed,1644
+Свердловская область,2021,12,Covid19 suspected,142
+Свердловская область,2021,12,Covid19 contributed,40
+Свердловская область,2021,12,Covid19 unrelated,146
 Свердловская область,2021,12,Covid19 daily reported,970
 Ханты-Мансийский АО,2020,4,Covid19 confirmed,2
 Ханты-Мансийский АО,2020,4,Covid19 suspected,0
@@ -6818,8 +6818,8 @@
 Челябинская область,2021,11,Covid19 contributed,39
 Челябинская область,2021,11,Covid19 unrelated,82
 Челябинская область,2021,11,Covid19 daily reported,890
-Челябинская область,2021,12,Covid19 confirmed,922
-Челябинская область,2021,12,Covid19 suspected,226
+Челябинская область,2021,12,Covid19 confirmed,926
+Челябинская область,2021,12,Covid19 suspected,223
 Челябинская область,2021,12,Covid19 contributed,17
 Челябинская область,2021,12,Covid19 unrelated,45
 Челябинская область,2021,12,Covid19 daily reported,894
@@ -7133,10 +7133,10 @@
 Республика Хакасия,2021,11,Covid19 contributed,4
 Республика Хакасия,2021,11,Covid19 unrelated,11
 Республика Хакасия,2021,11,Covid19 daily reported,297
-Республика Хакасия,2021,12,Covid19 confirmed,278
-Республика Хакасия,2021,12,Covid19 suspected,17
-Республика Хакасия,2021,12,Covid19 contributed,3
-Республика Хакасия,2021,12,Covid19 unrelated,0
+Республика Хакасия,2021,12,Covid19 confirmed,280
+Республика Хакасия,2021,12,Covid19 suspected,18
+Республика Хакасия,2021,12,Covid19 contributed,0
+Республика Хакасия,2021,12,Covid19 unrelated,3
 Республика Хакасия,2021,12,Covid19 daily reported,362
 Алтайский край,2020,4,Covid19 confirmed,1
 Алтайский край,2020,4,Covid19 suspected,0
@@ -7343,10 +7343,10 @@
 Красноярский край,2021,11,Covid19 contributed,54
 Красноярский край,2021,11,Covid19 unrelated,137
 Красноярский край,2021,11,Covid19 daily reported,936
-Красноярский край,2021,12,Covid19 confirmed,1249
+Красноярский край,2021,12,Covid19 confirmed,1268
 Красноярский край,2021,12,Covid19 suspected,10
-Красноярский край,2021,12,Covid19 contributed,16
-Красноярский край,2021,12,Covid19 unrelated,207
+Красноярский край,2021,12,Covid19 contributed,56
+Красноярский край,2021,12,Covid19 unrelated,167
 Красноярский край,2021,12,Covid19 daily reported,1125
 Иркутская область,2020,4,Covid19 confirmed,2
 Иркутская область,2020,4,Covid19 suspected,0
@@ -7448,10 +7448,10 @@
 Иркутская область,2021,11,Covid19 contributed,40
 Иркутская область,2021,11,Covid19 unrelated,148
 Иркутская область,2021,11,Covid19 daily reported,821
-Иркутская область,2021,12,Covid19 confirmed,1075
-Иркутская область,2021,12,Covid19 suspected,15
-Иркутская область,2021,12,Covid19 contributed,39
-Иркутская область,2021,12,Covid19 unrelated,104
+Иркутская область,2021,12,Covid19 confirmed,1180
+Иркутская область,2021,12,Covid19 suspected,14
+Иркутская область,2021,12,Covid19 contributed,37
+Иркутская область,2021,12,Covid19 unrelated,108
 Иркутская область,2021,12,Covid19 daily reported,711
 Кемеровская область,2020,4,Covid19 confirmed,2
 Кемеровская область,2020,4,Covid19 suspected,0
@@ -7553,10 +7553,10 @@
 Кемеровская область,2021,11,Covid19 contributed,200
 Кемеровская область,2021,11,Covid19 unrelated,700
 Кемеровская область,2021,11,Covid19 daily reported,116
-Кемеровская область,2021,12,Covid19 confirmed,459
+Кемеровская область,2021,12,Covid19 confirmed,461
 Кемеровская область,2021,12,Covid19 suspected,1
 Кемеровская область,2021,12,Covid19 contributed,170
-Кемеровская область,2021,12,Covid19 unrelated,475
+Кемеровская область,2021,12,Covid19 unrelated,473
 Кемеровская область,2021,12,Covid19 daily reported,138
 Новосибирская область,2020,4,Covid19 confirmed,3
 Новосибирская область,2020,4,Covid19 suspected,1
@@ -7658,10 +7658,10 @@
 Новосибирская область,2021,11,Covid19 contributed,10
 Новосибирская область,2021,11,Covid19 unrelated,68
 Новосибирская область,2021,11,Covid19 daily reported,419
-Новосибирская область,2021,12,Covid19 confirmed,1039
+Новосибирская область,2021,12,Covid19 confirmed,1054
 Новосибирская область,2021,12,Covid19 suspected,0
-Новосибирская область,2021,12,Covid19 contributed,12
-Новосибирская область,2021,12,Covid19 unrelated,81
+Новосибирская область,2021,12,Covid19 contributed,11
+Новосибирская область,2021,12,Covid19 unrelated,74
 Новосибирская область,2021,12,Covid19 daily reported,430
 Омская область,2020,4,Covid19 confirmed,2
 Омская область,2020,4,Covid19 suspected,0
@@ -7763,10 +7763,10 @@
 Омская область,2021,11,Covid19 contributed,16
 Омская область,2021,11,Covid19 unrelated,94
 Омская область,2021,11,Covid19 daily reported,364
-Омская область,2021,12,Covid19 confirmed,873
-Омская область,2021,12,Covid19 suspected,98
+Омская область,2021,12,Covid19 confirmed,939
+Омская область,2021,12,Covid19 suspected,66
 Омская область,2021,12,Covid19 contributed,20
-Омская область,2021,12,Covid19 unrelated,80
+Омская область,2021,12,Covid19 unrelated,78
 Омская область,2021,12,Covid19 daily reported,346
 Томская область,2020,4,Covid19 confirmed,1
 Томская область,2020,4,Covid19 suspected,0
@@ -7973,7 +7973,7 @@
 Республика Бурятия,2021,11,Covid19 contributed,1
 Республика Бурятия,2021,11,Covid19 unrelated,7
 Республика Бурятия,2021,11,Covid19 daily reported,205
-Республика Бурятия,2021,12,Covid19 confirmed,266
+Республика Бурятия,2021,12,Covid19 confirmed,268
 Республика Бурятия,2021,12,Covid19 suspected,0
 Республика Бурятия,2021,12,Covid19 contributed,2
 Республика Бурятия,2021,12,Covid19 unrelated,9
@@ -8603,10 +8603,10 @@
 Амурская область,2021,11,Covid19 contributed,24
 Амурская область,2021,11,Covid19 unrelated,297
 Амурская область,2021,11,Covid19 daily reported,53
-Амурская область,2021,12,Covid19 confirmed,47
+Амурская область,2021,12,Covid19 confirmed,276
 Амурская область,2021,12,Covid19 suspected,0
-Амурская область,2021,12,Covid19 contributed,24
-Амурская область,2021,12,Covid19 unrelated,448
+Амурская область,2021,12,Covid19 contributed,22
+Амурская область,2021,12,Covid19 unrelated,159
 Амурская область,2021,12,Covid19 daily reported,77
 Магаданская область,2020,4,Covid19 confirmed,2
 Магаданская область,2020,4,Covid19 suspected,0
@@ -8918,7 +8918,7 @@
 Еврейская АО,2021,11,Covid19 contributed,0
 Еврейская АО,2021,11,Covid19 unrelated,1
 Еврейская АО,2021,11,Covid19 daily reported,48
-Еврейская АО,2021,12,Covid19 confirmed,78
+Еврейская АО,2021,12,Covid19 confirmed,69
 Еврейская АО,2021,12,Covid19 suspected,1
 Еврейская АО,2021,12,Covid19 contributed,0
 Еврейская АО,2021,12,Covid19 unrelated,0
