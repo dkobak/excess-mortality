@@ -83,7 +83,7 @@ Armenia,2020,9,monthly,372.1
 Armenia,2020,10,monthly,1658.5
 Armenia,2020,11,monthly,3884.9
 Armenia,2020,12,monthly,2078.1
-Armenia,2021,1,monthly,475.3
+Armenia,2021,1,monthly,474.3
 Armenia,2021,2,monthly,226.7
 Armenia,2021,3,monthly,575.3
 Armenia,2021,4,monthly,1329.5
@@ -95,7 +95,8 @@ Armenia,2021,9,monthly,936.3
 Armenia,2021,10,monthly,1535.7
 Armenia,2021,11,monthly,2449.1
 Armenia,2021,12,monthly,731.3
-Armenia,2022,1,monthly,348.6
+Armenia,2022,1,monthly,297.6
+Armenia,2022,2,monthly,1097.0
 Aruba,2020,1,monthly,11.3
 Aruba,2020,2,monthly,-1.5
 Aruba,2020,3,monthly,16.1
@@ -516,6 +517,8 @@ Belgium,2022,6,weekly,53.2
 Belgium,2022,7,weekly,-84.0
 Belgium,2022,8,weekly,-200.2
 Belgium,2022,9,weekly,-417.2
+Belgium,2022,10,weekly,-50.2
+Belgium,2022,11,weekly,-1.0
 Belize,2020,1,monthly,1.2
 Belize,2020,2,monthly,4.6
 Belize,2020,3,monthly,-19.2
@@ -1038,40 +1041,40 @@ Colombia,2021,27,weekly,4672.9
 Colombia,2021,28,weekly,3884.1
 Colombia,2021,29,weekly,2855.3
 Colombia,2021,30,weekly,2353.1
-Colombia,2021,31,weekly,1563.1
+Colombia,2021,31,weekly,1564.1
 Colombia,2021,32,weekly,995.3
-Colombia,2021,33,weekly,807.5
+Colombia,2021,33,weekly,808.5
 Colombia,2021,34,weekly,588.1
 Colombia,2021,35,weekly,323.9
 Colombia,2021,36,weekly,299.1
 Colombia,2021,37,weekly,264.9
 Colombia,2021,38,weekly,435.5
 Colombia,2021,39,weekly,329.7
-Colombia,2021,40,weekly,418.3
-Colombia,2021,41,weekly,304.3
-Colombia,2021,42,weekly,250.9
+Colombia,2021,40,weekly,419.3
+Colombia,2021,41,weekly,305.3
+Colombia,2021,42,weekly,252.9
 Colombia,2021,43,weekly,342.9
-Colombia,2021,44,weekly,338.1
+Colombia,2021,44,weekly,340.1
 Colombia,2021,45,weekly,491.3
-Colombia,2021,46,weekly,469.9
-Colombia,2021,47,weekly,434.5
-Colombia,2021,48,weekly,607.3
-Colombia,2021,49,weekly,587.3
-Colombia,2021,50,weekly,465.3
-Colombia,2021,51,weekly,820.5
-Colombia,2021,52,weekly,718.5
-Colombia,2022,1,weekly,1005.7
-Colombia,2022,2,weekly,1915.5
-Colombia,2022,3,weekly,2699.5
-Colombia,2022,4,weekly,3227.1
-Colombia,2022,5,weekly,2760.9
-Colombia,2022,6,weekly,2005.3
-Colombia,2022,7,weekly,1256.5
-Colombia,2022,8,weekly,614.9
-Colombia,2022,9,weekly,277.7
-Colombia,2022,10,weekly,113.1
-Colombia,2022,11,weekly,-35.5
-Colombia,2022,12,weekly,-160.9
+Colombia,2021,46,weekly,473.9
+Colombia,2021,47,weekly,436.5
+Colombia,2021,48,weekly,608.3
+Colombia,2021,49,weekly,588.3
+Colombia,2021,50,weekly,466.3
+Colombia,2021,51,weekly,821.5
+Colombia,2021,52,weekly,723.5
+Colombia,2022,1,weekly,1013.7
+Colombia,2022,2,weekly,1920.5
+Colombia,2022,3,weekly,2708.5
+Colombia,2022,4,weekly,3240.1
+Colombia,2022,5,weekly,2766.9
+Colombia,2022,6,weekly,2014.3
+Colombia,2022,7,weekly,1266.5
+Colombia,2022,8,weekly,624.9
+Colombia,2022,9,weekly,305.7
+Colombia,2022,10,weekly,134.1
+Colombia,2022,11,weekly,-8.5
+Colombia,2022,12,weekly,20.1
 Costa Rica,2020,1,monthly,-54.3
 Costa Rica,2020,2,monthly,36.5
 Costa Rica,2020,3,monthly,-62.5
@@ -1686,6 +1689,7 @@ Egypt,2021,8,monthly,6681.7
 Egypt,2021,9,monthly,14114.5
 Egypt,2021,10,monthly,22291.5
 Egypt,2021,11,monthly,16404.1
+Egypt,2021,12,monthly,6644.5
 El Salvador,2020,1,monthly,131.8
 El Salvador,2020,2,monthly,-122.2
 El Salvador,2020,3,monthly,-665.0
@@ -3084,7 +3088,8 @@ Ireland,2021,9,monthly,252.8
 Ireland,2021,10,monthly,338.0
 Ireland,2021,11,monthly,441.0
 Ireland,2021,12,monthly,198.0
-Ireland,2022,1,monthly,-189.0
+Ireland,2022,1,monthly,-187.0
+Ireland,2022,2,monthly,-33.2
 Israel,2020,1,weekly,56.3
 Israel,2020,2,weekly,-68.5
 Israel,2020,3,weekly,41.3
@@ -3718,8 +3723,10 @@ Lithuania,2022,4,weekly,85.6
 Lithuania,2022,5,weekly,54.2
 Lithuania,2022,6,weekly,216.2
 Lithuania,2022,7,weekly,184.6
-Lithuania,2022,9,weekly,74.6
-Lithuania,2022,10,weekly,112.2
+Lithuania,2022,8,weekly,130.6
+Lithuania,2022,9,weekly,106.2
+Lithuania,2022,10,weekly,135.4
+Lithuania,2022,11,weekly,151.4
 Luxembourg,2020,1,weekly,-30.6
 Luxembourg,2020,2,weekly,-15.4
 Luxembourg,2020,3,weekly,-1.2
@@ -5834,11 +5841,17 @@ Seychelles,2020,10,monthly,-33.4
 Seychelles,2020,11,monthly,-7.2
 Seychelles,2020,12,monthly,-6.2
 Seychelles,2021,1,monthly,-1.3
-Seychelles,2021,2,monthly,6.3
-Seychelles,2021,3,monthly,-1.3
-Seychelles,2021,4,monthly,-3.7
+Seychelles,2021,2,monthly,10.3
+Seychelles,2021,3,monthly,2.7
+Seychelles,2021,4,monthly,-11.7
 Seychelles,2021,5,monthly,18.9
-Seychelles,2021,6,monthly,36.7
+Seychelles,2021,6,monthly,35.7
+Seychelles,2021,7,monthly,25.3
+Seychelles,2021,8,monthly,-3.7
+Seychelles,2021,9,monthly,4.7
+Seychelles,2021,10,monthly,-6.5
+Seychelles,2021,11,monthly,-16.3
+Seychelles,2021,12,monthly,2.7
 Singapore,2020,1,monthly,203.8
 Singapore,2020,2,monthly,62.6
 Singapore,2020,3,monthly,9.4
@@ -6756,6 +6769,7 @@ Transnistria,2021,10,monthly,233.1
 Transnistria,2021,11,monthly,523.8
 Transnistria,2021,12,monthly,212.3
 Transnistria,2022,1,monthly,-26.2
+Transnistria,2022,2,monthly,136.1
 Tunisia,2020,1,monthly,-216.7
 Tunisia,2020,2,monthly,47.5
 Tunisia,2020,3,monthly,-434.9
