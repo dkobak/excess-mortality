@@ -9,8 +9,8 @@ Aruba,m,181,1355,352,74,4.7,1.94,329.5,51.6
 Australia,w,2239,338352,-10831,2183,5.0,nan,-42.5,-6.4
 Austria,w,13758,166136,15292,2196,7.0,1.11,169.8,18.3
 Azerbaijan,m,8358,112696,35829,2659,13.5,4.29,353.4,63.5
-Barbados,m,69,nan,nan,nan,nan,nan,nan
-Belarus,m,2247,nan,nan,nan,nan,nan,nan
+Barbados,m,69,nan,nan,nan,nan,nan,nan,nan
+Belarus,m,2247,nan,nan,nan,nan,nan,nan,nan
 Belgium,w,28403,219961,19149,2897,6.6,0.67,165.2,17.2
 Belize,m,598,4107,127,68,1.9,0.21,31.9,6.3
 Bermuda,m,110,1116,16,27,0.6,nan,25.2,2.9
@@ -19,7 +19,7 @@ Bosnia,m,13442,72183,19123,1772,10.8,1.42,582.9,52.8
 Brazil,m,618984,2745992,698546,22982,30.4,1.13,328.6,51.2
 Brunei,m,57,3578,-17,79,0.2,nan,-3.8,-0.9
 Bulgaria,w,30955,216863,58332,2822,20.7,1.88,839.5,53.1
-Canada,w,28447,nan,nan,nan,nan,nan,nan
+Canada,w,28447,nan,nan,nan,nan,nan,nan,nan
 Chile,w,39115,225512,39031,1866,20.9,1.00,204.2,34.6
 Colombia,w,129901,502988,163399,2514,65.0,1.26,321.1,65.1
 Costa Rica,m,7357,51344,5946,814,7.3,0.81,116.7,23.5
@@ -28,31 +28,31 @@ Cuba,m,8322,226448,495,2372,0.2,0.06,4.4,0.4
 Cyprus,w,648,12600,798,271,2.9,1.23,66.1,12.6
 Czechia,w,36345,229041,41611,3007,13.8,1.14,388.6,36.1
 Denmark,w,3274,111545,962,947,1.0,0.29,16.6,1.7
-Dominican Republic,m,2105,nan,nan,nan,nan,nan,nan
+Dominican Republic,m,2105,nan,nan,nan,nan,nan,nan,nan
 Ecuador,w,33672,154825,66703,1499,44.5,1.98,378.1,86.5
 Egypt,m,21752,1120940,282713,29302,9.6,13.00,276.3,50.4
-El Salvador,m,717,nan,nan,nan,nan,nan,nan
+El Salvador,m,717,nan,nan,nan,nan,nan,nan,nan
 Estonia,w,1938,31551,3205,466,6.9,1.65,241.6,20.2
 Faroe Islands,m,14,860,-66,50,1.3,nan,-134.5,-15.4
 Finland,w,1747,110827,2661,1063,2.5,1.52,48.0,4.8
 France,w,121149,1226128,78132,12592,6.2,0.64,119.7,12.7
 French Guiana,w,339,2089,205,93,2.2,0.60,68.5,19.8
-French Polynesia,m,621,nan,nan,nan,nan,nan,nan
+French Polynesia,m,621,nan,nan,nan,nan,nan,nan,nan
 Georgia,m,13860,89939,20504,2211,9.3,1.48,514.0,45.1
 Germany,w,112109,1928828,85076,22816,3.7,0.76,101.5,8.8
-Gibraltar,m,75,nan,nan,nan,nan,nan,nan
+Gibraltar,m,75,nan,nan,nan,nan,nan,nan,nan
 Greece,w,20790,252196,24356,3385,7.2,1.17,233.7,19.2
 Greenland,m,1,1104,-54,75,0.7,nan,-94.4,-9.8
 Guadeloupe,w,831,7104,1129,180,6.3,1.36,282.2,31.9
-Guatemala,w,16095,nan,nan,nan,nan,nan,nan
-Hong Kong,m,213,nan,nan,nan,nan,nan,nan
+Guatemala,w,16095,nan,nan,nan,nan,nan,nan,nan
+Hong Kong,m,213,nan,nan,nan,nan,nan,nan,nan
 Hungary,w,39186,262214,36026,3735,9.6,0.92,372.9,27.2
 Iceland,w,37,4614,52,136,0.4,1.40,15.1,2.2
 Iran,w,131606,789510,251090,10317,24.3,1.91,298.9,63.5
 Ireland,m,6089,63380,2955,1174,2.5,0.49,59.8,9.4
 Israel,w,8258,92899,7253,882,8.2,0.88,83.8,15.5
 Italy,w,137402,1294889,168097,16042,10.5,1.22,278.0,25.7
-Jamaica,m,257,nan,nan,nan,nan,nan,nan
+Jamaica,m,257,nan,nan,nan,nan,nan,nan,nan
 Japan,m,18393,2849981,-13148,19731,0.7,nan,-10.4,-0.9
 Jordan,m,12653,57363,4569,955,4.8,0.36,44.8,16.0
 Kazakhstan,m,18231,265284,80686,5697,14.2,4.43,429.7,60.9
@@ -65,7 +65,7 @@ Liechtenstein,m,69,541,46,46,1.0,0.67,120.4,17.0
 Lithuania,w,7412,75009,16045,935,17.2,2.16,589.4,41.9
 Luxembourg,w,916,9091,28,216,0.1,0.03,4.5,0.6
 Macao,m,0,4237,313,186,1.7,nan,48.2,14.7
-Malaysia,m,26335,nan,nan,nan,nan,nan,nan
+Malaysia,m,26335,nan,nan,nan,nan,nan,nan,nan
 Maldives,m,262,2210,161,62,2.6,0.61,29.7,14.4
 Malta,w,477,7759,407,198,2.1,0.85,92.3,10.5
 Martinique,w,784,7312,934,167,5.6,1.19,248.8,25.6
@@ -75,22 +75,22 @@ Mexico,w,303137,1547426,606129,10217,59.3,2.00,470.1,78.5
 Moldova,m,10275,70400,15702,1588,9.9,1.53,389.2,44.1
 Monaco,m,38,979,135,75,1.8,3.54,343.2,27.2
 Mongolia,m,1986,35130,721,792,0.9,0.36,22.0,4.1
-Montenegro,w,2095,nan,nan,nan,nan,nan,nan
+Montenegro,w,2095,nan,nan,nan,nan,nan,nan,nan
 Netherlands,w,20920,312649,27983,3023,9.3,1.34,163.3,17.8
 New Caledonia,m,281,3317,-89,72,1.2,nan,-31.1,-5.4
 New Zealand,w,51,70762,-2797,659,4.2,nan,-58.0,-7.9
-Nicaragua,m,137,nan,nan,nan,nan,nan,nan
+Nicaragua,m,137,nan,nan,nan,nan,nan,nan,nan
 North Macedonia,m,7976,39981,14243,1297,11.0,1.79,683.6,71.1
 Norway,w,1380,81919,1118,822,1.4,0.81,20.6,2.7
 Oman,m,4116,18875,4205,533,7.9,1.02,82.3,45.2
 Palestine,m,4934,26122,1198,778,1.5,0.24,23.5,9.3
-Panama,m,7315,nan,nan,nan,nan,nan,nan
+Panama,m,7315,nan,nan,nan,nan,nan,nan,nan
 Paraguay,m,16629,68961,20049,1479,13.6,1.21,281.1,58.8
 Peru,w,202653,259285,217394,2638,82.4,1.07,659.3,171.3
-Philippines,m,48545,nan,nan,nan,nan,nan,nan
+Philippines,m,48545,nan,nan,nan,nan,nan,nan,nan
 Poland,w,97562,845636,158632,8725,18.2,1.63,419.1,37.4
 Portugal,w,18952,229583,20692,3327,6.2,1.09,202.9,17.9
-Puerto Rico,w,3274,nan,nan,nan,nan,nan,nan
+Puerto Rico,w,3274,nan,nan,nan,nan,nan,nan,nan
 Qatar,m,618,4480,921,119,7.7,1.49,32.0,40.9
 Romania,w,58752,526270,108185,6068,17.8,1.84,562.4,40.7
 Russia,m,309707,3503347,1080743,39600,27.3,3.49,736.5,61.2
