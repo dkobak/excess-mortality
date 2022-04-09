@@ -59,6 +59,18 @@ Antigua and Barbuda,2020,9,monthly,-7.5
 Antigua and Barbuda,2020,10,monthly,-6.5
 Antigua and Barbuda,2020,11,monthly,-3.7
 Antigua and Barbuda,2020,12,monthly,-10.1
+Antigua and Barbuda,2021,1,monthly,7.4
+Antigua and Barbuda,2021,2,monthly,10.8
+Antigua and Barbuda,2021,3,monthly,-6.6
+Antigua and Barbuda,2021,4,monthly,-1.0
+Antigua and Barbuda,2021,5,monthly,-6.8
+Antigua and Barbuda,2021,6,monthly,-13.8
+Antigua and Barbuda,2021,7,monthly,6.2
+Antigua and Barbuda,2021,8,monthly,-13.8
+Antigua and Barbuda,2021,9,monthly,49.8
+Antigua and Barbuda,2021,10,monthly,-32.2
+Antigua and Barbuda,2021,11,monthly,9.6
+Antigua and Barbuda,2021,12,monthly,-12.8
 Argentina,2020,1,monthly,-773.3
 Argentina,2020,2,monthly,475.9
 Argentina,2020,3,monthly,-273.7
@@ -1330,11 +1342,16 @@ Cyprus,2021,49,weekly,3.9
 Cyprus,2021,50,weekly,33.1
 Cyprus,2021,51,weekly,2.1
 Cyprus,2021,52,weekly,37.3
-Cyprus,2022,1,weekly,36.1
-Cyprus,2022,2,weekly,13.1
-Cyprus,2022,3,weekly,42.7
-Cyprus,2022,4,weekly,12.1
-Cyprus,2022,5,weekly,26.1
+Cyprus,2022,1,weekly,37.1
+Cyprus,2022,2,weekly,15.1
+Cyprus,2022,3,weekly,47.7
+Cyprus,2022,4,weekly,15.1
+Cyprus,2022,5,weekly,34.1
+Cyprus,2022,6,weekly,6.3
+Cyprus,2022,7,weekly,15.9
+Cyprus,2022,8,weekly,21.5
+Cyprus,2022,9,weekly,-12.9
+Cyprus,2022,10,weekly,-6.1
 Czechia,2020,1,weekly,-103.2
 Czechia,2020,2,weekly,-60.4
 Czechia,2020,3,weekly,-187.8
@@ -2379,6 +2396,7 @@ Germany,2022,8,weekly,-2008.8
 Germany,2022,9,weekly,-2204.2
 Germany,2022,10,weekly,-1128.8
 Germany,2022,11,weekly,-177.6
+Germany,2022,12,weekly,299.0
 Gibraltar,2020,1,monthly,0.2
 Gibraltar,2020,2,monthly,-2.0
 Gibraltar,2020,3,monthly,-1.2
@@ -2502,6 +2520,10 @@ Greece,2022,2,weekly,304.8
 Greece,2022,3,weekly,286.2
 Greece,2022,4,weekly,737.2
 Greece,2022,5,weekly,669.2
+Greece,2022,6,weekly,470.0
+Greece,2022,7,weekly,428.8
+Greece,2022,8,weekly,185.4
+Greece,2022,9,weekly,204.2
 Greenland,2020,1,monthly,-10.6
 Greenland,2020,2,monthly,6.0
 Greenland,2020,3,monthly,-12.8

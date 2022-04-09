@@ -2,7 +2,7 @@ Country,Data type,COVID-19 deaths,Expected deaths,Excess deaths,Excess deaths st
 Albania,m,3217,43529,14656,1460,10.0,4.56,509.3,67.3
 Algeria,m,6276,375781,49889,2331,21.4,7.95,113.8,26.9
 Andorra,m,140,664,90,30,3.0,0.64,116.4,27.3
-Antigua and Barbuda,m,119,1283,-57,48,1.2,nan,-58.7,-9.1
+Antigua and Barbuda,m,119,1283,-60,91,0.7,nan,-61.6,-9.5
 Argentina,m,118205,673739,41948,7257,5.8,0.35,92.8,12.4
 Armenia,m,7975,50127,15882,1416,11.2,1.99,536.0,62.7
 Aruba,m,181,1355,352,74,4.7,1.94,329.5,51.6
