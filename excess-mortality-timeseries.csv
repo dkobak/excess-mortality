@@ -380,6 +380,7 @@ Azerbaijan,2021,10,monthly,1514.7
 Azerbaijan,2021,11,monthly,3035.3
 Azerbaijan,2021,12,monthly,2333.3
 Azerbaijan,2022,1,monthly,712.9
+Azerbaijan,2022,2,monthly,1585.7
 Barbados,2020,1,monthly,-29.4
 Barbados,2020,2,monthly,-6.4
 Barbados,2020,3,monthly,19.4
@@ -630,8 +631,8 @@ Brazil,2021,9,monthly,17863.0
 Brazil,2021,10,monthly,7606.6
 Brazil,2021,11,monthly,14761.8
 Brazil,2021,12,monthly,12250.6
-Brazil,2022,1,monthly,43556.2
-Brazil,2022,2,monthly,32862.4
+Brazil,2022,1,monthly,43645.2
+Brazil,2022,2,monthly,32999.4
 Brunei,2020,1,monthly,26.8
 Brunei,2020,2,monthly,16.0
 Brunei,2020,3,monthly,1.2
@@ -763,6 +764,18 @@ Bulgaria,2022,11,weekly,185.2
 Bulgaria,2022,12,weekly,226.2
 Bulgaria,2022,13,weekly,195.4
 Bulgaria,2022,14,weekly,47.8
+Cabo Verde,2020,1,monthly,-4.0
+Cabo Verde,2020,2,monthly,0.8
+Cabo Verde,2020,3,monthly,-44.4
+Cabo Verde,2020,4,monthly,6.0
+Cabo Verde,2020,5,monthly,-2.8
+Cabo Verde,2020,6,monthly,41.4
+Cabo Verde,2020,7,monthly,4.4
+Cabo Verde,2020,8,monthly,8.8
+Cabo Verde,2020,9,monthly,49.4
+Cabo Verde,2020,10,monthly,57.0
+Cabo Verde,2020,11,monthly,38.6
+Cabo Verde,2020,12,monthly,33.4
 Canada,2020,1,weekly,-195.1
 Canada,2020,2,weekly,-244.1
 Canada,2020,3,weekly,-278.1
@@ -821,7 +834,7 @@ Canada,2021,2,weekly,197.5
 Canada,2021,3,weekly,213.5
 Canada,2021,4,weekly,220.5
 Canada,2021,5,weekly,243.5
-Canada,2021,6,weekly,-134.5
+Canada,2021,6,weekly,-129.5
 Canada,2021,7,weekly,-183.5
 Canada,2021,8,weekly,-299.5
 Canada,2021,9,weekly,-244.5
@@ -835,14 +848,14 @@ Canada,2021,16,weekly,-114.5
 Canada,2021,17,weekly,144.5
 Canada,2021,18,weekly,50.5
 Canada,2021,19,weekly,30.5
-Canada,2021,20,weekly,195.5
-Canada,2021,21,weekly,-214.5
+Canada,2021,20,weekly,200.5
+Canada,2021,21,weekly,-209.5
 Canada,2021,22,weekly,130.5
 Canada,2021,23,weekly,-140.5
-Canada,2021,24,weekly,-62.5
+Canada,2021,24,weekly,-57.5
 Canada,2021,25,weekly,-83.5
 Canada,2021,26,weekly,764.5
-Canada,2021,27,weekly,-19.5
+Canada,2021,27,weekly,-14.5
 Canada,2021,28,weekly,-2.5
 Canada,2021,29,weekly,95.5
 Canada,2021,30,weekly,163.5
@@ -850,14 +863,28 @@ Canada,2021,31,weekly,191.5
 Canada,2021,32,weekly,84.5
 Canada,2021,33,weekly,354.5
 Canada,2021,34,weekly,274.5
-Canada,2021,35,weekly,417.5
+Canada,2021,35,weekly,412.5
 Canada,2021,36,weekly,660.5
 Canada,2021,37,weekly,611.5
-Canada,2021,38,weekly,564.5
+Canada,2021,38,weekly,569.5
 Canada,2021,39,weekly,525.5
 Canada,2021,40,weekly,353.5
 Canada,2021,41,weekly,527.5
 Canada,2021,42,weekly,381.5
+Canada,2021,43,weekly,239.5
+Canada,2021,44,weekly,196.5
+Canada,2021,45,weekly,305.5
+Canada,2021,46,weekly,-11.5
+Canada,2021,47,weekly,-149.5
+Canada,2021,48,weekly,-220.5
+Canada,2021,49,weekly,-529.5
+Canada,2021,50,weekly,-525.5
+Canada,2021,51,weekly,-719.5
+Canada,2021,52,weekly,-1030.5
+Canada,2022,1,weekly,-1981.9
+Canada,2022,2,weekly,-1530.9
+Canada,2022,3,weekly,-1094.9
+Canada,2022,4,weekly,-707.9
 Chile,2020,1,weekly,87.9
 Chile,2020,2,weekly,121.1
 Chile,2020,3,weekly,75.6
@@ -3471,6 +3498,7 @@ Kazakhstan,2021,10,monthly,4863.2
 Kazakhstan,2021,11,monthly,5109.6
 Kazakhstan,2021,12,monthly,3137.4
 Kazakhstan,2022,1,monthly,935.1
+Kazakhstan,2022,2,monthly,3177.5
 Kosovo,2020,1,monthly,16.2
 Kosovo,2020,2,monthly,-9.0
 Kosovo,2020,3,monthly,-17.0
@@ -3496,6 +3524,7 @@ Kosovo,2021,10,monthly,32.8
 Kosovo,2021,11,monthly,-60.6
 Kosovo,2021,12,monthly,78.4
 Kosovo,2022,1,monthly,-39.1
+Kosovo,2022,2,monthly,123.7
 Kuwait,2020,1,monthly,-122.8
 Kuwait,2020,2,monthly,9.2
 Kuwait,2020,3,monthly,0.6
@@ -5105,16 +5134,16 @@ Paraguay,2021,1,monthly,397.3
 Paraguay,2021,2,monthly,707.3
 Paraguay,2021,3,monthly,1915.3
 Paraguay,2021,4,monthly,3604.5
-Paraguay,2021,5,monthly,4455.5
-Paraguay,2021,6,monthly,3788.9
-Paraguay,2021,7,monthly,1728.3
-Paraguay,2021,8,monthly,504.9
-Paraguay,2021,9,monthly,-28.7
+Paraguay,2021,5,monthly,4457.5
+Paraguay,2021,6,monthly,3789.9
+Paraguay,2021,7,monthly,1729.3
+Paraguay,2021,8,monthly,517.9
+Paraguay,2021,9,monthly,-27.7
 Paraguay,2021,10,monthly,0.3
-Paraguay,2021,11,monthly,87.7
-Paraguay,2021,12,monthly,272.9
-Paraguay,2022,1,monthly,2389.6
-Paraguay,2022,2,monthly,482.6
+Paraguay,2021,11,monthly,89.7
+Paraguay,2021,12,monthly,273.9
+Paraguay,2022,1,monthly,2418.6
+Paraguay,2022,2,monthly,494.6
 Peru,2020,1,weekly,303.1
 Peru,2020,2,weekly,382.1
 Peru,2020,3,weekly,271.8
@@ -5170,32 +5199,32 @@ Peru,2020,52,weekly,948.1
 Peru,2020,53,weekly,1148.1
 Peru,2021,1,weekly,1592.6
 Peru,2021,2,weekly,2254.6
-Peru,2021,3,weekly,3318.3
+Peru,2021,3,weekly,3319.3
 Peru,2021,4,weekly,4306.3
 Peru,2021,5,weekly,4528.6
 Peru,2021,6,weekly,5271.0
 Peru,2021,7,weekly,5269.0
 Peru,2021,8,weekly,4872.6
 Peru,2021,9,weekly,4923.0
-Peru,2021,10,weekly,4924.3
-Peru,2021,11,weekly,4926.0
-Peru,2021,12,weekly,5126.6
-Peru,2021,13,weekly,5490.6
+Peru,2021,10,weekly,4925.3
+Peru,2021,11,weekly,4925.0
+Peru,2021,12,weekly,5124.6
+Peru,2021,13,weekly,5489.6
 Peru,2021,14,weekly,6049.6
 Peru,2021,15,weekly,6081.3
 Peru,2021,16,weekly,5819.6
-Peru,2021,17,weekly,5342.0
-Peru,2021,18,weekly,4735.0
+Peru,2021,17,weekly,5344.0
+Peru,2021,18,weekly,4734.0
 Peru,2021,19,weekly,4168.6
 Peru,2021,20,weekly,3617.6
 Peru,2021,21,weekly,3139.6
-Peru,2021,22,weekly,2781.6
+Peru,2021,22,weekly,2782.6
 Peru,2021,23,weekly,2131.6
 Peru,2021,24,weekly,1727.6
 Peru,2021,25,weekly,1343.3
 Peru,2021,26,weekly,1160.3
 Peru,2021,27,weekly,905.6
-Peru,2021,28,weekly,735.0
+Peru,2021,28,weekly,736.0
 Peru,2021,29,weekly,598.0
 Peru,2021,30,weekly,493.3
 Peru,2021,31,weekly,427.0
@@ -5204,10 +5233,10 @@ Peru,2021,33,weekly,343.6
 Peru,2021,34,weekly,528.6
 Peru,2021,35,weekly,338.3
 Peru,2021,36,weekly,263.6
-Peru,2021,37,weekly,257.6
-Peru,2021,38,weekly,274.3
+Peru,2021,37,weekly,256.6
+Peru,2021,38,weekly,275.3
 Peru,2021,39,weekly,209.3
-Peru,2021,40,weekly,367.0
+Peru,2021,40,weekly,366.0
 Peru,2021,41,weekly,242.0
 Peru,2021,42,weekly,178.6
 Peru,2021,43,weekly,157.0
@@ -5219,20 +5248,21 @@ Peru,2021,48,weekly,464.6
 Peru,2021,49,weekly,530.0
 Peru,2021,50,weekly,417.0
 Peru,2021,51,weekly,535.0
-Peru,2021,52,weekly,692.6
-Peru,2022,1,weekly,893.2
-Peru,2022,2,weekly,1142.2
-Peru,2022,3,weekly,1666.9
-Peru,2022,4,weekly,1950.9
-Peru,2022,5,weekly,1741.2
-Peru,2022,6,weekly,1460.5
-Peru,2022,7,weekly,972.5
-Peru,2022,8,weekly,577.2
-Peru,2022,9,weekly,441.5
-Peru,2022,10,weekly,430.9
-Peru,2022,11,weekly,339.5
-Peru,2022,12,weekly,123.2
-Peru,2022,13,weekly,111.2
+Peru,2021,52,weekly,694.6
+Peru,2022,1,weekly,897.2
+Peru,2022,2,weekly,1147.2
+Peru,2022,3,weekly,1672.9
+Peru,2022,4,weekly,1951.9
+Peru,2022,5,weekly,1744.2
+Peru,2022,6,weekly,1464.5
+Peru,2022,7,weekly,979.5
+Peru,2022,8,weekly,581.2
+Peru,2022,9,weekly,445.5
+Peru,2022,10,weekly,438.9
+Peru,2022,11,weekly,347.5
+Peru,2022,12,weekly,137.2
+Peru,2022,13,weekly,138.2
+Peru,2022,14,weekly,162.2
 Philippines,2020,1,monthly,-1699.0
 Philippines,2020,2,monthly,-2401.6
 Philippines,2020,3,monthly,-5118.8
@@ -6891,9 +6921,9 @@ Transnistria,2020,12,monthly,427.9
 Transnistria,2021,1,monthly,204.4
 Transnistria,2021,2,monthly,72.7
 Transnistria,2021,3,monthly,266.0
-Transnistria,2021,4,monthly,237.7
-Transnistria,2021,5,monthly,161.7
-Transnistria,2021,6,monthly,118.7
+Transnistria,2021,4,monthly,327.7
+Transnistria,2021,5,monthly,73.7
+Transnistria,2021,6,monthly,117.7
 Transnistria,2021,7,monthly,64.3
 Transnistria,2021,8,monthly,-30.2
 Transnistria,2021,9,monthly,103.6
