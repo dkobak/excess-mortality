@@ -631,8 +631,8 @@ Brazil,2021,9,monthly,17877.0
 Brazil,2021,10,monthly,7629.6
 Brazil,2021,11,monthly,14811.8
 Brazil,2021,12,monthly,12299.6
-Brazil,2022,1,monthly,43608.2
-Brazil,2022,2,monthly,32967.4
+Brazil,2022,1,monthly,43615.2
+Brazil,2022,2,monthly,32979.4
 Brunei,2020,1,monthly,26.8
 Brunei,2020,2,monthly,16.0
 Brunei,2020,3,monthly,1.2
@@ -877,14 +877,6 @@ Canada,2021,45,weekly,305.5
 Canada,2021,46,weekly,-11.5
 Canada,2021,47,weekly,-149.5
 Canada,2021,48,weekly,-220.5
-Canada,2021,49,weekly,-529.5
-Canada,2021,50,weekly,-525.5
-Canada,2021,51,weekly,-719.5
-Canada,2021,52,weekly,-1030.5
-Canada,2022,1,weekly,-1981.9
-Canada,2022,2,weekly,-1530.9
-Canada,2022,3,weekly,-1094.9
-Canada,2022,4,weekly,-707.9
 Chile,2020,1,weekly,87.9
 Chile,2020,2,weekly,121.1
 Chile,2020,3,weekly,75.6
@@ -1763,18 +1755,18 @@ Egypt,2020,9,monthly,6840.6
 Egypt,2020,10,monthly,3063.6
 Egypt,2020,11,monthly,6860.2
 Egypt,2020,12,monthly,15763.6
-Egypt,2021,1,monthly,12663.5
-Egypt,2021,2,monthly,6352.3
-Egypt,2021,3,monthly,15271.7
-Egypt,2021,4,monthly,25783.5
-Egypt,2021,5,monthly,31063.9
-Egypt,2021,6,monthly,11463.5
-Egypt,2021,7,monthly,8397.3
-Egypt,2021,8,monthly,6681.7
-Egypt,2021,9,monthly,14114.5
-Egypt,2021,10,monthly,22291.5
-Egypt,2021,11,monthly,16404.1
-Egypt,2021,12,monthly,6644.5
+Egypt,2021,1,monthly,10980.5
+Egypt,2021,2,monthly,6077.3
+Egypt,2021,3,monthly,14439.7
+Egypt,2021,4,monthly,24874.5
+Egypt,2021,5,monthly,29947.9
+Egypt,2021,6,monthly,11443.5
+Egypt,2021,7,monthly,7858.3
+Egypt,2021,8,monthly,6716.7
+Egypt,2021,9,monthly,14087.5
+Egypt,2021,10,monthly,22284.5
+Egypt,2021,11,monthly,16384.1
+Egypt,2021,12,monthly,6670.5
 El Salvador,2020,1,monthly,131.8
 El Salvador,2020,2,monthly,-122.2
 El Salvador,2020,3,monthly,-665.0
@@ -6285,7 +6277,7 @@ South Africa,2020,23,weekly,-977.1
 South Africa,2020,24,weekly,-497.5
 South Africa,2020,25,weekly,1065.3
 South Africa,2020,26,weekly,1579.7
-South Africa,2020,27,weekly,2345.7
+South Africa,2020,27,weekly,2344.7
 South Africa,2020,28,weekly,4174.5
 South Africa,2020,29,weekly,5843.9
 South Africa,2020,30,weekly,5995.7
@@ -6309,7 +6301,7 @@ South Africa,2020,47,weekly,1444.5
 South Africa,2020,48,weekly,640.9
 South Africa,2020,49,weekly,1859.9
 South Africa,2020,50,weekly,3201.7
-South Africa,2020,51,weekly,4073.7
+South Africa,2020,51,weekly,4074.7
 South Africa,2020,52,weekly,7334.1
 South Africa,2020,53,weekly,10042.1
 South Africa,2021,1,weekly,13372.3
@@ -6336,9 +6328,9 @@ South Africa,2021,21,weekly,2191.5
 South Africa,2021,22,weekly,2772.3
 South Africa,2021,23,weekly,2897.1
 South Africa,2021,24,weekly,2478.7
-South Africa,2021,25,weekly,4430.5
+South Africa,2021,25,weekly,4431.5
 South Africa,2021,26,weekly,5981.9
-South Africa,2021,27,weekly,7302.9
+South Africa,2021,27,weekly,7304.9
 South Africa,2021,28,weekly,10339.7
 South Africa,2021,29,weekly,9574.1
 South Africa,2021,30,weekly,8546.9
@@ -6346,38 +6338,39 @@ South Africa,2021,31,weekly,6425.1
 South Africa,2021,32,weekly,4761.3
 South Africa,2021,33,weekly,5181.3
 South Africa,2021,34,weekly,4483.5
-South Africa,2021,35,weekly,4321.3
-South Africa,2021,36,weekly,3030.3
+South Africa,2021,35,weekly,4322.3
+South Africa,2021,36,weekly,3031.3
 South Africa,2021,37,weekly,2034.7
 South Africa,2021,38,weekly,1760.9
-South Africa,2021,39,weekly,1228.7
+South Africa,2021,39,weekly,1229.7
 South Africa,2021,40,weekly,803.9
 South Africa,2021,41,weekly,1210.7
-South Africa,2021,42,weekly,940.9
+South Africa,2021,42,weekly,941.9
 South Africa,2021,43,weekly,512.9
 South Africa,2021,44,weekly,1249.3
 South Africa,2021,45,weekly,1308.3
 South Africa,2021,46,weekly,954.5
 South Africa,2021,47,weekly,895.7
-South Africa,2021,48,weekly,1571.1
-South Africa,2021,49,weekly,1320.1
+South Africa,2021,48,weekly,1573.1
+South Africa,2021,49,weekly,1321.1
 South Africa,2021,50,weekly,2409.9
-South Africa,2021,51,weekly,3112.9
-South Africa,2021,52,weekly,3432.3
-South Africa,2022,1,weekly,2320.5
-South Africa,2022,2,weekly,2156.9
-South Africa,2022,3,weekly,1383.5
+South Africa,2021,51,weekly,3117.9
+South Africa,2021,52,weekly,3433.3
+South Africa,2022,1,weekly,2321.5
+South Africa,2022,2,weekly,2157.9
+South Africa,2022,3,weekly,1385.5
 South Africa,2022,4,weekly,997.1
-South Africa,2022,5,weekly,1050.3
-South Africa,2022,6,weekly,661.3
-South Africa,2022,7,weekly,655.7
-South Africa,2022,8,weekly,838.9
-South Africa,2022,9,weekly,747.3
-South Africa,2022,10,weekly,776.3
-South Africa,2022,11,weekly,594.9
-South Africa,2022,12,weekly,786.9
-South Africa,2022,13,weekly,565.1
-South Africa,2022,14,weekly,622.5
+South Africa,2022,5,weekly,1052.3
+South Africa,2022,6,weekly,662.3
+South Africa,2022,7,weekly,657.7
+South Africa,2022,8,weekly,841.9
+South Africa,2022,9,weekly,750.3
+South Africa,2022,10,weekly,782.3
+South Africa,2022,11,weekly,602.9
+South Africa,2022,12,weekly,810.9
+South Africa,2022,13,weekly,638.1
+South Africa,2022,14,weekly,18.5
+South Africa,2022,15,weekly,763.7
 South Korea,2020,1,weekly,24.4
 South Korea,2020,2,weekly,-129.2
 South Korea,2020,3,weekly,-8.0
