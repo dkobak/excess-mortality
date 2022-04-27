@@ -633,8 +633,8 @@ Brazil,2021,9,monthly,17907.0
 Brazil,2021,10,monthly,7659.6
 Brazil,2021,11,monthly,14858.8
 Brazil,2021,12,monthly,12317.6
-Brazil,2022,1,monthly,43671.2
-Brazil,2022,2,monthly,33089.4
+Brazil,2022,1,monthly,43394.2
+Brazil,2022,2,monthly,32868.4
 Brunei,2020,1,monthly,26.8
 Brunei,2020,2,monthly,16.0
 Brunei,2020,3,monthly,1.2
@@ -3866,6 +3866,7 @@ Lithuania,2022,10,weekly,135.4
 Lithuania,2022,11,weekly,151.4
 Lithuania,2022,12,weekly,162.4
 Lithuania,2022,13,weekly,133.4
+Lithuania,2022,14,weekly,98.2
 Luxembourg,2020,1,weekly,-30.6
 Luxembourg,2020,2,weekly,-15.4
 Luxembourg,2020,3,weekly,-1.2
@@ -5993,6 +5994,7 @@ San Marino,2021,11,monthly,1.2
 San Marino,2021,12,monthly,12.8
 San Marino,2022,1,monthly,8.2
 San Marino,2022,2,monthly,-1.2
+San Marino,2022,3,monthly,-3.2
 Serbia,2020,1,monthly,-504.7
 Serbia,2020,2,monthly,78.1
 Serbia,2020,3,monthly,-93.5
@@ -6019,6 +6021,7 @@ Serbia,2021,11,monthly,7005.4
 Serbia,2021,12,monthly,3592.6
 Serbia,2022,1,monthly,1061.6
 Serbia,2022,2,monthly,4027.4
+Serbia,2022,3,monthly,2166.8
 Seychelles,2020,1,monthly,-3.2
 Seychelles,2020,2,monthly,-4.6
 Seychelles,2020,3,monthly,-12.2
