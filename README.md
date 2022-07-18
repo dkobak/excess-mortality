@@ -43,6 +43,16 @@ Daily reported Covid-19 mortality and estimated excess mortality across the coun
 
 <p><a href="img/countries.png?raw=true"><img src="img/countries.png" width="600" title="Across countries"></a>
 
+--------------------------
+
+## Excess mortality in Europe by NUTS-2 regions
+
+The code is in the `europe-nuts.ipynb` notebook. The weekly data are sourced from Eurostat, excess mortality is computed using the WMD model (i.e. accounting for yearly trend and extrapolating it forward; total excess is the sum from 2020, week 10, onwards). Figure generated in July 2022:
+
+<p><a href="img/europe_nuts2_excess_per_100k.png?raw=true"><img src="img/europe_nuts2_excess_per_100k.png" width="600" title="Excess mortality in Europe by NUTS regions"></a>
+
+See also <a href="img/europe_nuts2_excess_per_100k_animation.mp4?raw=true">animation of weekly excess mortality</a>.
+
 
 --------------------------
 
