@@ -45,13 +45,20 @@ Daily reported Covid-19 mortality and estimated excess mortality across the coun
 
 --------------------------
 
-## Excess mortality in Europe by NUTS-3 regions
+## Excess mortality in Europe by NUTS regions
 
-The code is in the `europe-nuts.ipynb` notebook. The weekly data are sourced from Eurostat, excess mortality is computed using the WMD model (i.e. accounting for yearly trend and extrapolating it forward; total excess is the sum from 2020, week 10, onwards). Unfortunately the data for UK are only available for 2020.
+The code is in the `europe-nuts.ipynb` notebook. The weekly data are sourced from Eurostat, excess mortality is computed using the WMD model (i.e. accounting for yearly trend and extrapolating it forward; total excess is the sum from 2020, week 10, onwards). I am using NUTS3 regions in most places, but NUTS2 are used in Belgium, Netherlands, and UK because there NUTS3 appear too small on this map (London is shown as NUTS1), and also in Serbia because I am not sure NUTS3 data are reliable.
+
+Caveat: UK data in Eurostat are only available for 2020, meaning that excess mortality in 2021 is not taken into account.
 
 <p><a href="img/europe_nuts_excess_per_100k.png?raw=true"><img src="img/europe_nuts_excess_per_100k.png" width="600" title="Excess mortality in Europe by NUTS regions"></a>
 
 See also <a href="img/europe_nuts_excess_per_100k_animation.mp4?raw=true">animation of weekly excess mortality</a>.
+
+The same figure by P-scores:
+
+<p><a href="img/europe_nuts_excess_normalized.png?raw=true"><img src="img/europe_nuts_excess_normalized.png" width="600" title="Excess mortality in Europe by NUTS regions"></a>
+
 
 
 --------------------------
