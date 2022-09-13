@@ -111,6 +111,11 @@ Note: at the moment all estimates are in this section are made using the same 20
 <p>Seasonal variation:
 
 <p><a href="img/monthly-deviations.png?raw=true"><img src="img/monthly-deviations.png" width="400" title="Monthly deviations"></a>
+
+<p>Detailed history of monthly deaths:
+
+<p><a href="img/russia-history.png?raw=true"><img src="img/russia-history.png" width="600" title="Monthly deaths in Russia"></a>
+
   
 ### Weekly data
   
