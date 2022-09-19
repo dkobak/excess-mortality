@@ -621,6 +621,18 @@ Belize,2020,9,monthly,-17.8
 Belize,2020,10,monthly,21.2
 Belize,2020,11,monthly,85.2
 Belize,2020,12,monthly,93.0
+Belize,2021,1,monthly,17.4
+Belize,2021,2,monthly,18.8
+Belize,2021,3,monthly,-18.0
+Belize,2021,4,monthly,-30.6
+Belize,2021,5,monthly,0.8
+Belize,2021,6,monthly,11.6
+Belize,2021,7,monthly,-1.2
+Belize,2021,8,monthly,75.8
+Belize,2021,9,monthly,84.4
+Belize,2021,10,monthly,115.4
+Belize,2021,11,monthly,142.4
+Belize,2021,12,monthly,-3.8
 Bermuda,2020,1,monthly,-14.9
 Bermuda,2020,2,monthly,3.5
 Bermuda,2020,3,monthly,10.7
@@ -3831,31 +3843,33 @@ Israel,2022,2,weekly,117.3
 Israel,2022,3,weekly,318.1
 Israel,2022,4,weekly,399.3
 Israel,2022,5,weekly,468.5
-Israel,2022,6,weekly,361.5
-Israel,2022,7,weekly,257.9
+Israel,2022,6,weekly,362.5
+Israel,2022,7,weekly,258.9
 Israel,2022,8,weekly,170.1
-Israel,2022,9,weekly,99.5
+Israel,2022,9,weekly,100.5
 Israel,2022,10,weekly,36.5
 Israel,2022,11,weekly,66.5
 Israel,2022,12,weekly,111.5
 Israel,2022,13,weekly,204.5
-Israel,2022,14,weekly,147.7
+Israel,2022,14,weekly,148.7
 Israel,2022,15,weekly,14.7
 Israel,2022,16,weekly,55.9
 Israel,2022,17,weekly,30.3
-Israel,2022,18,weekly,76.7
-Israel,2022,19,weekly,6.3
+Israel,2022,18,weekly,77.7
+Israel,2022,19,weekly,7.3
 Israel,2022,20,weekly,0.3
-Israel,2022,21,weekly,37.7
-Israel,2022,22,weekly,11.5
-Israel,2022,23,weekly,48.3
-Israel,2022,24,weekly,66.5
-Israel,2022,25,weekly,27.7
-Israel,2022,26,weekly,116.7
-Israel,2022,27,weekly,140.3
-Israel,2022,28,weekly,107.9
-Israel,2022,29,weekly,122.3
-Israel,2022,30,weekly,131.5
+Israel,2022,21,weekly,40.7
+Israel,2022,22,weekly,12.5
+Israel,2022,23,weekly,49.3
+Israel,2022,24,weekly,68.5
+Israel,2022,25,weekly,28.7
+Israel,2022,26,weekly,118.7
+Israel,2022,27,weekly,143.3
+Israel,2022,28,weekly,117.9
+Israel,2022,29,weekly,131.3
+Israel,2022,30,weekly,145.5
+Israel,2022,31,weekly,84.9
+Israel,2022,32,weekly,77.7
 Italy,2020,1,weekly,-1904.1
 Italy,2020,2,weekly,-1710.3
 Italy,2020,3,weekly,-1413.5
@@ -4094,6 +4108,7 @@ Kazakhstan,2022,3,monthly,-74.1
 Kazakhstan,2022,4,monthly,-1600.3
 Kazakhstan,2022,5,monthly,-472.3
 Kazakhstan,2022,6,monthly,-189.9
+Kazakhstan,2022,7,monthly,-1069.5
 Kosovo,2020,1,monthly,16.2
 Kosovo,2020,2,monthly,-9.0
 Kosovo,2020,3,monthly,-17.0
@@ -4166,6 +4181,7 @@ Kyrgyzstan,2022,3,monthly,303.1
 Kyrgyzstan,2022,4,monthly,345.9
 Kyrgyzstan,2022,5,monthly,-722.5
 Kyrgyzstan,2022,6,monthly,-24.7
+Kyrgyzstan,2022,7,monthly,-399.1
 Latvia,2020,1,weekly,-2.0
 Latvia,2020,2,weekly,-21.4
 Latvia,2020,3,weekly,-86.8
@@ -5612,18 +5628,30 @@ Netherlands,2022,31,weekly,156.2
 Netherlands,2022,32,weekly,191.8
 Netherlands,2022,33,weekly,317.6
 Netherlands,2022,34,weekly,330.2
-New Caledonia,2020,1,monthly,-2.0
-New Caledonia,2020,2,monthly,15.8
-New Caledonia,2020,3,monthly,13.2
-New Caledonia,2020,4,monthly,-41.2
-New Caledonia,2020,5,monthly,-3.4
-New Caledonia,2020,6,monthly,-0.8
+New Caledonia,2020,1,monthly,-4.0
+New Caledonia,2020,2,monthly,8.8
+New Caledonia,2020,3,monthly,17.2
+New Caledonia,2020,4,monthly,-33.2
+New Caledonia,2020,5,monthly,-0.4
+New Caledonia,2020,6,monthly,-2.8
 New Caledonia,2020,7,monthly,-5.4
-New Caledonia,2020,8,monthly,-12.0
-New Caledonia,2020,9,monthly,-22.6
-New Caledonia,2020,10,monthly,4.0
-New Caledonia,2020,11,monthly,-29.4
-New Caledonia,2020,12,monthly,-5.4
+New Caledonia,2020,8,monthly,-14.0
+New Caledonia,2020,9,monthly,-32.6
+New Caledonia,2020,10,monthly,-2.0
+New Caledonia,2020,11,monthly,-32.4
+New Caledonia,2020,12,monthly,-2.4
+New Caledonia,2021,1,monthly,-4.6
+New Caledonia,2021,2,monthly,-4.8
+New Caledonia,2021,3,monthly,-18.4
+New Caledonia,2021,4,monthly,3.2
+New Caledonia,2021,5,monthly,-14.0
+New Caledonia,2021,6,monthly,1.6
+New Caledonia,2021,7,monthly,-12.0
+New Caledonia,2021,8,monthly,14.4
+New Caledonia,2021,9,monthly,178.8
+New Caledonia,2021,10,monthly,139.4
+New Caledonia,2021,11,monthly,11.0
+New Caledonia,2021,12,monthly,14.0
 New Zealand,2020,1,weekly,-17.6
 New Zealand,2020,2,weekly,-46.2
 New Zealand,2020,3,weekly,27.4
@@ -6203,8 +6231,9 @@ Philippines,2021,9,monthly,66115.7
 Philippines,2021,10,monthly,28840.5
 Philippines,2021,11,monthly,5255.9
 Philippines,2021,12,monthly,1914.9
-Philippines,2022,1,monthly,11412.3
-Philippines,2022,2,monthly,-1893.3
+Philippines,2022,1,monthly,11992.3
+Philippines,2022,2,monthly,674.7
+Philippines,2022,3,monthly,-3815.5
 Poland,2020,1,weekly,-337.9
 Poland,2020,2,weekly,-567.9
 Poland,2020,3,weekly,-777.7
