@@ -67,9 +67,9 @@ The same figure by P-scores:
 
 The code for my February 2021 paper in *Significance* [Excess mortality reveals Covid's true toll in Russia](https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01486) is available in the `significance2021` folder, together with the frozen data and the final figures.
 
-Figures below are updated every month. The up-to-date data can be found in the `russian-data` folder. Code: [`russia.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb). Since November 1, 2021, I am using monthly data _by date of death_ for all years up to 2020, and monthly date _by date of registration_ starting from 2021 (as the data by date of death are not yet available). The data by date of death were provided by Rosstat upon my request. (Note that the dataset includes deaths with known year but unknown month of death; I redistributed those proportionally to the deaths with known month of death.) Thanks to [Alexey Raksha](https://www.facebook.com/100001739601178) for helpful discussions.
+Figures below are updated every month. The up-to-date data can be found in the `russian-data` folder. Code: [`russia.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb). I am using monthly data _by date of death_ for all years up to 2021, and monthly date _by date of registration_ starting from 2022 (as the data by date of death are not yet available). The data by date of death were provided by Rosstat upon my request. (Note that the dataset includes deaths with known year but unknown month of death; I redistributed those proportionally to the deaths with known month of death.) Thanks to [Alexey Raksha](https://www.facebook.com/100001739601178) for helpful discussions.
   
-Note: at the moment all estimates are in this section are made using the same 2020 baseline for all years (2020, 2021). I plan to change it to using different baselines for each year, as above.
+Note: at the moment all estimates are in this section are made using the same 2020 baseline for all years (2020, 2021, 2022). I plan to change it to using different baselines for each year, as above.
 
 <p><a href="img/allregions.png?raw=true"><img src="img/allregions.png" width="800" title="Excess mortality in Russian regions"></a>
   
@@ -98,7 +98,7 @@ Note: at the moment all estimates are in this section are made using the same 20
 <p>Yearly deaths:
 
 <p><a href="img/yearly.png?raw=true"><img src="img/yearly.png" width="400" title="Yearly deaths in Russia"></a>
-<p style="font-size: 80%">Back in 2019 Rosstat made <a href="https://rosstat.gov.ru/folder/12781">forecast for 2020</a> (<a href="https://rosstat.gov.ru/storage/mediabank/progn5.xls">xls</a>): 1.7890 million deaths (1.7413--1.8304). Upper/lower/middle forecasts are shown with dashed lines. The actual number in 2019 was 1,798,307. The actual number in 2020 was 2,138,586. The excess compared to their forecast is 349 thousand. For reference, my linear forecast is 1.7658.</p>
+<p style="font-size: 80%">Back in 2019 Rosstat made <a href="https://rosstat.gov.ru/folder/12781">forecast until 2035</a> (<a href="https://rosstat.gov.ru/storage/mediabank/progn5.xls">xls</a>). Upper/lower/middle forecasts are shown with dashed lines. The actual number in 2019 was 1,798,307. The actual number in 2020 was 2,138,586 (forecast: 1.7890 mln; 1.7413--1.8304). The actual number in 2021 was 2,441,594 (forecast: 1.7877 mln; 1.7158--1.8481).</p>
 
 <p>Detailed statistics in regions with the most excess deaths:
 
