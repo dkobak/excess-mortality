@@ -3386,6 +3386,10 @@ Greece,2022,41,weekly,30.2
 Greece,2022,42,weekly,46.6
 Greece,2022,43,weekly,180.2
 Greece,2022,44,weekly,121.0
+Greece,2022,45,weekly,17.4
+Greece,2022,46,weekly,209.4
+Greece,2022,47,weekly,55.2
+Greece,2022,48,weekly,316.0
 Greenland,2020,1,monthly,-10.6
 Greenland,2020,2,monthly,6.0
 Greenland,2020,3,monthly,-12.8
@@ -4643,6 +4647,8 @@ Kazakhstan,2022,6,monthly,-189.9
 Kazakhstan,2022,7,monthly,-1069.5
 Kazakhstan,2022,8,monthly,1016.9
 Kazakhstan,2022,9,monthly,-453.9
+Kazakhstan,2022,10,monthly,-693.9
+Kazakhstan,2022,11,monthly,76.5
 Kosovo,2020,1,monthly,16.2
 Kosovo,2020,2,monthly,-9.0
 Kosovo,2020,3,monthly,-17.0
@@ -4677,6 +4683,7 @@ Kosovo,2022,7,monthly,-61.7
 Kosovo,2022,8,monthly,-119.1
 Kosovo,2022,9,monthly,-142.7
 Kosovo,2022,10,monthly,-123.9
+Kosovo,2022,11,monthly,-94.3
 Kuwait,2020,1,monthly,-122.8
 Kuwait,2020,2,monthly,9.2
 Kuwait,2020,3,monthly,0.6
@@ -4890,6 +4897,7 @@ Latvia,2022,47,weekly,60.7
 Latvia,2022,48,weekly,35.3
 Latvia,2022,49,weekly,56.9
 Latvia,2022,50,weekly,135.3
+Latvia,2022,51,weekly,123.3
 Lebanon,2020,1,monthly,329.7
 Lebanon,2020,2,monthly,189.5
 Lebanon,2020,3,monthly,-230.5
@@ -6543,18 +6551,30 @@ New Zealand,2022,48,weekly,-28.8
 New Zealand,2022,49,weekly,59.6
 New Zealand,2022,50,weekly,51.0
 New Zealand,2022,51,weekly,-45.8
-Nicaragua,2020,1,monthly,-41.3
-Nicaragua,2020,2,monthly,87.3
+Nicaragua,2020,1,monthly,-40.3
+Nicaragua,2020,2,monthly,89.3
 Nicaragua,2020,3,monthly,-76.5
 Nicaragua,2020,4,monthly,57.3
 Nicaragua,2020,5,monthly,3535.9
-Nicaragua,2020,6,monthly,3484.3
+Nicaragua,2020,6,monthly,3485.3
 Nicaragua,2020,7,monthly,997.5
 Nicaragua,2020,8,monthly,154.1
-Nicaragua,2020,9,monthly,-134.5
-Nicaragua,2020,10,monthly,-94.1
-Nicaragua,2020,11,monthly,64.1
-Nicaragua,2020,12,monthly,114.3
+Nicaragua,2020,9,monthly,-133.5
+Nicaragua,2020,10,monthly,-92.1
+Nicaragua,2020,11,monthly,76.1
+Nicaragua,2020,12,monthly,138.3
+Nicaragua,2021,1,monthly,95.0
+Nicaragua,2021,2,monthly,34.6
+Nicaragua,2021,3,monthly,49.8
+Nicaragua,2021,4,monthly,105.6
+Nicaragua,2021,5,monthly,395.2
+Nicaragua,2021,6,monthly,560.6
+Nicaragua,2021,7,monthly,854.8
+Nicaragua,2021,8,monthly,1385.4
+Nicaragua,2021,9,monthly,3966.8
+Nicaragua,2021,10,monthly,1703.2
+Nicaragua,2021,11,monthly,75.4
+Nicaragua,2021,12,monthly,-133.4
 North Macedonia,2020,1,monthly,-269.0
 North Macedonia,2020,2,monthly,-96.6
 North Macedonia,2020,3,monthly,-109.2
@@ -7716,6 +7736,7 @@ Russia,2022,7,monthly,-6693.2
 Russia,2022,8,monthly,10127.4
 Russia,2022,9,monthly,16672.2
 Russia,2022,10,monthly,3427.6
+Russia,2022,11,monthly,12915.6
 Réunion,2020,1,weekly,-17.5
 Réunion,2020,2,weekly,-5.1
 Réunion,2020,3,weekly,-9.7
