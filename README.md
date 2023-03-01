@@ -8,7 +8,7 @@ See the [`elife2021`](https://github.com/dkobak/excess-mortality/blob/main/elife
 
 Analysis code: [`all-countries.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/all-countries.ipynb) (can be [run in Colab](https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb)).
 
-The data are sourced from the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality). Excess mortality is computed relative to the baseline obtained using linear extrapolation of the 2015–19 trend (different baselines for 2020, 2021, and 2022). In each subplot in the figure below, gray lines are 2015–19, black line is baseline for 2020, red line is 2020, blue line is 2021, orange line is 2022. Countries are sorted by the total excess mortality as % of the 2020 baseline.
+The data are sourced from the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality). Excess mortality is computed relative to the baseline obtained using linear extrapolation of the 2015–19 trend (different baselines for 2020, 2021, and 2022). In each subplot in the figure below, gray lines are 2015–19, black line is baseline for 2020, red line is 2020, blue line is 2021, orange line is 2022, green line is 2023. Countries are sorted by the total excess mortality as % of the 2020 baseline.
 
 Red number: excess mortality starting from the first officially reported Covid-19 death.<br>
 Gray number: excess mortality as a % of the annual (2020) baseline deaths.<br>
@@ -30,12 +30,12 @@ See full table in CSV: [`excess-mortality.csv`](https://github.com/dkobak/excess
 <p>The same figure without the projections (as in the paper): 
 
 <p><a href="img/leaderboard-paper.png?raw=true"><img src="img/leaderboard-paper.png" width="600" title="Top countries by excess mortality (without projections)"></a>
-
-<p>See also <a href="img/leaderboard-paper-2020.png?raw=true">the same figure for 2020 on its own</a>.</p>
   
 <p>Tracking of excess mortality and official Covid deaths:
   
 <p><a href="img/tracking.png?raw=true"><img src="img/tracking.png" width="800" title="Excess mortality tracking Covid mortality"></a>
+
+<p><em>Note: On March 1, 2023, I removed the European 2020 heatwave correction that we did in the eLife paper. There were multiple heatwaves since then, and we are not able to systematically correct for it always. So this correction has been dropped.</em>
 
 
 ### Extrapolation until today
