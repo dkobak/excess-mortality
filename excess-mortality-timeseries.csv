@@ -118,7 +118,7 @@ Argentina,2021,8,monthly,5196.8
 Argentina,2021,9,monthly,109.8
 Argentina,2021,10,monthly,779.2
 Argentina,2021,11,monthly,1427.4
-Argentina,2021,12,monthly,-263.0
+Argentina,2021,12,monthly,4294.0
 Armenia,2020,1,monthly,-18.9
 Armenia,2020,2,monthly,195.5
 Armenia,2020,3,monthly,-19.9
@@ -533,6 +533,7 @@ Azerbaijan,2022,9,monthly,373.1
 Azerbaijan,2022,10,monthly,-598.1
 Azerbaijan,2022,11,monthly,429.5
 Azerbaijan,2022,12,monthly,101.7
+Azerbaijan,2023,1,monthly,256.2
 Bahamas,2020,1,monthly,4.0
 Bahamas,2020,2,monthly,-23.8
 Bahamas,2020,3,monthly,-13.0
@@ -2703,6 +2704,7 @@ Faroe Islands,2022,9,monthly,-2.5
 Faroe Islands,2022,10,monthly,-4.9
 Faroe Islands,2022,11,monthly,-0.3
 Faroe Islands,2022,12,monthly,-1.1
+Faroe Islands,2023,1,monthly,-3.9
 Finland,2020,1,weekly,-139.4
 Finland,2020,2,weekly,-132.6
 Finland,2020,3,weekly,-132.6
@@ -4590,15 +4592,15 @@ Israel,2022,2,weekly,117.3
 Israel,2022,3,weekly,320.1
 Israel,2022,4,weekly,399.3
 Israel,2022,5,weekly,471.5
-Israel,2022,6,weekly,366.5
-Israel,2022,7,weekly,259.9
+Israel,2022,6,weekly,367.5
+Israel,2022,7,weekly,258.9
 Israel,2022,8,weekly,170.1
 Israel,2022,9,weekly,103.5
 Israel,2022,10,weekly,39.5
 Israel,2022,11,weekly,66.5
 Israel,2022,12,weekly,113.5
 Israel,2022,13,weekly,204.5
-Israel,2022,14,weekly,153.7
+Israel,2022,14,weekly,154.7
 Israel,2022,15,weekly,14.7
 Israel,2022,16,weekly,57.9
 Israel,2022,17,weekly,33.3
@@ -4612,7 +4614,7 @@ Israel,2022,24,weekly,71.5
 Israel,2022,25,weekly,29.7
 Israel,2022,26,weekly,121.7
 Israel,2022,27,weekly,152.3
-Israel,2022,28,weekly,126.9
+Israel,2022,28,weekly,127.9
 Israel,2022,29,weekly,142.3
 Israel,2022,30,weekly,150.5
 Israel,2022,31,weekly,92.9
@@ -4625,7 +4627,7 @@ Israel,2022,37,weekly,38.3
 Israel,2022,38,weekly,38.3
 Israel,2022,39,weekly,78.9
 Israel,2022,40,weekly,95.5
-Israel,2022,41,weekly,27.5
+Israel,2022,41,weekly,28.5
 Israel,2022,42,weekly,20.5
 Israel,2022,43,weekly,28.1
 Israel,2022,44,weekly,8.1
@@ -4633,15 +4635,16 @@ Israel,2022,45,weekly,21.3
 Israel,2022,46,weekly,-19.9
 Israel,2022,47,weekly,49.1
 Israel,2022,48,weekly,-2.1
-Israel,2022,49,weekly,40.3
-Israel,2022,50,weekly,76.5
+Israel,2022,49,weekly,41.3
+Israel,2022,50,weekly,77.5
 Israel,2022,51,weekly,43.9
-Israel,2022,52,weekly,-4.7
-Israel,2023,1,weekly,29.0
-Israel,2023,2,weekly,-71.8
-Israel,2023,3,weekly,-26.0
-Israel,2023,4,weekly,3.2
-Israel,2023,5,weekly,-138.6
+Israel,2022,52,weekly,-1.7
+Israel,2023,1,weekly,33.0
+Israel,2023,2,weekly,-69.8
+Israel,2023,3,weekly,-19.0
+Israel,2023,4,weekly,10.2
+Israel,2023,5,weekly,-115.6
+Israel,2023,6,weekly,-107.6
 Italy,2020,1,weekly,-1904.1
 Italy,2020,2,weekly,-1710.3
 Italy,2020,3,weekly,-1413.5
@@ -4798,7 +4801,7 @@ Italy,2022,48,weekly,2602.9
 Italy,2022,49,weekly,2715.3
 Italy,2022,50,weekly,2629.1
 Italy,2022,51,weekly,2098.9
-Italy,2022,52,weekly,1565.7
+Italy,2022,52,weekly,-566.3
 Jamaica,2020,1,monthly,-128.0
 Jamaica,2020,2,monthly,-144.4
 Jamaica,2020,3,monthly,-146.8
@@ -5003,8 +5006,8 @@ Kyrgyzstan,2021,9,monthly,853.1
 Kyrgyzstan,2021,10,monthly,567.5
 Kyrgyzstan,2021,11,monthly,702.7
 Kyrgyzstan,2021,12,monthly,603.3
-Kyrgyzstan,2022,1,monthly,-233.3
-Kyrgyzstan,2022,2,monthly,696.3
+Kyrgyzstan,2022,1,monthly,-33.3
+Kyrgyzstan,2022,2,monthly,496.3
 Kyrgyzstan,2022,3,monthly,303.1
 Kyrgyzstan,2022,4,monthly,345.9
 Kyrgyzstan,2022,5,monthly,-722.5
@@ -5015,6 +5018,7 @@ Kyrgyzstan,2022,9,monthly,374.3
 Kyrgyzstan,2022,10,monthly,-1004.3
 Kyrgyzstan,2022,11,monthly,-1718.1
 Kyrgyzstan,2022,12,monthly,211.5
+Kyrgyzstan,2023,1,monthly,-58.1
 Latvia,2020,1,weekly,-2.0
 Latvia,2020,2,weekly,-21.4
 Latvia,2020,3,weekly,-86.8
@@ -8431,6 +8435,7 @@ San Marino,2022,9,monthly,-5.8
 San Marino,2022,10,monthly,4.8
 San Marino,2022,11,monthly,-3.0
 San Marino,2022,12,monthly,-2.4
+San Marino,2023,1,monthly,3.1
 Serbia,2020,1,monthly,-504.7
 Serbia,2020,2,monthly,78.1
 Serbia,2020,3,monthly,-93.5
@@ -8688,6 +8693,9 @@ Slovakia,2022,52,weekly,186.0
 Slovakia,2023,1,weekly,61.3
 Slovakia,2023,2,weekly,-19.7
 Slovakia,2023,3,weekly,-96.9
+Slovakia,2023,4,weekly,-154.3
+Slovakia,2023,5,weekly,-191.9
+Slovakia,2023,6,weekly,-193.3
 Slovenia,2020,1,weekly,-35.3
 Slovenia,2020,2,weekly,-43.9
 Slovenia,2020,3,weekly,-49.5
@@ -9302,6 +9310,10 @@ Spain,2023,1,weekly,-16.1
 Spain,2023,2,weekly,-552.1
 Spain,2023,3,weekly,-1049.1
 Spain,2023,4,weekly,-1000.9
+Spain,2023,5,weekly,49.9
+Spain,2023,6,weekly,324.1
+Spain,2023,7,weekly,-7.3
+Spain,2023,8,weekly,-305.5
 Suriname,2020,1,monthly,-42.1
 Suriname,2020,2,monthly,47.3
 Suriname,2020,3,monthly,-46.9
