@@ -2723,6 +2723,9 @@ Estonia,2023,4,weekly,-12.6
 Estonia,2023,5,weekly,-26.6
 Estonia,2023,6,weekly,-39.8
 Estonia,2023,7,weekly,-1.6
+Estonia,2023,8,weekly,-51.6
+Estonia,2023,9,weekly,-52.4
+Estonia,2023,10,weekly,-39.4
 Faroe Islands,2020,1,monthly,-12.0
 Faroe Islands,2020,2,monthly,-10.4
 Faroe Islands,2020,3,monthly,-11.4
@@ -3089,6 +3092,12 @@ France,2023,3,weekly,-513.4
 France,2023,4,weekly,-662.2
 France,2023,5,weekly,-1101.6
 France,2023,6,weekly,-1906.0
+France,2023,7,weekly,-734.4
+France,2023,8,weekly,-836.4
+France,2023,9,weekly,-902.6
+France,2023,10,weekly,-518.0
+France,2023,11,weekly,-445.2
+France,2023,12,weekly,-1218.4
 French Guiana,2020,1,weekly,-1.0
 French Guiana,2020,2,weekly,-7.8
 French Guiana,2020,3,weekly,-5.6
@@ -3236,22 +3245,28 @@ French Guiana,2022,39,weekly,0.2
 French Guiana,2022,40,weekly,-0.4
 French Guiana,2022,41,weekly,7.4
 French Guiana,2022,42,weekly,2.4
-French Guiana,2022,43,weekly,-10.8
+French Guiana,2022,43,weekly,-9.8
 French Guiana,2022,44,weekly,-4.4
 French Guiana,2022,45,weekly,-5.8
 French Guiana,2022,46,weekly,-1.8
 French Guiana,2022,47,weekly,7.4
-French Guiana,2022,48,weekly,3.8
+French Guiana,2022,48,weekly,4.8
 French Guiana,2022,49,weekly,-7.0
 French Guiana,2022,50,weekly,-0.6
 French Guiana,2022,51,weekly,3.0
-French Guiana,2022,52,weekly,15.6
+French Guiana,2022,52,weekly,16.6
 French Guiana,2023,1,weekly,-5.4
-French Guiana,2023,2,weekly,-0.2
-French Guiana,2023,3,weekly,-3.0
-French Guiana,2023,4,weekly,-5.0
-French Guiana,2023,5,weekly,-2.0
-French Guiana,2023,6,weekly,3.2
+French Guiana,2023,2,weekly,0.8
+French Guiana,2023,3,weekly,-1.0
+French Guiana,2023,4,weekly,-3.0
+French Guiana,2023,5,weekly,-1.0
+French Guiana,2023,6,weekly,8.2
+French Guiana,2023,7,weekly,5.6
+French Guiana,2023,8,weekly,7.8
+French Guiana,2023,9,weekly,3.2
+French Guiana,2023,10,weekly,-5.0
+French Guiana,2023,11,weekly,-0.6
+French Guiana,2023,12,weekly,-9.0
 French Polynesia,2020,1,monthly,-23.2
 French Polynesia,2020,2,monthly,4.6
 French Polynesia,2020,3,monthly,8.4
@@ -3656,6 +3671,10 @@ Greece,2023,2,weekly,-10.3
 Greece,2023,3,weekly,-39.9
 Greece,2023,4,weekly,-112.9
 Greece,2023,5,weekly,-111.9
+Greece,2023,6,weekly,65.9
+Greece,2023,7,weekly,228.7
+Greece,2023,8,weekly,112.3
+Greece,2023,9,weekly,44.1
 Greenland,2020,1,monthly,-10.6
 Greenland,2020,2,monthly,6.0
 Greenland,2020,3,monthly,-12.8
@@ -3789,7 +3808,7 @@ Guadeloupe,2021,41,weekly,3.6
 Guadeloupe,2021,42,weekly,1.0
 Guadeloupe,2021,43,weekly,-1.2
 Guadeloupe,2021,44,weekly,-2.6
-Guadeloupe,2021,45,weekly,-9.0
+Guadeloupe,2021,45,weekly,-8.0
 Guadeloupe,2021,46,weekly,6.0
 Guadeloupe,2021,47,weekly,0.6
 Guadeloupe,2021,48,weekly,-10.6
@@ -3840,21 +3859,27 @@ Guadeloupe,2022,40,weekly,-10.4
 Guadeloupe,2022,41,weekly,-9.4
 Guadeloupe,2022,42,weekly,9.0
 Guadeloupe,2022,43,weekly,1.8
-Guadeloupe,2022,44,weekly,-12.6
+Guadeloupe,2022,44,weekly,-11.6
 Guadeloupe,2022,45,weekly,-3.0
 Guadeloupe,2022,46,weekly,1.0
 Guadeloupe,2022,47,weekly,10.6
-Guadeloupe,2022,48,weekly,11.4
+Guadeloupe,2022,48,weekly,12.4
 Guadeloupe,2022,49,weekly,9.6
 Guadeloupe,2022,50,weekly,-7.4
 Guadeloupe,2022,51,weekly,6.8
 Guadeloupe,2022,52,weekly,14.0
 Guadeloupe,2023,1,weekly,3.8
-Guadeloupe,2023,2,weekly,8.0
-Guadeloupe,2023,3,weekly,-2.0
-Guadeloupe,2023,4,weekly,13.2
-Guadeloupe,2023,5,weekly,-17.0
-Guadeloupe,2023,6,weekly,-30.0
+Guadeloupe,2023,2,weekly,10.0
+Guadeloupe,2023,3,weekly,1.0
+Guadeloupe,2023,4,weekly,16.2
+Guadeloupe,2023,5,weekly,-11.0
+Guadeloupe,2023,6,weekly,-11.0
+Guadeloupe,2023,7,weekly,-6.8
+Guadeloupe,2023,8,weekly,3.6
+Guadeloupe,2023,9,weekly,-7.0
+Guadeloupe,2023,10,weekly,2.8
+Guadeloupe,2023,11,weekly,-8.0
+Guadeloupe,2023,12,weekly,-11.6
 Guatemala,2020,1,weekly,104.3
 Guatemala,2020,2,weekly,-10.9
 Guatemala,2020,3,weekly,0.7
@@ -5322,12 +5347,16 @@ Liechtenstein,2021,8,monthly,-3.4
 Liechtenstein,2021,9,monthly,-3.6
 Liechtenstein,2021,10,monthly,-3.2
 Liechtenstein,2021,11,monthly,2.2
-Liechtenstein,2021,12,monthly,2.4
+Liechtenstein,2021,12,monthly,5.4
 Liechtenstein,2022,1,monthly,9.0
 Liechtenstein,2022,2,monthly,6.8
 Liechtenstein,2022,3,monthly,-0.4
 Liechtenstein,2022,4,monthly,-2.2
-Liechtenstein,2022,5,monthly,-2.4
+Liechtenstein,2022,5,monthly,-0.4
+Liechtenstein,2022,6,monthly,7.6
+Liechtenstein,2022,7,monthly,-6.6
+Liechtenstein,2022,8,monthly,-2.6
+Liechtenstein,2022,9,monthly,-4.8
 Lithuania,2020,1,weekly,-3.1
 Lithuania,2020,2,weekly,-22.7
 Lithuania,2020,3,weekly,-85.1
@@ -5907,15 +5936,26 @@ Malta,2022,41,weekly,0.9
 Malta,2022,42,weekly,9.1
 Malta,2022,43,weekly,3.5
 Malta,2022,44,weekly,10.3
-Malta,2022,45,weekly,7.5
+Malta,2022,45,weekly,8.5
 Malta,2022,46,weekly,1.5
 Malta,2022,47,weekly,8.3
 Malta,2022,48,weekly,-10.1
 Malta,2022,49,weekly,4.7
 Malta,2022,50,weekly,-0.3
-Malta,2022,51,weekly,16.9
-Malta,2022,52,weekly,-11.5
-Malta,2023,1,weekly,-12.2
+Malta,2022,51,weekly,19.9
+Malta,2022,52,weekly,-9.5
+Malta,2023,1,weekly,-7.2
+Malta,2023,2,weekly,-1.2
+Malta,2023,3,weekly,-26.8
+Malta,2023,4,weekly,17.6
+Malta,2023,5,weekly,-8.0
+Malta,2023,6,weekly,-10.2
+Malta,2023,7,weekly,-10.0
+Malta,2023,8,weekly,-7.2
+Malta,2023,9,weekly,-3.6
+Malta,2023,10,weekly,-2.2
+Malta,2023,11,weekly,7.2
+Malta,2023,12,weekly,-20.2
 Martinique,2020,1,weekly,-15.9
 Martinique,2020,2,weekly,-8.5
 Martinique,2020,3,weekly,-2.5
@@ -6059,12 +6099,12 @@ Martinique,2022,35,weekly,12.9
 Martinique,2022,36,weekly,3.9
 Martinique,2022,37,weekly,16.1
 Martinique,2022,38,weekly,10.3
-Martinique,2022,39,weekly,1.3
+Martinique,2022,39,weekly,2.3
 Martinique,2022,40,weekly,-13.3
 Martinique,2022,41,weekly,1.9
 Martinique,2022,42,weekly,10.3
 Martinique,2022,43,weekly,1.9
-Martinique,2022,44,weekly,8.5
+Martinique,2022,44,weekly,9.5
 Martinique,2022,45,weekly,17.7
 Martinique,2022,46,weekly,-10.3
 Martinique,2022,47,weekly,10.7
@@ -6072,13 +6112,19 @@ Martinique,2022,48,weekly,-11.7
 Martinique,2022,49,weekly,-2.3
 Martinique,2022,50,weekly,5.3
 Martinique,2022,51,weekly,-9.5
-Martinique,2022,52,weekly,-5.3
-Martinique,2023,1,weekly,-9.6
-Martinique,2023,2,weekly,-23.2
-Martinique,2023,3,weekly,-14.2
-Martinique,2023,4,weekly,-7.0
-Martinique,2023,5,weekly,-23.6
-Martinique,2023,6,weekly,-27.6
+Martinique,2022,52,weekly,-2.3
+Martinique,2023,1,weekly,-1.6
+Martinique,2023,2,weekly,-20.2
+Martinique,2023,3,weekly,-10.2
+Martinique,2023,4,weekly,-1.0
+Martinique,2023,5,weekly,-20.6
+Martinique,2023,6,weekly,-22.6
+Martinique,2023,7,weekly,-16.4
+Martinique,2023,8,weekly,-28.0
+Martinique,2023,9,weekly,-17.2
+Martinique,2023,10,weekly,-12.8
+Martinique,2023,11,weekly,-11.4
+Martinique,2023,12,weekly,-24.8
 Mauritius,2020,1,monthly,-24.1
 Mauritius,2020,2,monthly,-27.9
 Mauritius,2020,3,monthly,-45.3
@@ -6206,14 +6252,14 @@ Mayotte,2021,35,weekly,-1.6
 Mayotte,2021,36,weekly,0.8
 Mayotte,2021,37,weekly,9.0
 Mayotte,2021,38,weekly,9.2
-Mayotte,2021,39,weekly,9.6
+Mayotte,2021,39,weekly,10.6
 Mayotte,2021,40,weekly,-0.6
 Mayotte,2021,41,weekly,10.0
 Mayotte,2021,42,weekly,-0.2
 Mayotte,2021,43,weekly,-1.0
 Mayotte,2021,44,weekly,-0.6
 Mayotte,2021,45,weekly,6.2
-Mayotte,2021,46,weekly,2.2
+Mayotte,2021,46,weekly,3.2
 Mayotte,2021,47,weekly,-1.8
 Mayotte,2021,48,weekly,0.0
 Mayotte,2021,49,weekly,3.6
@@ -6222,7 +6268,7 @@ Mayotte,2021,51,weekly,18.6
 Mayotte,2021,52,weekly,14.4
 Mayotte,2022,1,weekly,12.0
 Mayotte,2022,2,weekly,12.0
-Mayotte,2022,3,weekly,14.0
+Mayotte,2022,3,weekly,15.0
 Mayotte,2022,4,weekly,3.0
 Mayotte,2022,5,weekly,-0.6
 Mayotte,2022,6,weekly,-4.0
@@ -6278,6 +6324,12 @@ Mayotte,2023,3,weekly,3.4
 Mayotte,2023,4,weekly,-6.6
 Mayotte,2023,5,weekly,0.8
 Mayotte,2023,6,weekly,3.4
+Mayotte,2023,7,weekly,-2.6
+Mayotte,2023,8,weekly,-2.6
+Mayotte,2023,9,weekly,-6.8
+Mayotte,2023,10,weekly,2.4
+Mayotte,2023,11,weekly,3.2
+Mayotte,2023,12,weekly,-1.2
 Mexico,2020,1,weekly,57.2
 Mexico,2020,2,weekly,356.6
 Mexico,2020,3,weekly,17.4
@@ -7072,43 +7124,43 @@ Nicaragua,2021,9,monthly,3966.8
 Nicaragua,2021,10,monthly,1703.2
 Nicaragua,2021,11,monthly,75.4
 Nicaragua,2021,12,monthly,-133.4
-North Macedonia,2020,1,monthly,-269.0
-North Macedonia,2020,2,monthly,-96.6
-North Macedonia,2020,3,monthly,-109.2
-North Macedonia,2020,4,monthly,155.6
-North Macedonia,2020,5,monthly,40.0
-North Macedonia,2020,6,monthly,441.4
-North Macedonia,2020,7,monthly,323.8
-North Macedonia,2020,8,monthly,301.2
-North Macedonia,2020,9,monthly,298.2
-North Macedonia,2020,10,monthly,610.0
-North Macedonia,2020,11,monthly,2219.2
-North Macedonia,2020,12,monthly,1463.2
-North Macedonia,2021,1,monthly,434.6
-North Macedonia,2021,2,monthly,275.0
-North Macedonia,2021,3,monthly,980.4
-North Macedonia,2021,4,monthly,1621.2
-North Macedonia,2021,5,monthly,555.6
-North Macedonia,2021,6,monthly,282.0
-North Macedonia,2021,7,monthly,151.4
-North Macedonia,2021,8,monthly,1234.8
-North Macedonia,2021,9,monthly,1275.8
-North Macedonia,2021,10,monthly,615.6
-North Macedonia,2021,11,monthly,614.8
-North Macedonia,2021,12,monthly,523.8
-North Macedonia,2022,1,monthly,198.2
-North Macedonia,2022,2,monthly,1300.6
-North Macedonia,2022,3,monthly,392.0
-North Macedonia,2022,4,monthly,-108.2
-North Macedonia,2022,5,monthly,-94.8
-North Macedonia,2022,6,monthly,292.6
-North Macedonia,2022,7,monthly,-38.0
-North Macedonia,2022,8,monthly,460.4
-North Macedonia,2022,9,monthly,171.4
-North Macedonia,2022,10,monthly,-155.8
-North Macedonia,2022,11,monthly,142.4
-North Macedonia,2022,12,monthly,-57.6
-North Macedonia,2023,1,monthly,-317.2
+North Macedonia,2020,1,monthly,-152.5
+North Macedonia,2020,2,monthly,12.1
+North Macedonia,2020,3,monthly,-38.3
+North Macedonia,2020,4,monthly,146.1
+North Macedonia,2020,5,monthly,55.5
+North Macedonia,2020,6,monthly,427.9
+North Macedonia,2020,7,monthly,328.3
+North Macedonia,2020,8,monthly,286.5
+North Macedonia,2020,9,monthly,290.5
+North Macedonia,2020,10,monthly,614.9
+North Macedonia,2020,11,monthly,2210.9
+North Macedonia,2020,12,monthly,1483.7
+North Macedonia,2021,1,monthly,400.5
+North Macedonia,2021,2,monthly,270.1
+North Macedonia,2021,3,monthly,973.7
+North Macedonia,2021,4,monthly,1614.1
+North Macedonia,2021,5,monthly,571.5
+North Macedonia,2021,6,monthly,268.9
+North Macedonia,2021,7,monthly,157.3
+North Macedonia,2021,8,monthly,1223.5
+North Macedonia,2021,9,monthly,1274.5
+North Macedonia,2021,10,monthly,620.9
+North Macedonia,2021,11,monthly,610.9
+North Macedonia,2021,12,monthly,544.7
+North Macedonia,2022,1,monthly,163.6
+North Macedonia,2022,2,monthly,1295.2
+North Macedonia,2022,3,monthly,384.8
+North Macedonia,2022,4,monthly,-115.8
+North Macedonia,2022,5,monthly,-79.4
+North Macedonia,2022,6,monthly,279.0
+North Macedonia,2022,7,monthly,-32.6
+North Macedonia,2022,8,monthly,448.6
+North Macedonia,2022,9,monthly,169.6
+North Macedonia,2022,10,monthly,-151.0
+North Macedonia,2022,11,monthly,138.0
+North Macedonia,2022,12,monthly,-37.2
+North Macedonia,2023,1,monthly,-352.4
 Norway,2020,1,weekly,-61.4
 Norway,2020,2,weekly,35.4
 Norway,2020,3,weekly,-69.2
@@ -7395,9 +7447,9 @@ Paraguay,2022,6,monthly,97.2
 Paraguay,2022,7,monthly,108.6
 Paraguay,2022,8,monthly,-225.8
 Paraguay,2022,9,monthly,-238.4
-Paraguay,2022,10,monthly,-171.4
-Paraguay,2022,11,monthly,-124.0
-Paraguay,2022,12,monthly,-25.8
+Paraguay,2022,10,monthly,-170.4
+Paraguay,2022,11,monthly,-122.0
+Paraguay,2022,12,monthly,-23.8
 Peru,2020,1,weekly,-154.8
 Peru,2020,2,weekly,-70.8
 Peru,2020,3,weekly,-193.8
@@ -8270,10 +8322,14 @@ Romania,2022,49,weekly,-104.8
 Romania,2022,50,weekly,-326.4
 Romania,2022,51,weekly,-280.2
 Romania,2022,52,weekly,-1637.4
-Romania,2023,1,weekly,-291.0
-Romania,2023,2,weekly,-372.4
-Romania,2023,3,weekly,-510.8
-Romania,2023,4,weekly,-922.0
+Romania,2023,1,weekly,-210.0
+Romania,2023,2,weekly,-282.4
+Romania,2023,3,weekly,-426.8
+Romania,2023,4,weekly,-792.0
+Romania,2023,5,weekly,-788.2
+Romania,2023,6,weekly,-658.6
+Romania,2023,7,weekly,-554.0
+Romania,2023,8,weekly,-887.6
 Russia,2020,1,monthly,-5538.1
 Russia,2020,2,monthly,3748.5
 Russia,2020,3,monthly,-925.7
@@ -8468,12 +8524,18 @@ Réunion,2022,49,weekly,9.0
 Réunion,2022,50,weekly,18.0
 Réunion,2022,51,weekly,-22.2
 Réunion,2022,52,weekly,24.4
-Réunion,2023,1,weekly,-13.0
+Réunion,2023,1,weekly,-11.0
 Réunion,2023,2,weekly,-14.6
-Réunion,2023,3,weekly,1.8
-Réunion,2023,4,weekly,13.0
-Réunion,2023,5,weekly,-15.4
-Réunion,2023,6,weekly,-0.2
+Réunion,2023,3,weekly,2.8
+Réunion,2023,4,weekly,18.0
+Réunion,2023,5,weekly,-14.4
+Réunion,2023,6,weekly,6.8
+Réunion,2023,7,weekly,3.4
+Réunion,2023,8,weekly,-13.6
+Réunion,2023,9,weekly,-3.6
+Réunion,2023,10,weekly,-15.8
+Réunion,2023,11,weekly,-23.0
+Réunion,2023,12,weekly,-15.6
 Saint Kitts and Nevis,2020,1,monthly,-5.8
 Saint Kitts and Nevis,2020,2,monthly,-0.8
 Saint Kitts and Nevis,2020,3,monthly,-0.6
@@ -8993,6 +9055,10 @@ Slovenia,2023,4,weekly,-88.8
 Slovenia,2023,5,weekly,-51.8
 Slovenia,2023,6,weekly,-82.4
 Slovenia,2023,7,weekly,-53.4
+Slovenia,2023,8,weekly,-25.8
+Slovenia,2023,9,weekly,-67.0
+Slovenia,2023,10,weekly,-31.4
+Slovenia,2023,11,weekly,-69.8
 South Africa,2020,1,weekly,276.1
 South Africa,2020,2,weekly,416.5
 South Africa,2020,3,weekly,213.1
@@ -9840,6 +9906,7 @@ Taiwan,2022,11,monthly,3121.9
 Taiwan,2022,12,monthly,2475.7
 Taiwan,2023,1,monthly,1543.3
 Taiwan,2023,2,monthly,3188.7
+Taiwan,2023,3,monthly,2354.9
 Tajikistan,2020,1,monthly,211.1
 Tajikistan,2020,2,monthly,253.5
 Tajikistan,2020,3,monthly,42.3
