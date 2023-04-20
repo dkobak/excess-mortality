@@ -544,6 +544,7 @@ Azerbaijan,2022,10,monthly,-598.1
 Azerbaijan,2022,11,monthly,429.5
 Azerbaijan,2022,12,monthly,101.7
 Azerbaijan,2023,1,monthly,256.2
+Azerbaijan,2023,2,monthly,297.2
 Bahamas,2020,1,monthly,4.0
 Bahamas,2020,2,monthly,-23.8
 Bahamas,2020,3,monthly,-13.0
@@ -2344,28 +2345,40 @@ Denmark,2023,9,weekly,-122.5
 Denmark,2023,10,weekly,-33.7
 Denmark,2023,11,weekly,-50.3
 Denmark,2023,12,weekly,-58.3
-Dominican Republic,2020,1,monthly,271.4
-Dominican Republic,2020,2,monthly,129.6
-Dominican Republic,2020,3,monthly,-365.0
-Dominican Republic,2020,4,monthly,-504.6
-Dominican Republic,2020,5,monthly,-487.0
-Dominican Republic,2020,6,monthly,296.2
-Dominican Republic,2020,7,monthly,1270.8
-Dominican Republic,2020,8,monthly,973.4
-Dominican Republic,2020,9,monthly,5.4
-Dominican Republic,2020,10,monthly,-218.0
-Dominican Republic,2020,11,monthly,-103.6
-Dominican Republic,2020,12,monthly,282.4
-Dominican Republic,2021,1,monthly,771.8
-Dominican Republic,2021,2,monthly,40.0
-Dominican Republic,2021,3,monthly,-17.6
-Dominican Republic,2021,4,monthly,94.8
-Dominican Republic,2021,5,monthly,713.4
-Dominican Republic,2021,6,monthly,1224.6
-Dominican Republic,2021,7,monthly,391.2
-Dominican Republic,2021,8,monthly,148.8
-Dominican Republic,2021,9,monthly,94.8
-Dominican Republic,2021,10,monthly,406.4
+Dominican Republic,2020,1,monthly,274.1
+Dominican Republic,2020,2,monthly,132.1
+Dominican Republic,2020,3,monthly,-319.5
+Dominican Republic,2020,4,monthly,-394.1
+Dominican Republic,2020,5,monthly,-440.3
+Dominican Republic,2020,6,monthly,339.9
+Dominican Republic,2020,7,monthly,1340.9
+Dominican Republic,2020,8,monthly,1036.5
+Dominican Republic,2020,9,monthly,32.9
+Dominican Republic,2020,10,monthly,-184.7
+Dominican Republic,2020,11,monthly,-79.3
+Dominican Republic,2020,12,monthly,332.5
+Dominican Republic,2021,1,monthly,820.8
+Dominican Republic,2021,2,monthly,85.8
+Dominican Republic,2021,3,monthly,6.2
+Dominican Republic,2021,4,monthly,126.6
+Dominican Republic,2021,5,monthly,764.4
+Dominican Republic,2021,6,monthly,1304.6
+Dominican Republic,2021,7,monthly,483.6
+Dominican Republic,2021,8,monthly,237.2
+Dominican Republic,2021,9,monthly,189.6
+Dominican Republic,2021,10,monthly,563.0
+Dominican Republic,2021,11,monthly,369.4
+Dominican Republic,2021,12,monthly,106.2
+Dominican Republic,2022,1,monthly,786.5
+Dominican Republic,2022,2,monthly,51.5
+Dominican Republic,2022,3,monthly,-28.1
+Dominican Republic,2022,4,monthly,92.3
+Dominican Republic,2022,5,monthly,730.1
+Dominican Republic,2022,6,monthly,1270.3
+Dominican Republic,2022,7,monthly,449.3
+Dominican Republic,2022,8,monthly,202.9
+Dominican Republic,2022,9,monthly,155.3
+Dominican Republic,2022,10,monthly,528.7
 Ecuador,2020,1,weekly,-136.3
 Ecuador,2020,2,weekly,60.9
 Ecuador,2020,3,weekly,22.9
@@ -6617,6 +6630,7 @@ Mongolia,2022,11,monthly,42.6
 Mongolia,2022,12,monthly,60.8
 Mongolia,2023,1,monthly,-125.2
 Mongolia,2023,2,monthly,-105.4
+Mongolia,2023,3,monthly,8.6
 Montenegro,2020,1,weekly,-68.2
 Montenegro,2020,2,weekly,-35.4
 Montenegro,2020,3,weekly,-9.8
@@ -10396,64 +10410,64 @@ United States,2021,49,weekly,13423.6
 United States,2021,50,weekly,12212.4
 United States,2021,51,weekly,12455.4
 United States,2021,52,weekly,14071.8
-United States,2022,1,weekly,15516.7
-United States,2022,2,weekly,20403.1
-United States,2022,3,weekly,22528.9
+United States,2022,1,weekly,15517.7
+United States,2022,2,weekly,20434.1
+United States,2022,3,weekly,22498.9
 United States,2022,4,weekly,22793.1
-United States,2022,5,weekly,19256.7
-United States,2022,6,weekly,14999.9
-United States,2022,7,weekly,9107.1
-United States,2022,8,weekly,4972.1
+United States,2022,5,weekly,19241.7
+United States,2022,6,weekly,15019.9
+United States,2022,7,weekly,9091.1
+United States,2022,8,weekly,4991.1
 United States,2022,9,weekly,3661.1
 United States,2022,10,weekly,895.1
-United States,2022,11,weekly,662.5
-United States,2022,12,weekly,-967.1
-United States,2022,13,weekly,-749.9
+United States,2022,11,weekly,646.5
+United States,2022,12,weekly,-948.1
+United States,2022,13,weekly,-729.9
 United States,2022,14,weekly,-924.9
-United States,2022,15,weekly,-503.5
-United States,2022,16,weekly,-433.7
-United States,2022,17,weekly,824.1
-United States,2022,18,weekly,965.5
-United States,2022,19,weekly,2230.9
-United States,2022,20,weekly,2562.5
-United States,2022,21,weekly,2066.3
-United States,2022,22,weekly,2971.1
-United States,2022,23,weekly,2978.5
-United States,2022,24,weekly,3197.1
-United States,2022,25,weekly,3824.9
-United States,2022,26,weekly,3755.9
-United States,2022,27,weekly,3627.3
-United States,2022,28,weekly,4220.5
-United States,2022,29,weekly,5902.3
-United States,2022,30,weekly,4999.5
-United States,2022,31,weekly,5376.7
-United States,2022,32,weekly,4621.3
-United States,2022,33,weekly,4705.1
-United States,2022,34,weekly,4664.9
-United States,2022,35,weekly,4076.7
-United States,2022,36,weekly,4464.9
-United States,2022,37,weekly,3745.9
-United States,2022,38,weekly,4152.9
-United States,2022,39,weekly,3860.7
-United States,2022,40,weekly,3805.9
-United States,2022,41,weekly,4128.1
-United States,2022,42,weekly,4241.9
-United States,2022,43,weekly,4034.9
-United States,2022,44,weekly,4684.1
-United States,2022,45,weekly,4361.1
-United States,2022,46,weekly,4238.9
-United States,2022,47,weekly,7203.3
-United States,2022,48,weekly,7928.3
-United States,2022,49,weekly,8054.9
-United States,2022,50,weekly,7042.7
-United States,2022,51,weekly,7846.7
-United States,2022,52,weekly,9524.1
-United States,2023,1,weekly,4340.0
-United States,2023,2,weekly,1350.4
-United States,2023,3,weekly,685.2
-United States,2023,4,weekly,-203.6
-United States,2023,5,weekly,491.0
-United States,2023,6,weekly,1025.2
+United States,2022,15,weekly,-502.5
+United States,2022,16,weekly,-403.7
+United States,2022,17,weekly,801.1
+United States,2022,18,weekly,966.5
+United States,2022,19,weekly,2205.9
+United States,2022,20,weekly,2543.5
+United States,2022,21,weekly,2093.3
+United States,2022,22,weekly,2955.1
+United States,2022,23,weekly,2960.5
+United States,2022,24,weekly,3198.1
+United States,2022,25,weekly,3846.9
+United States,2022,26,weekly,3774.9
+United States,2022,27,weekly,3628.3
+United States,2022,28,weekly,4221.5
+United States,2022,29,weekly,5906.3
+United States,2022,30,weekly,5022.5
+United States,2022,31,weekly,5378.7
+United States,2022,32,weekly,4652.3
+United States,2022,33,weekly,4707.1
+United States,2022,34,weekly,4643.9
+United States,2022,35,weekly,4080.7
+United States,2022,36,weekly,4448.9
+United States,2022,37,weekly,3750.9
+United States,2022,38,weekly,4177.9
+United States,2022,39,weekly,3890.7
+United States,2022,40,weekly,3812.9
+United States,2022,41,weekly,4158.1
+United States,2022,42,weekly,3878.9
+United States,2022,43,weekly,4024.9
+United States,2022,44,weekly,4687.1
+United States,2022,45,weekly,4380.1
+United States,2022,46,weekly,4266.9
+United States,2022,47,weekly,7187.3
+United States,2022,48,weekly,7934.3
+United States,2022,49,weekly,8055.9
+United States,2022,50,weekly,7023.7
+United States,2022,51,weekly,7865.7
+United States,2022,52,weekly,9579.1
+United States,2023,1,weekly,4356.0
+United States,2023,2,weekly,1340.4
+United States,2023,3,weekly,716.2
+United States,2023,4,weekly,-185.6
+United States,2023,5,weekly,493.0
+United States,2023,6,weekly,1072.2
 Uruguay,2020,1,monthly,-122.4
 Uruguay,2020,2,monthly,51.4
 Uruguay,2020,3,monthly,-50.4
