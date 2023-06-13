@@ -989,12 +989,12 @@ Brazil,2022,6,monthly,14023.5
 Brazil,2022,7,monthly,11528.9
 Brazil,2022,8,monthly,15602.1
 Brazil,2022,9,monthly,10522.1
-Brazil,2022,10,monthly,4797.7
-Brazil,2022,11,monthly,10028.9
-Brazil,2022,12,monthly,5393.7
-Brazil,2023,1,monthly,6760.4
-Brazil,2023,2,monthly,394.6
-Brazil,2023,3,monthly,8036.6
+Brazil,2022,10,monthly,9392.7
+Brazil,2022,11,monthly,10301.9
+Brazil,2022,12,monthly,5642.7
+Brazil,2023,1,monthly,7076.4
+Brazil,2023,2,monthly,666.6
+Brazil,2023,3,monthly,8388.6
 Brunei,2020,1,monthly,26.8
 Brunei,2020,2,monthly,16.0
 Brunei,2020,3,monthly,1.2
@@ -7950,22 +7950,22 @@ Paraguay,2021,9,monthly,104.3
 Paraguay,2021,10,monthly,182.3
 Paraguay,2021,11,monthly,301.7
 Paraguay,2021,12,monthly,625.9
-Paraguay,2022,1,monthly,3322.6
+Paraguay,2022,1,monthly,3323.6
 Paraguay,2022,2,monthly,1263.6
 Paraguay,2022,3,monthly,96.6
 Paraguay,2022,4,monthly,-74.2
 Paraguay,2022,5,monthly,-2.2
-Paraguay,2022,6,monthly,107.2
+Paraguay,2022,6,monthly,108.2
 Paraguay,2022,7,monthly,119.6
 Paraguay,2022,8,monthly,-217.8
 Paraguay,2022,9,monthly,-223.4
-Paraguay,2022,10,monthly,-155.4
-Paraguay,2022,11,monthly,-108.0
+Paraguay,2022,10,monthly,-154.4
+Paraguay,2022,11,monthly,-107.0
 Paraguay,2022,12,monthly,0.2
-Paraguay,2023,1,monthly,-127.0
-Paraguay,2023,2,monthly,206.0
-Paraguay,2023,3,monthly,375.0
-Paraguay,2023,4,monthly,82.2
+Paraguay,2023,1,monthly,-124.0
+Paraguay,2023,2,monthly,211.0
+Paraguay,2023,3,monthly,385.0
+Paraguay,2023,4,monthly,101.2
 Peru,2020,1,weekly,-154.8
 Peru,2020,2,weekly,-70.8
 Peru,2020,3,weekly,-193.8
@@ -8711,6 +8711,7 @@ Qatar,2022,12,monthly,24.4
 Qatar,2023,1,monthly,48.2
 Qatar,2023,2,monthly,34.4
 Qatar,2023,3,monthly,50.2
+Qatar,2023,4,monthly,12.4
 Romania,2020,1,weekly,-600.7
 Romania,2020,2,weekly,-545.7
 Romania,2020,3,weekly,-447.9
@@ -8919,6 +8920,7 @@ Russia,2022,12,monthly,20211.4
 Russia,2023,1,monthly,8937.2
 Russia,2023,2,monthly,-3668.2
 Russia,2023,3,monthly,9766.6
+Russia,2023,4,monthly,-4208.4
 Réunion,2020,1,weekly,-17.5
 Réunion,2020,2,weekly,-5.1
 Réunion,2020,3,weekly,-9.7
@@ -9191,6 +9193,7 @@ San Marino,2022,12,monthly,-2.4
 San Marino,2023,1,monthly,3.1
 San Marino,2023,2,monthly,5.7
 San Marino,2023,3,monthly,6.7
+San Marino,2023,4,monthly,-2.7
 Serbia,2020,1,monthly,-504.7
 Serbia,2020,2,monthly,78.1
 Serbia,2020,3,monthly,-93.5
@@ -10518,6 +10521,7 @@ Taiwan,2023,1,monthly,1543.3
 Taiwan,2023,2,monthly,3188.7
 Taiwan,2023,3,monthly,2354.9
 Taiwan,2023,4,monthly,186.1
+Taiwan,2023,5,monthly,2279.9
 Tajikistan,2020,1,monthly,211.1
 Tajikistan,2020,2,monthly,253.5
 Tajikistan,2020,3,monthly,42.3
@@ -10641,8 +10645,13 @@ Tunisia,2021,9,monthly,1462.9
 Tunisia,2021,10,monthly,-39.7
 Tunisia,2021,11,monthly,-207.3
 Tunisia,2021,12,monthly,520.9
-Tunisia,2022,1,monthly,72.2
-Tunisia,2022,2,monthly,687.4
+Tunisia,2022,1,monthly,1261.2
+Tunisia,2022,2,monthly,1909.4
+Tunisia,2022,3,monthly,36.0
+Tunisia,2022,4,monthly,-599.8
+Tunisia,2022,5,monthly,-226.6
+Tunisia,2022,6,monthly,-94.0
+Tunisia,2022,7,monthly,694.0
 Turkey,2020,1,monthly,-1654.0
 Turkey,2020,2,monthly,-2036.8
 Turkey,2020,3,monthly,-522.8
