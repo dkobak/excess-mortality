@@ -344,23 +344,27 @@ Australia,2022,49,weekly,553.3
 Australia,2022,50,weekly,415.5
 Australia,2022,51,weekly,501.9
 Australia,2022,52,weekly,420.5
-Australia,2023,1,weekly,424.4
-Australia,2023,2,weekly,225.6
-Australia,2023,3,weekly,290.6
-Australia,2023,4,weekly,192.6
-Australia,2023,5,weekly,366.2
-Australia,2023,6,weekly,161.6
-Australia,2023,7,weekly,268.4
-Australia,2023,8,weekly,148.4
-Australia,2023,9,weekly,234.2
-Australia,2023,10,weekly,262.6
-Australia,2023,11,weekly,359.0
-Australia,2023,12,weekly,246.6
-Australia,2023,13,weekly,193.6
-Australia,2023,14,weekly,148.4
-Australia,2023,15,weekly,292.2
-Australia,2023,16,weekly,339.0
-Australia,2023,17,weekly,302.4
+Australia,2023,1,weekly,425.4
+Australia,2023,2,weekly,230.6
+Australia,2023,3,weekly,293.6
+Australia,2023,4,weekly,195.6
+Australia,2023,5,weekly,372.2
+Australia,2023,6,weekly,171.6
+Australia,2023,7,weekly,279.4
+Australia,2023,8,weekly,159.4
+Australia,2023,9,weekly,242.2
+Australia,2023,10,weekly,272.6
+Australia,2023,11,weekly,373.0
+Australia,2023,12,weekly,256.6
+Australia,2023,13,weekly,201.6
+Australia,2023,14,weekly,164.4
+Australia,2023,15,weekly,317.2
+Australia,2023,16,weekly,365.0
+Australia,2023,17,weekly,341.4
+Australia,2023,18,weekly,327.4
+Australia,2023,19,weekly,433.6
+Australia,2023,20,weekly,463.8
+Australia,2023,21,weekly,414.2
 Austria,2020,1,weekly,-221.2
 Austria,2020,2,weekly,-185.2
 Austria,2020,3,weekly,-14.6
@@ -1019,17 +1023,18 @@ Brazil,2022,4,monthly,2787.5
 Brazil,2022,5,monthly,9360.1
 Brazil,2022,6,monthly,14023.5
 Brazil,2022,7,monthly,11528.9
-Brazil,2022,8,monthly,16089.1
-Brazil,2022,9,monthly,10914.1
-Brazil,2022,10,monthly,5137.7
-Brazil,2022,11,monthly,10496.9
-Brazil,2022,12,monthly,5931.7
-Brazil,2023,1,monthly,7462.4
-Brazil,2023,2,monthly,1051.6
-Brazil,2023,3,monthly,9373.6
-Brazil,2023,4,monthly,648.6
-Brazil,2023,5,monthly,11730.2
-Brazil,2023,6,monthly,8529.6
+Brazil,2022,8,monthly,16129.1
+Brazil,2022,9,monthly,10964.1
+Brazil,2022,10,monthly,5211.7
+Brazil,2022,11,monthly,10560.9
+Brazil,2022,12,monthly,6064.7
+Brazil,2023,1,monthly,7613.4
+Brazil,2023,2,monthly,1188.6
+Brazil,2023,3,monthly,9536.6
+Brazil,2023,4,monthly,839.6
+Brazil,2023,5,monthly,11998.2
+Brazil,2023,6,monthly,8850.6
+Brazil,2023,7,monthly,3496.0
 Brunei,2020,1,monthly,26.8
 Brunei,2020,2,monthly,16.0
 Brunei,2020,3,monthly,1.2
@@ -2624,192 +2629,194 @@ Dominican Republic,2022,7,monthly,-246.7
 Dominican Republic,2022,8,monthly,-174.1
 Dominican Republic,2022,9,monthly,-250.7
 Dominican Republic,2022,10,monthly,-308.3
-Ecuador,2020,1,weekly,-136.3
-Ecuador,2020,2,weekly,60.9
-Ecuador,2020,3,weekly,22.9
-Ecuador,2020,4,weekly,-23.7
-Ecuador,2020,5,weekly,-106.7
-Ecuador,2020,6,weekly,-73.3
-Ecuador,2020,7,weekly,8.5
-Ecuador,2020,8,weekly,-18.7
-Ecuador,2020,9,weekly,43.5
-Ecuador,2020,10,weekly,-126.9
-Ecuador,2020,11,weekly,-64.9
-Ecuador,2020,12,weekly,44.1
-Ecuador,2020,13,weekly,2280.3
-Ecuador,2020,14,weekly,5728.3
-Ecuador,2020,15,weekly,4813.5
-Ecuador,2020,16,weekly,3028.9
-Ecuador,2020,17,weekly,2056.7
-Ecuador,2020,18,weekly,1385.3
-Ecuador,2020,19,weekly,1207.1
-Ecuador,2020,20,weekly,859.1
-Ecuador,2020,21,weekly,762.5
-Ecuador,2020,22,weekly,684.1
-Ecuador,2020,23,weekly,633.9
-Ecuador,2020,24,weekly,756.9
-Ecuador,2020,25,weekly,705.9
-Ecuador,2020,26,weekly,694.7
-Ecuador,2020,27,weekly,791.5
-Ecuador,2020,28,weekly,1013.1
-Ecuador,2020,29,weekly,1103.3
-Ecuador,2020,30,weekly,1171.7
-Ecuador,2020,31,weekly,1106.3
-Ecuador,2020,32,weekly,1058.5
-Ecuador,2020,33,weekly,936.7
-Ecuador,2020,34,weekly,792.3
-Ecuador,2020,35,weekly,613.9
-Ecuador,2020,36,weekly,648.3
-Ecuador,2020,37,weekly,544.3
-Ecuador,2020,38,weekly,481.3
-Ecuador,2020,39,weekly,374.9
-Ecuador,2020,40,weekly,269.1
-Ecuador,2020,41,weekly,430.7
-Ecuador,2020,42,weekly,315.5
-Ecuador,2020,43,weekly,353.9
-Ecuador,2020,44,weekly,246.5
-Ecuador,2020,45,weekly,211.7
-Ecuador,2020,46,weekly,342.7
-Ecuador,2020,47,weekly,405.3
-Ecuador,2020,48,weekly,306.3
-Ecuador,2020,49,weekly,364.5
-Ecuador,2020,50,weekly,213.3
-Ecuador,2020,51,weekly,305.1
-Ecuador,2020,52,weekly,333.1
-Ecuador,2020,53,weekly,469.1
-Ecuador,2021,1,weekly,463.7
-Ecuador,2021,2,weekly,652.9
-Ecuador,2021,3,weekly,814.9
-Ecuador,2021,4,weekly,693.3
-Ecuador,2021,5,weekly,731.3
-Ecuador,2021,6,weekly,676.7
-Ecuador,2021,7,weekly,715.5
-Ecuador,2021,8,weekly,743.3
-Ecuador,2021,9,weekly,686.5
-Ecuador,2021,10,weekly,819.1
-Ecuador,2021,11,weekly,1063.1
-Ecuador,2021,12,weekly,1193.1
-Ecuador,2021,13,weekly,1334.3
-Ecuador,2021,14,weekly,1501.3
-Ecuador,2021,15,weekly,1502.5
-Ecuador,2021,16,weekly,1768.9
-Ecuador,2021,17,weekly,1613.7
-Ecuador,2021,18,weekly,1395.3
-Ecuador,2021,19,weekly,1133.1
-Ecuador,2021,20,weekly,899.1
-Ecuador,2021,21,weekly,717.5
-Ecuador,2021,22,weekly,523.1
-Ecuador,2021,23,weekly,492.9
-Ecuador,2021,24,weekly,473.9
-Ecuador,2021,25,weekly,436.9
-Ecuador,2021,26,weekly,349.7
-Ecuador,2021,27,weekly,396.5
-Ecuador,2021,28,weekly,364.1
-Ecuador,2021,29,weekly,275.3
-Ecuador,2021,30,weekly,337.7
-Ecuador,2021,31,weekly,152.3
-Ecuador,2021,32,weekly,129.5
-Ecuador,2021,33,weekly,75.7
-Ecuador,2021,34,weekly,174.3
-Ecuador,2021,35,weekly,74.9
-Ecuador,2021,36,weekly,70.3
-Ecuador,2021,37,weekly,107.3
-Ecuador,2021,38,weekly,62.3
-Ecuador,2021,39,weekly,169.9
-Ecuador,2021,40,weekly,37.1
-Ecuador,2021,41,weekly,126.7
-Ecuador,2021,42,weekly,45.5
-Ecuador,2021,43,weekly,35.9
-Ecuador,2021,44,weekly,8.5
-Ecuador,2021,45,weekly,90.7
-Ecuador,2021,46,weekly,154.7
-Ecuador,2021,47,weekly,149.3
-Ecuador,2021,48,weekly,80.3
-Ecuador,2021,49,weekly,175.5
-Ecuador,2021,50,weekly,163.3
-Ecuador,2021,51,weekly,227.1
-Ecuador,2021,52,weekly,324.1
-Ecuador,2022,1,weekly,370.7
-Ecuador,2022,2,weekly,708.9
-Ecuador,2022,3,weekly,1089.9
-Ecuador,2022,4,weekly,966.3
-Ecuador,2022,5,weekly,845.3
-Ecuador,2022,6,weekly,482.7
-Ecuador,2022,7,weekly,259.5
-Ecuador,2022,8,weekly,118.3
-Ecuador,2022,9,weekly,228.5
-Ecuador,2022,10,weekly,-18.9
-Ecuador,2022,11,weekly,18.1
-Ecuador,2022,12,weekly,174.1
-Ecuador,2022,13,weekly,118.3
-Ecuador,2022,14,weekly,29.3
-Ecuador,2022,15,weekly,-73.5
-Ecuador,2022,16,weekly,77.9
-Ecuador,2022,17,weekly,22.7
-Ecuador,2022,18,weekly,-7.7
-Ecuador,2022,19,weekly,121.1
-Ecuador,2022,20,weekly,36.1
-Ecuador,2022,21,weekly,92.5
-Ecuador,2022,22,weekly,85.1
-Ecuador,2022,23,weekly,148.9
-Ecuador,2022,24,weekly,150.9
-Ecuador,2022,25,weekly,179.9
-Ecuador,2022,26,weekly,140.7
-Ecuador,2022,27,weekly,116.5
-Ecuador,2022,28,weekly,212.1
-Ecuador,2022,29,weekly,224.3
-Ecuador,2022,30,weekly,275.7
-Ecuador,2022,31,weekly,205.3
-Ecuador,2022,32,weekly,296.5
-Ecuador,2022,33,weekly,206.7
-Ecuador,2022,34,weekly,203.3
-Ecuador,2022,35,weekly,95.9
-Ecuador,2022,36,weekly,58.3
-Ecuador,2022,37,weekly,139.3
-Ecuador,2022,38,weekly,85.3
-Ecuador,2022,39,weekly,79.9
-Ecuador,2022,40,weekly,59.1
-Ecuador,2022,41,weekly,88.7
-Ecuador,2022,42,weekly,75.5
-Ecuador,2022,43,weekly,67.9
-Ecuador,2022,44,weekly,113.5
-Ecuador,2022,45,weekly,-61.3
-Ecuador,2022,46,weekly,51.7
-Ecuador,2022,47,weekly,157.3
-Ecuador,2022,48,weekly,236.3
-Ecuador,2022,49,weekly,194.5
-Ecuador,2022,50,weekly,197.3
-Ecuador,2022,51,weekly,279.1
-Ecuador,2022,52,weekly,338.1
-Ecuador,2023,1,weekly,91.6
-Ecuador,2023,2,weekly,28.8
-Ecuador,2023,3,weekly,38.8
-Ecuador,2023,4,weekly,44.2
-Ecuador,2023,5,weekly,59.2
-Ecuador,2023,6,weekly,-10.4
-Ecuador,2023,7,weekly,48.4
-Ecuador,2023,8,weekly,27.2
-Ecuador,2023,9,weekly,-26.6
-Ecuador,2023,10,weekly,44.0
-Ecuador,2023,11,weekly,55.0
-Ecuador,2023,12,weekly,222.0
-Ecuador,2023,13,weekly,111.2
-Ecuador,2023,14,weekly,83.2
-Ecuador,2023,15,weekly,12.4
-Ecuador,2023,16,weekly,54.8
-Ecuador,2023,17,weekly,167.6
-Ecuador,2023,18,weekly,224.2
-Ecuador,2023,19,weekly,185.0
-Ecuador,2023,20,weekly,139.0
-Ecuador,2023,21,weekly,171.4
-Ecuador,2023,22,weekly,131.0
-Ecuador,2023,23,weekly,140.8
-Ecuador,2023,24,weekly,91.8
-Ecuador,2023,25,weekly,218.8
-Ecuador,2023,26,weekly,109.6
-Ecuador,2023,27,weekly,79.4
-Ecuador,2023,28,weekly,136.0
-Ecuador,2023,29,weekly,74.2
+Ecuador,2020,1,weekly,-119.3
+Ecuador,2020,2,weekly,82.9
+Ecuador,2020,3,weekly,46.9
+Ecuador,2020,4,weekly,-6.7
+Ecuador,2020,5,weekly,-83.7
+Ecuador,2020,6,weekly,-57.3
+Ecuador,2020,7,weekly,42.5
+Ecuador,2020,8,weekly,2.3
+Ecuador,2020,9,weekly,68.5
+Ecuador,2020,10,weekly,-110.9
+Ecuador,2020,11,weekly,-34.9
+Ecuador,2020,12,weekly,81.1
+Ecuador,2020,13,weekly,2359.3
+Ecuador,2020,14,weekly,5872.3
+Ecuador,2020,15,weekly,5012.5
+Ecuador,2020,16,weekly,3167.9
+Ecuador,2020,17,weekly,2177.7
+Ecuador,2020,18,weekly,1489.3
+Ecuador,2020,19,weekly,1279.1
+Ecuador,2020,20,weekly,923.1
+Ecuador,2020,21,weekly,798.5
+Ecuador,2020,22,weekly,714.1
+Ecuador,2020,23,weekly,669.9
+Ecuador,2020,24,weekly,794.9
+Ecuador,2020,25,weekly,734.9
+Ecuador,2020,26,weekly,724.7
+Ecuador,2020,27,weekly,816.5
+Ecuador,2020,28,weekly,1039.1
+Ecuador,2020,29,weekly,1126.3
+Ecuador,2020,30,weekly,1199.7
+Ecuador,2020,31,weekly,1136.3
+Ecuador,2020,32,weekly,1087.5
+Ecuador,2020,33,weekly,960.7
+Ecuador,2020,34,weekly,824.3
+Ecuador,2020,35,weekly,643.9
+Ecuador,2020,36,weekly,674.3
+Ecuador,2020,37,weekly,574.3
+Ecuador,2020,38,weekly,500.3
+Ecuador,2020,39,weekly,397.9
+Ecuador,2020,40,weekly,295.1
+Ecuador,2020,41,weekly,465.7
+Ecuador,2020,42,weekly,352.5
+Ecuador,2020,43,weekly,384.9
+Ecuador,2020,44,weekly,275.5
+Ecuador,2020,45,weekly,251.7
+Ecuador,2020,46,weekly,378.7
+Ecuador,2020,47,weekly,445.3
+Ecuador,2020,48,weekly,344.3
+Ecuador,2020,49,weekly,406.5
+Ecuador,2020,50,weekly,262.3
+Ecuador,2020,51,weekly,364.1
+Ecuador,2020,52,weekly,399.1
+Ecuador,2020,53,weekly,508.1
+Ecuador,2021,1,weekly,523.7
+Ecuador,2021,2,weekly,709.9
+Ecuador,2021,3,weekly,858.9
+Ecuador,2021,4,weekly,757.3
+Ecuador,2021,5,weekly,783.3
+Ecuador,2021,6,weekly,726.7
+Ecuador,2021,7,weekly,767.5
+Ecuador,2021,8,weekly,787.3
+Ecuador,2021,9,weekly,723.5
+Ecuador,2021,10,weekly,854.1
+Ecuador,2021,11,weekly,1105.1
+Ecuador,2021,12,weekly,1235.1
+Ecuador,2021,13,weekly,1372.3
+Ecuador,2021,14,weekly,1532.3
+Ecuador,2021,15,weekly,1526.5
+Ecuador,2021,16,weekly,1800.9
+Ecuador,2021,17,weekly,1659.7
+Ecuador,2021,18,weekly,1423.3
+Ecuador,2021,19,weekly,1166.1
+Ecuador,2021,20,weekly,930.1
+Ecuador,2021,21,weekly,739.5
+Ecuador,2021,22,weekly,556.1
+Ecuador,2021,23,weekly,524.9
+Ecuador,2021,24,weekly,497.9
+Ecuador,2021,25,weekly,472.9
+Ecuador,2021,26,weekly,370.7
+Ecuador,2021,27,weekly,416.5
+Ecuador,2021,28,weekly,393.1
+Ecuador,2021,29,weekly,297.3
+Ecuador,2021,30,weekly,362.7
+Ecuador,2021,31,weekly,174.3
+Ecuador,2021,32,weekly,153.5
+Ecuador,2021,33,weekly,100.7
+Ecuador,2021,34,weekly,196.3
+Ecuador,2021,35,weekly,113.9
+Ecuador,2021,36,weekly,106.3
+Ecuador,2021,37,weekly,132.3
+Ecuador,2021,38,weekly,89.3
+Ecuador,2021,39,weekly,186.9
+Ecuador,2021,40,weekly,66.1
+Ecuador,2021,41,weekly,143.7
+Ecuador,2021,42,weekly,66.5
+Ecuador,2021,43,weekly,59.9
+Ecuador,2021,44,weekly,40.5
+Ecuador,2021,45,weekly,116.7
+Ecuador,2021,46,weekly,179.7
+Ecuador,2021,47,weekly,179.3
+Ecuador,2021,48,weekly,108.3
+Ecuador,2021,49,weekly,200.5
+Ecuador,2021,50,weekly,188.3
+Ecuador,2021,51,weekly,255.1
+Ecuador,2021,52,weekly,348.1
+Ecuador,2022,1,weekly,398.7
+Ecuador,2022,2,weekly,739.9
+Ecuador,2022,3,weekly,1133.9
+Ecuador,2022,4,weekly,999.3
+Ecuador,2022,5,weekly,877.3
+Ecuador,2022,6,weekly,515.7
+Ecuador,2022,7,weekly,305.5
+Ecuador,2022,8,weekly,145.3
+Ecuador,2022,9,weekly,246.5
+Ecuador,2022,10,weekly,7.1
+Ecuador,2022,11,weekly,37.1
+Ecuador,2022,12,weekly,203.1
+Ecuador,2022,13,weekly,141.3
+Ecuador,2022,14,weekly,53.3
+Ecuador,2022,15,weekly,-48.5
+Ecuador,2022,16,weekly,106.9
+Ecuador,2022,17,weekly,44.7
+Ecuador,2022,18,weekly,15.3
+Ecuador,2022,19,weekly,142.1
+Ecuador,2022,20,weekly,60.1
+Ecuador,2022,21,weekly,124.5
+Ecuador,2022,22,weekly,109.1
+Ecuador,2022,23,weekly,174.9
+Ecuador,2022,24,weekly,175.9
+Ecuador,2022,25,weekly,198.9
+Ecuador,2022,26,weekly,160.7
+Ecuador,2022,27,weekly,146.5
+Ecuador,2022,28,weekly,229.1
+Ecuador,2022,29,weekly,249.3
+Ecuador,2022,30,weekly,301.7
+Ecuador,2022,31,weekly,230.3
+Ecuador,2022,32,weekly,321.5
+Ecuador,2022,33,weekly,228.7
+Ecuador,2022,34,weekly,229.3
+Ecuador,2022,35,weekly,120.9
+Ecuador,2022,36,weekly,82.3
+Ecuador,2022,37,weekly,156.3
+Ecuador,2022,38,weekly,114.3
+Ecuador,2022,39,weekly,97.9
+Ecuador,2022,40,weekly,87.1
+Ecuador,2022,41,weekly,115.7
+Ecuador,2022,42,weekly,99.5
+Ecuador,2022,43,weekly,82.9
+Ecuador,2022,44,weekly,138.5
+Ecuador,2022,45,weekly,-31.3
+Ecuador,2022,46,weekly,70.7
+Ecuador,2022,47,weekly,185.3
+Ecuador,2022,48,weekly,265.3
+Ecuador,2022,49,weekly,224.5
+Ecuador,2022,50,weekly,217.3
+Ecuador,2022,51,weekly,305.1
+Ecuador,2022,52,weekly,370.1
+Ecuador,2023,1,weekly,116.6
+Ecuador,2023,2,weekly,52.8
+Ecuador,2023,3,weekly,66.8
+Ecuador,2023,4,weekly,73.2
+Ecuador,2023,5,weekly,84.2
+Ecuador,2023,6,weekly,20.6
+Ecuador,2023,7,weekly,84.4
+Ecuador,2023,8,weekly,46.2
+Ecuador,2023,9,weekly,-14.6
+Ecuador,2023,10,weekly,47.0
+Ecuador,2023,11,weekly,64.0
+Ecuador,2023,12,weekly,228.0
+Ecuador,2023,13,weekly,118.2
+Ecuador,2023,14,weekly,94.2
+Ecuador,2023,15,weekly,27.4
+Ecuador,2023,16,weekly,72.8
+Ecuador,2023,17,weekly,177.6
+Ecuador,2023,18,weekly,229.2
+Ecuador,2023,19,weekly,188.0
+Ecuador,2023,20,weekly,143.0
+Ecuador,2023,21,weekly,176.4
+Ecuador,2023,22,weekly,136.0
+Ecuador,2023,23,weekly,146.8
+Ecuador,2023,24,weekly,94.8
+Ecuador,2023,25,weekly,228.8
+Ecuador,2023,26,weekly,124.6
+Ecuador,2023,27,weekly,95.4
+Ecuador,2023,28,weekly,180.0
+Ecuador,2023,29,weekly,131.2
+Ecuador,2023,30,weekly,87.6
+Ecuador,2023,31,weekly,12.2
 Egypt,2020,1,monthly,-1532.4
 Egypt,2020,2,monthly,1703.4
 Egypt,2020,3,monthly,2953.8
@@ -3040,6 +3047,9 @@ Estonia,2023,26,weekly,-19.8
 Estonia,2023,27,weekly,-2.2
 Estonia,2023,28,weekly,3.6
 Estonia,2023,29,weekly,3.0
+Estonia,2023,30,weekly,-35.6
+Estonia,2023,31,weekly,-8.0
+Estonia,2023,32,weekly,-42.2
 Faroe Islands,2020,1,monthly,-12.0
 Faroe Islands,2020,2,monthly,-10.4
 Faroe Islands,2020,3,monthly,-11.4
@@ -5297,7 +5307,7 @@ Israel,2022,2,weekly,118.3
 Israel,2022,3,weekly,321.1
 Israel,2022,4,weekly,399.3
 Israel,2022,5,weekly,473.5
-Israel,2022,6,weekly,366.5
+Israel,2022,6,weekly,367.5
 Israel,2022,7,weekly,258.9
 Israel,2022,8,weekly,170.1
 Israel,2022,9,weekly,103.5
@@ -5317,14 +5327,14 @@ Israel,2022,22,weekly,14.5
 Israel,2022,23,weekly,53.3
 Israel,2022,24,weekly,71.5
 Israel,2022,25,weekly,30.7
-Israel,2022,26,weekly,121.7
+Israel,2022,26,weekly,122.7
 Israel,2022,27,weekly,152.3
 Israel,2022,28,weekly,127.9
 Israel,2022,29,weekly,144.3
 Israel,2022,30,weekly,150.5
 Israel,2022,31,weekly,91.9
 Israel,2022,32,weekly,94.7
-Israel,2022,33,weekly,69.9
+Israel,2022,33,weekly,70.9
 Israel,2022,34,weekly,66.9
 Israel,2022,35,weekly,43.3
 Israel,2022,36,weekly,46.7
@@ -5332,18 +5342,18 @@ Israel,2022,37,weekly,40.3
 Israel,2022,38,weekly,38.3
 Israel,2022,39,weekly,82.9
 Israel,2022,40,weekly,97.5
-Israel,2022,41,weekly,28.5
+Israel,2022,41,weekly,29.5
 Israel,2022,42,weekly,25.5
-Israel,2022,43,weekly,28.1
+Israel,2022,43,weekly,29.1
 Israel,2022,44,weekly,8.1
-Israel,2022,45,weekly,23.3
+Israel,2022,45,weekly,25.3
 Israel,2022,46,weekly,-16.9
 Israel,2022,47,weekly,53.1
 Israel,2022,48,weekly,1.9
 Israel,2022,49,weekly,43.3
 Israel,2022,50,weekly,84.5
 Israel,2022,51,weekly,48.9
-Israel,2022,52,weekly,5.3
+Israel,2022,52,weekly,6.3
 Israel,2023,1,weekly,43.0
 Israel,2023,2,weekly,-56.8
 Israel,2023,3,weekly,-14.0
@@ -5358,20 +5368,21 @@ Israel,2023,11,weekly,41.4
 Israel,2023,12,weekly,94.4
 Israel,2023,13,weekly,-38.6
 Israel,2023,14,weekly,74.6
-Israel,2023,15,weekly,72.6
+Israel,2023,15,weekly,73.6
 Israel,2023,16,weekly,71.8
 Israel,2023,17,weekly,1.2
-Israel,2023,18,weekly,9.6
+Israel,2023,18,weekly,8.6
 Israel,2023,19,weekly,47.2
-Israel,2023,20,weekly,50.2
-Israel,2023,21,weekly,68.6
-Israel,2023,22,weekly,55.4
+Israel,2023,20,weekly,53.2
+Israel,2023,21,weekly,69.6
+Israel,2023,22,weekly,58.4
 Israel,2023,23,weekly,-7.8
-Israel,2023,24,weekly,-29.6
-Israel,2023,25,weekly,29.6
-Israel,2023,26,weekly,-5.4
-Israel,2023,27,weekly,-10.8
-Israel,2023,28,weekly,-59.2
+Israel,2023,24,weekly,-27.6
+Israel,2023,25,weekly,30.6
+Israel,2023,26,weekly,-2.4
+Israel,2023,27,weekly,3.2
+Israel,2023,28,weekly,-36.2
+Israel,2023,29,weekly,-40.8
 Italy,2020,1,weekly,-1904.1
 Italy,2020,2,weekly,-1710.3
 Italy,2020,3,weekly,-1413.5
@@ -5615,6 +5626,7 @@ Japan,2023,2,monthly,7160.9
 Japan,2023,3,monthly,3941.7
 Japan,2023,4,monthly,2530.1
 Japan,2023,5,monthly,4046.7
+Japan,2023,6,monthly,3334.7
 Jordan,2020,1,monthly,329.9
 Jordan,2020,2,monthly,117.7
 Jordan,2020,3,monthly,45.4
@@ -5692,6 +5704,7 @@ Kazakhstan,2023,2,monthly,-983.6
 Kazakhstan,2023,3,monthly,-328.2
 Kazakhstan,2023,4,monthly,-1702.4
 Kazakhstan,2023,5,monthly,-146.4
+Kazakhstan,2023,6,monthly,-602.0
 Kosovo,2020,1,monthly,16.2
 Kosovo,2020,2,monthly,-9.0
 Kosovo,2020,3,monthly,-17.0
@@ -7097,163 +7110,187 @@ Mayotte,2023,24,weekly,-5.4
 Mayotte,2023,25,weekly,-3.4
 Mayotte,2023,26,weekly,-2.8
 Mayotte,2023,27,weekly,-3.0
-Mexico,2020,1,weekly,57.2
-Mexico,2020,2,weekly,356.6
-Mexico,2020,3,weekly,17.4
-Mexico,2020,4,weekly,-311.0
-Mexico,2020,5,weekly,-641.4
-Mexico,2020,6,weekly,-167.6
-Mexico,2020,7,weekly,-710.2
-Mexico,2020,8,weekly,-839.6
-Mexico,2020,9,weekly,-1187.0
-Mexico,2020,10,weekly,-721.0
-Mexico,2020,11,weekly,-627.0
-Mexico,2020,12,weekly,-1283.2
-Mexico,2020,13,weekly,-473.2
-Mexico,2020,14,weekly,-746.2
-Mexico,2020,15,weekly,131.4
-Mexico,2020,16,weekly,1249.4
-Mexico,2020,17,weekly,3176.0
-Mexico,2020,18,weekly,4982.4
-Mexico,2020,19,weekly,6827.2
-Mexico,2020,20,weekly,8468.8
-Mexico,2020,21,weekly,9198.4
-Mexico,2020,22,weekly,9542.4
-Mexico,2020,23,weekly,10645.0
-Mexico,2020,24,weekly,11408.2
-Mexico,2020,25,weekly,11526.4
-Mexico,2020,26,weekly,11464.2
-Mexico,2020,27,weekly,12178.4
-Mexico,2020,28,weekly,13117.2
-Mexico,2020,29,weekly,12982.2
-Mexico,2020,30,weekly,12195.0
-Mexico,2020,31,weekly,11162.6
-Mexico,2020,32,weekly,10380.8
-Mexico,2020,33,weekly,9175.4
-Mexico,2020,34,weekly,8399.8
-Mexico,2020,35,weekly,7558.8
-Mexico,2020,36,weekly,6781.8
-Mexico,2020,37,weekly,5833.2
-Mexico,2020,38,weekly,5044.2
-Mexico,2020,39,weekly,5423.0
-Mexico,2020,40,weekly,4679.6
-Mexico,2020,41,weekly,5061.6
-Mexico,2020,42,weekly,5020.6
-Mexico,2020,43,weekly,5741.6
-Mexico,2020,44,weekly,6250.0
-Mexico,2020,45,weekly,7397.2
-Mexico,2020,46,weekly,7452.2
-Mexico,2020,47,weekly,7479.6
-Mexico,2020,48,weekly,7881.8
-Mexico,2020,49,weekly,8762.8
-Mexico,2020,50,weekly,9909.6
-Mexico,2020,51,weekly,11074.8
-Mexico,2020,52,weekly,13278.6
-Mexico,2020,53,weekly,16460.6
-Mexico,2021,1,weekly,19605.6
-Mexico,2021,2,weekly,26948.0
-Mexico,2021,3,weekly,28333.8
-Mexico,2021,4,weekly,20564.4
-Mexico,2021,5,weekly,15774.0
-Mexico,2021,6,weekly,10752.8
-Mexico,2021,7,weekly,9484.2
-Mexico,2021,8,weekly,8466.8
-Mexico,2021,9,weekly,5213.4
-Mexico,2021,10,weekly,4848.4
-Mexico,2021,11,weekly,3853.4
-Mexico,2021,12,weekly,3172.2
-Mexico,2021,13,weekly,2661.2
-Mexico,2021,14,weekly,2989.2
-Mexico,2021,15,weekly,2934.8
-Mexico,2021,16,weekly,2095.8
-Mexico,2021,17,weekly,1445.4
-Mexico,2021,18,weekly,1152.8
-Mexico,2021,19,weekly,847.6
-Mexico,2021,20,weekly,329.2
-Mexico,2021,21,weekly,230.8
-Mexico,2021,22,weekly,240.8
-Mexico,2021,23,weekly,491.4
-Mexico,2021,24,weekly,868.6
-Mexico,2021,25,weekly,704.8
-Mexico,2021,26,weekly,1197.6
-Mexico,2021,27,weekly,1960.8
-Mexico,2021,28,weekly,3075.6
-Mexico,2021,29,weekly,4959.6
-Mexico,2021,30,weekly,7400.4
-Mexico,2021,31,weekly,10340.0
-Mexico,2021,32,weekly,12766.2
-Mexico,2021,33,weekly,14380.8
-Mexico,2021,34,weekly,13726.2
-Mexico,2021,35,weekly,13422.2
-Mexico,2021,36,weekly,11363.2
-Mexico,2021,37,weekly,9910.6
-Mexico,2021,38,weekly,7833.6
-Mexico,2021,39,weekly,6634.4
-Mexico,2021,40,weekly,5179.0
-Mexico,2021,41,weekly,3973.0
-Mexico,2021,42,weekly,2719.0
-Mexico,2021,43,weekly,2088.0
-Mexico,2021,44,weekly,1920.4
-Mexico,2021,45,weekly,1829.6
-Mexico,2021,46,weekly,1819.6
-Mexico,2021,47,weekly,801.0
-Mexico,2021,48,weekly,1186.2
-Mexico,2021,49,weekly,875.2
-Mexico,2021,50,weekly,538.0
-Mexico,2021,51,weekly,1052.2
-Mexico,2021,52,weekly,774.0
-Mexico,2022,1,weekly,688.1
-Mexico,2022,2,weekly,2845.5
-Mexico,2022,3,weekly,7307.3
-Mexico,2022,4,weekly,16360.9
-Mexico,2022,5,weekly,11077.5
-Mexico,2022,6,weekly,6769.3
-Mexico,2022,7,weekly,4363.7
-Mexico,2022,8,weekly,1718.3
-Mexico,2022,9,weekly,189.9
-Mexico,2022,10,weekly,-26.1
-Mexico,2022,11,weekly,-747.1
-Mexico,2022,12,weekly,-1361.3
-Mexico,2022,13,weekly,-667.3
-Mexico,2022,14,weekly,-1391.3
-Mexico,2022,15,weekly,-937.7
-Mexico,2022,16,weekly,-967.7
-Mexico,2022,17,weekly,-1816.1
-Mexico,2022,18,weekly,-685.7
-Mexico,2022,19,weekly,-489.9
-Mexico,2022,20,weekly,-633.3
-Mexico,2022,21,weekly,-1460.7
-Mexico,2022,22,weekly,-1153.7
-Mexico,2022,23,weekly,-486.1
-Mexico,2022,24,weekly,-573.9
-Mexico,2022,25,weekly,-819.7
-Mexico,2022,26,weekly,52.1
-Mexico,2022,27,weekly,83.3
-Mexico,2022,28,weekly,1075.1
-Mexico,2022,29,weekly,1308.1
-Mexico,2022,30,weekly,802.9
-Mexico,2022,31,weekly,867.5
-Mexico,2022,32,weekly,291.7
-Mexico,2022,33,weekly,-278.7
-Mexico,2022,34,weekly,-539.3
-Mexico,2022,35,weekly,-775.3
-Mexico,2022,36,weekly,-993.3
-Mexico,2022,37,weekly,-991.9
-Mexico,2022,38,weekly,-1050.9
-Mexico,2022,39,weekly,-968.1
-Mexico,2022,40,weekly,-995.5
-Mexico,2022,41,weekly,-1040.5
-Mexico,2022,42,weekly,-1501.5
-Mexico,2022,43,weekly,-1216.5
-Mexico,2022,44,weekly,-1307.1
-Mexico,2022,45,weekly,-1341.9
-Mexico,2022,46,weekly,-1248.9
-Mexico,2022,47,weekly,-953.5
-Mexico,2022,48,weekly,-383.3
-Mexico,2022,49,weekly,-627.3
-Mexico,2022,50,weekly,-1020.5
-Mexico,2022,51,weekly,-454.3
-Mexico,2022,52,weekly,-529.5
+Mexico,2020,1,weekly,160.0
+Mexico,2020,2,weekly,428.4
+Mexico,2020,3,weekly,65.2
+Mexico,2020,4,weekly,-267.2
+Mexico,2020,5,weekly,-596.6
+Mexico,2020,6,weekly,-109.8
+Mexico,2020,7,weekly,-656.4
+Mexico,2020,8,weekly,-789.8
+Mexico,2020,9,weekly,-1043.2
+Mexico,2020,10,weekly,-666.2
+Mexico,2020,11,weekly,-568.2
+Mexico,2020,12,weekly,-1226.4
+Mexico,2020,13,weekly,-384.4
+Mexico,2020,14,weekly,-680.4
+Mexico,2020,15,weekly,193.2
+Mexico,2020,16,weekly,1323.2
+Mexico,2020,17,weekly,3264.8
+Mexico,2020,18,weekly,5079.2
+Mexico,2020,19,weekly,6933.0
+Mexico,2020,20,weekly,8563.6
+Mexico,2020,21,weekly,9292.2
+Mexico,2020,22,weekly,9628.2
+Mexico,2020,23,weekly,10734.8
+Mexico,2020,24,weekly,11528.0
+Mexico,2020,25,weekly,11633.2
+Mexico,2020,26,weekly,11564.0
+Mexico,2020,27,weekly,12429.2
+Mexico,2020,28,weekly,13446.0
+Mexico,2020,29,weekly,13312.0
+Mexico,2020,30,weekly,12499.8
+Mexico,2020,31,weekly,11378.4
+Mexico,2020,32,weekly,10458.6
+Mexico,2020,33,weekly,9260.2
+Mexico,2020,34,weekly,8474.6
+Mexico,2020,35,weekly,7636.6
+Mexico,2020,36,weekly,6868.6
+Mexico,2020,37,weekly,5911.0
+Mexico,2020,38,weekly,5125.0
+Mexico,2020,39,weekly,5495.8
+Mexico,2020,40,weekly,4755.4
+Mexico,2020,41,weekly,5150.4
+Mexico,2020,42,weekly,5123.4
+Mexico,2020,43,weekly,5863.4
+Mexico,2020,44,weekly,6319.8
+Mexico,2020,45,weekly,7471.0
+Mexico,2020,46,weekly,7517.0
+Mexico,2020,47,weekly,7550.4
+Mexico,2020,48,weekly,7963.6
+Mexico,2020,49,weekly,8838.6
+Mexico,2020,50,weekly,9982.4
+Mexico,2020,51,weekly,11139.6
+Mexico,2020,52,weekly,13378.0
+Mexico,2020,53,weekly,16576.0
+Mexico,2021,1,weekly,19721.4
+Mexico,2021,2,weekly,27095.8
+Mexico,2021,3,weekly,28469.6
+Mexico,2021,4,weekly,20681.2
+Mexico,2021,5,weekly,15920.8
+Mexico,2021,6,weekly,10861.6
+Mexico,2021,7,weekly,9585.0
+Mexico,2021,8,weekly,8551.6
+Mexico,2021,9,weekly,5281.2
+Mexico,2021,10,weekly,4892.2
+Mexico,2021,11,weekly,3897.2
+Mexico,2021,12,weekly,3224.0
+Mexico,2021,13,weekly,2702.0
+Mexico,2021,14,weekly,3014.0
+Mexico,2021,15,weekly,2979.6
+Mexico,2021,16,weekly,2131.6
+Mexico,2021,17,weekly,1490.2
+Mexico,2021,18,weekly,1185.6
+Mexico,2021,19,weekly,885.4
+Mexico,2021,20,weekly,370.0
+Mexico,2021,21,weekly,259.6
+Mexico,2021,22,weekly,279.6
+Mexico,2021,23,weekly,539.2
+Mexico,2021,24,weekly,913.4
+Mexico,2021,25,weekly,766.6
+Mexico,2021,26,weekly,1246.4
+Mexico,2021,27,weekly,2027.6
+Mexico,2021,28,weekly,3138.4
+Mexico,2021,29,weekly,5031.4
+Mexico,2021,30,weekly,7472.2
+Mexico,2021,31,weekly,10415.8
+Mexico,2021,32,weekly,12848.0
+Mexico,2021,33,weekly,14466.6
+Mexico,2021,34,weekly,13803.0
+Mexico,2021,35,weekly,13505.0
+Mexico,2021,36,weekly,11451.0
+Mexico,2021,37,weekly,9990.4
+Mexico,2021,38,weekly,7912.4
+Mexico,2021,39,weekly,6706.2
+Mexico,2021,40,weekly,5244.8
+Mexico,2021,41,weekly,4019.8
+Mexico,2021,42,weekly,2774.8
+Mexico,2021,43,weekly,2152.8
+Mexico,2021,44,weekly,1988.2
+Mexico,2021,45,weekly,1903.4
+Mexico,2021,46,weekly,1893.4
+Mexico,2021,47,weekly,869.8
+Mexico,2021,48,weekly,1261.0
+Mexico,2021,49,weekly,970.0
+Mexico,2021,50,weekly,629.8
+Mexico,2021,51,weekly,1155.0
+Mexico,2021,52,weekly,885.4
+Mexico,2022,1,weekly,814.8
+Mexico,2022,2,weekly,2977.2
+Mexico,2022,3,weekly,7436.0
+Mexico,2022,4,weekly,16518.6
+Mexico,2022,5,weekly,11241.2
+Mexico,2022,6,weekly,6923.0
+Mexico,2022,7,weekly,4512.4
+Mexico,2022,8,weekly,1857.0
+Mexico,2022,9,weekly,315.6
+Mexico,2022,10,weekly,105.6
+Mexico,2022,11,weekly,-641.4
+Mexico,2022,12,weekly,-1250.6
+Mexico,2022,13,weekly,-571.6
+Mexico,2022,14,weekly,-1273.6
+Mexico,2022,15,weekly,-833.0
+Mexico,2022,16,weekly,-890.0
+Mexico,2022,17,weekly,-1703.4
+Mexico,2022,18,weekly,-579.0
+Mexico,2022,19,weekly,-383.2
+Mexico,2022,20,weekly,-513.6
+Mexico,2022,21,weekly,-1345.0
+Mexico,2022,22,weekly,-1035.0
+Mexico,2022,23,weekly,-344.4
+Mexico,2022,24,weekly,-464.2
+Mexico,2022,25,weekly,-686.0
+Mexico,2022,26,weekly,173.8
+Mexico,2022,27,weekly,236.0
+Mexico,2022,28,weekly,1251.8
+Mexico,2022,29,weekly,1456.8
+Mexico,2022,30,weekly,963.6
+Mexico,2022,31,weekly,995.2
+Mexico,2022,32,weekly,641.4
+Mexico,2022,33,weekly,85.0
+Mexico,2022,34,weekly,-228.6
+Mexico,2022,35,weekly,-345.6
+Mexico,2022,36,weekly,-462.6
+Mexico,2022,37,weekly,-569.2
+Mexico,2022,38,weekly,-522.2
+Mexico,2022,39,weekly,-493.4
+Mexico,2022,40,weekly,-634.8
+Mexico,2022,41,weekly,-444.8
+Mexico,2022,42,weekly,-1043.8
+Mexico,2022,43,weekly,-672.8
+Mexico,2022,44,weekly,-758.4
+Mexico,2022,45,weekly,-673.2
+Mexico,2022,46,weekly,-624.2
+Mexico,2022,47,weekly,-71.8
+Mexico,2022,48,weekly,272.4
+Mexico,2022,49,weekly,203.4
+Mexico,2022,50,weekly,-37.8
+Mexico,2022,51,weekly,992.4
+Mexico,2022,52,weekly,1481.8
+Mexico,2023,1,weekly,208.2
+Mexico,2023,2,weekly,-1005.4
+Mexico,2023,3,weekly,-978.6
+Mexico,2023,4,weekly,-1432.0
+Mexico,2023,5,weekly,-1793.4
+Mexico,2023,6,weekly,-1660.6
+Mexico,2023,7,weekly,-1542.2
+Mexico,2023,8,weekly,-1799.6
+Mexico,2023,9,weekly,-1797.0
+Mexico,2023,10,weekly,-1775.0
+Mexico,2023,11,weekly,-2071.0
+Mexico,2023,12,weekly,-1362.2
+Mexico,2023,13,weekly,-1298.2
+Mexico,2023,14,weekly,-1261.2
+Mexico,2023,15,weekly,-1277.6
+Mexico,2023,16,weekly,343.4
+Mexico,2023,17,weekly,-1505.0
+Mexico,2023,18,weekly,-769.6
+Mexico,2023,19,weekly,-893.8
+Mexico,2023,20,weekly,-1218.2
+Mexico,2023,21,weekly,-1458.6
+Mexico,2023,22,weekly,-1047.6
+Mexico,2023,23,weekly,-1135.0
+Mexico,2023,24,weekly,1050.2
 Moldova,2020,1,monthly,-316.5
 Moldova,2020,2,monthly,-33.3
 Moldova,2020,3,monthly,-491.3
@@ -8240,7 +8277,9 @@ Oman,2023,1,monthly,-114.3
 Oman,2023,2,monthly,-127.9
 Oman,2023,3,monthly,-105.9
 Oman,2023,4,monthly,-36.5
-Oman,2023,5,monthly,-23.1
+Oman,2023,5,monthly,-22.1
+Oman,2023,6,monthly,-42.1
+Oman,2023,7,monthly,-141.3
 Palestine,2020,1,monthly,-18.8
 Palestine,2020,2,monthly,43.2
 Palestine,2020,3,monthly,-50.8
@@ -9036,31 +9075,35 @@ Puerto Rico,2022,49,weekly,116.2
 Puerto Rico,2022,50,weekly,108.0
 Puerto Rico,2022,51,weekly,94.2
 Puerto Rico,2022,52,weekly,90.8
-Puerto Rico,2023,1,weekly,17.6
+Puerto Rico,2023,1,weekly,18.6
 Puerto Rico,2023,2,weekly,108.2
 Puerto Rico,2023,3,weekly,42.4
-Puerto Rico,2023,4,weekly,53.6
-Puerto Rico,2023,5,weekly,39.0
-Puerto Rico,2023,6,weekly,78.4
-Puerto Rico,2023,7,weekly,107.2
-Puerto Rico,2023,8,weekly,61.4
+Puerto Rico,2023,4,weekly,54.6
+Puerto Rico,2023,5,weekly,37.0
+Puerto Rico,2023,6,weekly,74.4
+Puerto Rico,2023,7,weekly,103.2
+Puerto Rico,2023,8,weekly,57.4
 Puerto Rico,2023,9,weekly,79.4
-Puerto Rico,2023,10,weekly,97.2
+Puerto Rico,2023,10,weekly,96.2
 Puerto Rico,2023,11,weekly,79.0
-Puerto Rico,2023,12,weekly,26.2
-Puerto Rico,2023,13,weekly,73.0
-Puerto Rico,2023,14,weekly,-13.6
-Puerto Rico,2023,15,weekly,90.6
-Puerto Rico,2023,16,weekly,97.2
-Puerto Rico,2023,17,weekly,58.6
-Puerto Rico,2023,18,weekly,91.2
-Puerto Rico,2023,19,weekly,109.2
-Puerto Rico,2023,20,weekly,52.6
-Puerto Rico,2023,21,weekly,61.6
-Puerto Rico,2023,22,weekly,80.2
-Puerto Rico,2023,23,weekly,225.0
-Puerto Rico,2023,24,weekly,148.2
-Puerto Rico,2023,25,weekly,161.0
+Puerto Rico,2023,12,weekly,25.2
+Puerto Rico,2023,13,weekly,72.0
+Puerto Rico,2023,14,weekly,-14.6
+Puerto Rico,2023,15,weekly,84.6
+Puerto Rico,2023,16,weekly,91.2
+Puerto Rico,2023,17,weekly,49.6
+Puerto Rico,2023,18,weekly,81.2
+Puerto Rico,2023,19,weekly,102.2
+Puerto Rico,2023,20,weekly,49.6
+Puerto Rico,2023,21,weekly,59.6
+Puerto Rico,2023,22,weekly,70.2
+Puerto Rico,2023,23,weekly,194.0
+Puerto Rico,2023,24,weekly,77.2
+Puerto Rico,2023,25,weekly,106.0
+Puerto Rico,2023,26,weekly,150.6
+Puerto Rico,2023,27,weekly,109.2
+Puerto Rico,2023,28,weekly,139.4
+Puerto Rico,2023,29,weekly,136.0
 Qatar,2020,1,monthly,-0.7
 Qatar,2020,2,monthly,14.5
 Qatar,2020,3,monthly,33.3
@@ -9651,6 +9694,7 @@ Serbia,2023,3,monthly,-405.1
 Serbia,2023,4,monthly,-796.1
 Serbia,2023,5,monthly,138.1
 Serbia,2023,6,monthly,-302.3
+Serbia,2023,7,monthly,-87.3
 Seychelles,2020,1,monthly,-3.2
 Seychelles,2020,2,monthly,-4.6
 Seychelles,2020,3,monthly,-12.2
@@ -9909,6 +9953,11 @@ Slovakia,2023,20,weekly,-97.1
 Slovakia,2023,21,weekly,34.5
 Slovakia,2023,22,weekly,-76.5
 Slovakia,2023,23,weekly,-24.1
+Slovakia,2023,24,weekly,-44.1
+Slovakia,2023,25,weekly,-6.1
+Slovakia,2023,26,weekly,-16.5
+Slovakia,2023,27,weekly,-23.3
+Slovakia,2023,28,weekly,20.1
 Slovenia,2020,1,weekly,-35.3
 Slovenia,2020,2,weekly,-43.9
 Slovenia,2020,3,weekly,-49.5
@@ -10199,84 +10248,88 @@ South Africa,2021,49,weekly,1347.1
 South Africa,2021,50,weekly,2440.9
 South Africa,2021,51,weekly,3146.9
 South Africa,2021,52,weekly,3465.3
-South Africa,2022,1,weekly,2370.5
+South Africa,2022,1,weekly,2371.5
 South Africa,2022,2,weekly,2195.9
-South Africa,2022,3,weekly,1416.5
+South Africa,2022,3,weekly,1418.5
 South Africa,2022,4,weekly,1029.1
 South Africa,2022,5,weekly,1095.3
 South Africa,2022,6,weekly,703.3
 South Africa,2022,7,weekly,699.7
 South Africa,2022,8,weekly,906.9
 South Africa,2022,9,weekly,809.3
-South Africa,2022,10,weekly,853.3
+South Africa,2022,10,weekly,855.3
 South Africa,2022,11,weekly,664.9
 South Africa,2022,12,weekly,913.9
 South Africa,2022,13,weekly,796.1
 South Africa,2022,14,weekly,536.5
 South Africa,2022,15,weekly,1642.7
-South Africa,2022,16,weekly,1138.1
+South Africa,2022,16,weekly,1137.1
 South Africa,2022,17,weekly,1216.5
 South Africa,2022,18,weekly,1480.1
 South Africa,2022,19,weekly,1528.5
 South Africa,2022,20,weekly,1001.9
 South Africa,2022,21,weekly,1672.7
-South Africa,2022,22,weekly,1321.5
-South Africa,2022,23,weekly,961.3
+South Africa,2022,22,weekly,1322.5
+South Africa,2022,23,weekly,963.3
 South Africa,2022,24,weekly,1052.9
-South Africa,2022,25,weekly,713.7
-South Africa,2022,26,weekly,976.1
+South Africa,2022,25,weekly,714.7
+South Africa,2022,26,weekly,975.1
 South Africa,2022,27,weekly,417.1
 South Africa,2022,28,weekly,234.9
 South Africa,2022,29,weekly,96.3
-South Africa,2022,30,weekly,393.1
-South Africa,2022,31,weekly,221.3
-South Africa,2022,32,weekly,38.5
-South Africa,2022,33,weekly,230.5
-South Africa,2022,34,weekly,537.7
-South Africa,2022,35,weekly,487.5
+South Africa,2022,30,weekly,394.1
+South Africa,2022,31,weekly,223.3
+South Africa,2022,32,weekly,39.5
+South Africa,2022,33,weekly,231.5
+South Africa,2022,34,weekly,545.7
+South Africa,2022,35,weekly,488.5
 South Africa,2022,36,weekly,485.5
-South Africa,2022,37,weekly,359.9
-South Africa,2022,38,weekly,241.1
-South Africa,2022,39,weekly,470.9
+South Africa,2022,37,weekly,362.9
+South Africa,2022,38,weekly,240.1
+South Africa,2022,39,weekly,472.9
 South Africa,2022,40,weekly,730.1
-South Africa,2022,41,weekly,553.9
-South Africa,2022,42,weekly,154.1
-South Africa,2022,43,weekly,-206.9
-South Africa,2022,44,weekly,124.5
-South Africa,2022,45,weekly,228.5
-South Africa,2022,46,weekly,498.7
-South Africa,2022,47,weekly,430.9
-South Africa,2022,48,weekly,253.3
-South Africa,2022,49,weekly,150.3
+South Africa,2022,41,weekly,554.9
+South Africa,2022,42,weekly,157.1
+South Africa,2022,43,weekly,-203.9
+South Africa,2022,44,weekly,127.5
+South Africa,2022,45,weekly,231.5
+South Africa,2022,46,weekly,499.7
+South Africa,2022,47,weekly,434.9
+South Africa,2022,48,weekly,255.3
+South Africa,2022,49,weekly,152.3
 South Africa,2022,50,weekly,484.1
-South Africa,2022,51,weekly,46.1
-South Africa,2022,52,weekly,400.5
-South Africa,2023,1,weekly,18.7
-South Africa,2023,2,weekly,1239.1
-South Africa,2023,3,weekly,1398.7
-South Africa,2023,4,weekly,1056.3
-South Africa,2023,5,weekly,382.5
-South Africa,2023,6,weekly,148.5
-South Africa,2023,7,weekly,380.9
-South Africa,2023,8,weekly,621.1
-South Africa,2023,9,weekly,362.5
-South Africa,2023,10,weekly,972.5
-South Africa,2023,11,weekly,536.1
-South Africa,2023,12,weekly,796.1
-South Africa,2023,13,weekly,404.3
-South Africa,2023,14,weekly,599.7
-South Africa,2023,15,weekly,791.9
-South Africa,2023,16,weekly,520.3
-South Africa,2023,17,weekly,791.7
-South Africa,2023,18,weekly,333.3
-South Africa,2023,19,weekly,660.7
-South Africa,2023,20,weekly,996.1
-South Africa,2023,21,weekly,1663.9
-South Africa,2023,22,weekly,1612.7
-South Africa,2023,23,weekly,1145.5
-South Africa,2023,24,weekly,503.1
-South Africa,2023,25,weekly,272.9
-South Africa,2023,26,weekly,-11.7
+South Africa,2022,51,weekly,49.1
+South Africa,2022,52,weekly,402.5
+South Africa,2023,1,weekly,19.7
+South Africa,2023,2,weekly,1241.1
+South Africa,2023,3,weekly,1406.7
+South Africa,2023,4,weekly,1062.3
+South Africa,2023,5,weekly,384.5
+South Africa,2023,6,weekly,156.5
+South Africa,2023,7,weekly,388.9
+South Africa,2023,8,weekly,623.1
+South Africa,2023,9,weekly,366.5
+South Africa,2023,10,weekly,983.5
+South Africa,2023,11,weekly,538.1
+South Africa,2023,12,weekly,802.1
+South Africa,2023,13,weekly,410.3
+South Africa,2023,14,weekly,611.7
+South Africa,2023,15,weekly,801.9
+South Africa,2023,16,weekly,526.3
+South Africa,2023,17,weekly,809.7
+South Africa,2023,18,weekly,348.3
+South Africa,2023,19,weekly,680.7
+South Africa,2023,20,weekly,1001.1
+South Africa,2023,21,weekly,1680.9
+South Africa,2023,22,weekly,1638.7
+South Africa,2023,23,weekly,1179.5
+South Africa,2023,24,weekly,545.1
+South Africa,2023,25,weekly,317.9
+South Africa,2023,26,weekly,79.3
+South Africa,2023,27,weekly,-11.7
+South Africa,2023,28,weekly,1057.1
+South Africa,2023,29,weekly,345.5
+South Africa,2023,30,weekly,532.3
 South Korea,2020,1,weekly,24.4
 South Korea,2020,2,weekly,-129.2
 South Korea,2020,3,weekly,-8.0
@@ -10639,6 +10692,10 @@ Spain,2023,23,weekly,204.1
 Spain,2023,24,weekly,132.7
 Spain,2023,25,weekly,-237.5
 Spain,2023,26,weekly,10.7
+Spain,2023,27,weekly,-361.5
+Spain,2023,28,weekly,-89.5
+Spain,2023,29,weekly,126.5
+Spain,2023,30,weekly,-138.5
 Suriname,2020,1,monthly,-42.1
 Suriname,2020,2,monthly,47.3
 Suriname,2020,3,monthly,-46.9
@@ -11564,20 +11621,20 @@ United States,2022,1,weekly,15496.7
 United States,2022,2,weekly,20436.1
 United States,2022,3,weekly,22541.9
 United States,2022,4,weekly,22811.1
-United States,2022,5,weekly,19255.7
+United States,2022,5,weekly,19254.7
 United States,2022,6,weekly,15007.9
 United States,2022,7,weekly,9094.1
-United States,2022,8,weekly,4980.1
-United States,2022,9,weekly,3664.1
+United States,2022,8,weekly,4979.1
+United States,2022,9,weekly,3665.1
 United States,2022,10,weekly,908.1
 United States,2022,11,weekly,660.5
 United States,2022,12,weekly,-959.1
-United States,2022,13,weekly,-760.9
-United States,2022,14,weekly,-907.9
+United States,2022,13,weekly,-761.9
+United States,2022,14,weekly,-908.9
 United States,2022,15,weekly,-482.5
 United States,2022,16,weekly,-409.7
 United States,2022,17,weekly,825.1
-United States,2022,18,weekly,976.5
+United States,2022,18,weekly,977.5
 United States,2022,19,weekly,2227.9
 United States,2022,20,weekly,2560.5
 United States,2022,21,weekly,2083.3
@@ -11600,42 +11657,47 @@ United States,2022,37,weekly,3808.9
 United States,2022,38,weekly,4196.9
 United States,2022,39,weekly,3913.7
 United States,2022,40,weekly,3863.9
-United States,2022,41,weekly,4198.1
-United States,2022,42,weekly,3932.9
-United States,2022,43,weekly,3729.9
+United States,2022,41,weekly,4199.1
+United States,2022,42,weekly,3931.9
+United States,2022,43,weekly,3728.9
 United States,2022,44,weekly,4399.1
 United States,2022,45,weekly,4122.1
 United States,2022,46,weekly,3934.9
 United States,2022,47,weekly,6898.3
 United States,2022,48,weekly,7619.3
 United States,2022,49,weekly,7736.9
-United States,2022,50,weekly,6687.7
+United States,2022,50,weekly,6688.7
 United States,2022,51,weekly,7506.7
-United States,2022,52,weekly,9241.1
-United States,2023,1,weekly,4012.0
-United States,2023,2,weekly,1044.4
-United States,2023,3,weekly,343.2
-United States,2023,4,weekly,-539.6
-United States,2023,5,weekly,512.0
-United States,2023,6,weekly,431.2
-United States,2023,7,weekly,-338.6
-United States,2023,8,weekly,650.4
-United States,2023,9,weekly,179.4
-United States,2023,10,weekly,-603.6
-United States,2023,11,weekly,715.8
-United States,2023,12,weekly,740.2
-United States,2023,13,weekly,805.4
-United States,2023,14,weekly,-166.6
-United States,2023,15,weekly,887.8
-United States,2023,16,weekly,821.6
-United States,2023,17,weekly,786.4
-United States,2023,18,weekly,1005.8
-United States,2023,19,weekly,1594.2
-United States,2023,20,weekly,938.8
-United States,2023,21,weekly,196.6
-United States,2023,22,weekly,1608.4
-United States,2023,23,weekly,505.8
-United States,2023,24,weekly,911.4
+United States,2022,52,weekly,9240.1
+United States,2023,1,weekly,4028.0
+United States,2023,2,weekly,1045.4
+United States,2023,3,weekly,360.2
+United States,2023,4,weekly,-490.6
+United States,2023,5,weekly,140.0
+United States,2023,6,weekly,79.2
+United States,2023,7,weekly,-690.6
+United States,2023,8,weekly,317.4
+United States,2023,9,weekly,208.4
+United States,2023,10,weekly,-542.6
+United States,2023,11,weekly,750.8
+United States,2023,12,weekly,727.2
+United States,2023,13,weekly,810.4
+United States,2023,14,weekly,-138.6
+United States,2023,15,weekly,906.8
+United States,2023,16,weekly,873.6
+United States,2023,17,weekly,795.4
+United States,2023,18,weekly,1060.8
+United States,2023,19,weekly,1620.2
+United States,2023,20,weekly,993.8
+United States,2023,21,weekly,205.6
+United States,2023,22,weekly,1684.4
+United States,2023,23,weekly,638.8
+United States,2023,24,weekly,1106.4
+United States,2023,25,weekly,723.2
+United States,2023,26,weekly,792.2
+United States,2023,27,weekly,853.6
+United States,2023,28,weekly,629.8
+United States,2023,29,weekly,793.6
 Uruguay,2020,1,monthly,-122.4
 Uruguay,2020,2,monthly,51.4
 Uruguay,2020,3,monthly,-50.4
