@@ -1122,6 +1122,18 @@ Brunei,2021,9,monthly,-98.9
 Brunei,2021,10,monthly,-31.5
 Brunei,2021,11,monthly,176.3
 Brunei,2021,12,monthly,117.5
+Brunei,2022,1,monthly,32.1
+Brunei,2022,2,monthly,-2.7
+Brunei,2022,3,monthly,117.5
+Brunei,2022,4,monthly,42.7
+Brunei,2022,5,monthly,31.1
+Brunei,2022,6,monthly,79.9
+Brunei,2022,7,monthly,33.5
+Brunei,2022,8,monthly,50.9
+Brunei,2022,9,monthly,18.7
+Brunei,2022,10,monthly,39.1
+Brunei,2022,11,monthly,27.9
+Brunei,2022,12,monthly,2.1
 Bulgaria,2020,1,weekly,-474.9
 Bulgaria,2020,2,weekly,-294.9
 Bulgaria,2020,3,weekly,-344.7
@@ -3026,6 +3038,7 @@ Egypt,2023,5,monthly,1950.7
 Egypt,2023,6,monthly,313.3
 Egypt,2023,7,monthly,6647.1
 Egypt,2023,8,monthly,3431.5
+Egypt,2023,9,monthly,2864.3
 El Salvador,2020,1,monthly,131.8
 El Salvador,2020,2,monthly,-122.2
 El Salvador,2020,3,monthly,-665.0
@@ -6092,6 +6105,7 @@ Kazakhstan,2023,6,monthly,-602.0
 Kazakhstan,2023,7,monthly,-482.6
 Kazakhstan,2023,8,monthly,489.8
 Kazakhstan,2023,9,monthly,-543.0
+Kazakhstan,2023,10,monthly,-47.0
 Kosovo,2020,1,monthly,16.2
 Kosovo,2020,2,monthly,-9.0
 Kosovo,2020,3,monthly,-17.0
@@ -6131,7 +6145,12 @@ Kosovo,2022,12,monthly,-169.3
 Kosovo,2023,1,monthly,-92.7
 Kosovo,2023,2,monthly,-101.9
 Kosovo,2023,3,monthly,-158.9
-Kosovo,2023,4,monthly,-149.5
+Kosovo,2023,4,monthly,-116.5
+Kosovo,2023,5,monthly,-138.7
+Kosovo,2023,6,monthly,-159.7
+Kosovo,2023,7,monthly,-68.3
+Kosovo,2023,8,monthly,-118.7
+Kosovo,2023,9,monthly,-104.3
 Kuwait,2020,1,monthly,-122.8
 Kuwait,2020,2,monthly,9.2
 Kuwait,2020,3,monthly,0.6
@@ -11852,6 +11871,7 @@ Taiwan,2023,7,monthly,2289.1
 Taiwan,2023,8,monthly,1775.1
 Taiwan,2023,9,monthly,238.5
 Taiwan,2023,10,monthly,1040.9
+Taiwan,2023,11,monthly,1157.5
 Tajikistan,2020,1,monthly,211.1
 Tajikistan,2020,2,monthly,253.5
 Tajikistan,2020,3,monthly,42.3
