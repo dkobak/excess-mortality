@@ -355,40 +355,44 @@ Australia,2022,49,weekly,553.3
 Australia,2022,50,weekly,415.5
 Australia,2022,51,weekly,501.9
 Australia,2022,52,weekly,420.5
-Australia,2023,1,weekly,430.4
+Australia,2023,1,weekly,432.4
 Australia,2023,2,weekly,231.6
 Australia,2023,3,weekly,302.6
-Australia,2023,4,weekly,201.6
+Australia,2023,4,weekly,203.6
 Australia,2023,5,weekly,382.2
 Australia,2023,6,weekly,182.6
-Australia,2023,7,weekly,286.4
+Australia,2023,7,weekly,287.4
 Australia,2023,8,weekly,169.4
 Australia,2023,9,weekly,255.2
-Australia,2023,10,weekly,287.6
-Australia,2023,11,weekly,386.0
-Australia,2023,12,weekly,269.6
-Australia,2023,13,weekly,222.6
-Australia,2023,14,weekly,179.4
-Australia,2023,15,weekly,343.2
-Australia,2023,16,weekly,391.0
-Australia,2023,17,weekly,368.4
-Australia,2023,18,weekly,361.4
-Australia,2023,19,weekly,478.6
-Australia,2023,20,weekly,518.8
-Australia,2023,21,weekly,469.2
-Australia,2023,22,weekly,549.0
-Australia,2023,23,weekly,261.0
-Australia,2023,24,weekly,229.0
-Australia,2023,25,weekly,414.6
-Australia,2023,26,weekly,265.2
-Australia,2023,27,weekly,247.6
-Australia,2023,28,weekly,164.4
-Australia,2023,29,weekly,91.2
-Australia,2023,30,weekly,74.6
-Australia,2023,31,weekly,12.6
-Australia,2023,32,weekly,-26.8
-Australia,2023,33,weekly,-33.2
-Australia,2023,34,weekly,-215.4
+Australia,2023,10,weekly,291.6
+Australia,2023,11,weekly,390.0
+Australia,2023,12,weekly,270.6
+Australia,2023,13,weekly,228.6
+Australia,2023,14,weekly,184.4
+Australia,2023,15,weekly,342.2
+Australia,2023,16,weekly,392.0
+Australia,2023,17,weekly,371.4
+Australia,2023,18,weekly,365.4
+Australia,2023,19,weekly,485.6
+Australia,2023,20,weekly,521.8
+Australia,2023,21,weekly,475.2
+Australia,2023,22,weekly,555.0
+Australia,2023,23,weekly,263.0
+Australia,2023,24,weekly,235.0
+Australia,2023,25,weekly,425.6
+Australia,2023,26,weekly,277.2
+Australia,2023,27,weekly,261.6
+Australia,2023,28,weekly,175.4
+Australia,2023,29,weekly,102.2
+Australia,2023,30,weekly,89.6
+Australia,2023,31,weekly,30.6
+Australia,2023,32,weekly,2.2
+Australia,2023,33,weekly,-1.2
+Australia,2023,34,weekly,-170.4
+Australia,2023,35,weekly,-210.2
+Australia,2023,36,weekly,-196.2
+Australia,2023,37,weekly,-41.8
+Australia,2023,38,weekly,-181.0
 Austria,2020,1,weekly,-221.2
 Austria,2020,2,weekly,-185.2
 Austria,2020,3,weekly,-14.6
@@ -566,7 +570,7 @@ Austria,2023,17,weekly,134.4
 Austria,2023,18,weekly,85.0
 Austria,2023,19,weekly,141.2
 Austria,2023,20,weekly,25.6
-Austria,2023,21,weekly,78.0
+Austria,2023,21,weekly,79.0
 Austria,2023,22,weekly,72.2
 Austria,2023,23,weekly,31.2
 Austria,2023,24,weekly,50.2
@@ -576,16 +580,21 @@ Austria,2023,27,weekly,48.4
 Austria,2023,28,weekly,124.2
 Austria,2023,29,weekly,34.8
 Austria,2023,30,weekly,-77.2
-Austria,2023,31,weekly,-117.2
+Austria,2023,31,weekly,-116.2
 Austria,2023,32,weekly,80.4
 Austria,2023,33,weekly,51.0
-Austria,2023,34,weekly,138.8
-Austria,2023,35,weekly,-60.2
-Austria,2023,36,weekly,109.4
+Austria,2023,34,weekly,139.8
+Austria,2023,35,weekly,-59.2
+Austria,2023,36,weekly,113.4
 Austria,2023,37,weekly,121.8
-Austria,2023,38,weekly,39.6
-Austria,2023,39,weekly,-23.0
-Austria,2023,40,weekly,-11.8
+Austria,2023,38,weekly,45.6
+Austria,2023,39,weekly,-15.0
+Austria,2023,40,weekly,16.2
+Austria,2023,41,weekly,66.6
+Austria,2023,42,weekly,108.4
+Austria,2023,43,weekly,211.6
+Austria,2023,44,weekly,155.6
+Austria,2023,45,weekly,181.2
 Azerbaijan,2020,1,monthly,-274.4
 Azerbaijan,2020,2,monthly,57.6
 Azerbaijan,2020,3,monthly,1085.2
@@ -631,6 +640,7 @@ Azerbaijan,2023,6,monthly,-348.6
 Azerbaijan,2023,7,monthly,-130.2
 Azerbaijan,2023,8,monthly,557.8
 Azerbaijan,2023,9,monthly,269.0
+Azerbaijan,2023,10,monthly,306.8
 Bahamas,2020,1,monthly,4.0
 Bahamas,2020,2,monthly,-23.8
 Bahamas,2020,3,monthly,-13.0
@@ -872,47 +882,51 @@ Belgium,2022,49,weekly,341.0
 Belgium,2022,50,weekly,419.6
 Belgium,2022,51,weekly,792.0
 Belgium,2022,52,weekly,627.2
-Belgium,2023,1,weekly,414.9
+Belgium,2023,1,weekly,416.9
 Belgium,2023,2,weekly,241.7
 Belgium,2023,3,weekly,-67.5
 Belgium,2023,4,weekly,-88.1
-Belgium,2023,5,weekly,-120.7
+Belgium,2023,5,weekly,-119.7
 Belgium,2023,6,weekly,-146.1
 Belgium,2023,7,weekly,-102.3
-Belgium,2023,8,weekly,-181.5
-Belgium,2023,9,weekly,-211.5
+Belgium,2023,8,weekly,-180.5
+Belgium,2023,9,weekly,-210.5
 Belgium,2023,10,weekly,-40.5
 Belgium,2023,11,weekly,-30.3
-Belgium,2023,12,weekly,-60.9
+Belgium,2023,12,weekly,-58.9
 Belgium,2023,13,weekly,22.5
-Belgium,2023,14,weekly,-6.3
+Belgium,2023,14,weekly,-5.3
 Belgium,2023,15,weekly,-2.9
-Belgium,2023,16,weekly,-2.1
-Belgium,2023,17,weekly,-58.9
-Belgium,2023,18,weekly,-32.9
+Belgium,2023,16,weekly,-1.1
+Belgium,2023,17,weekly,-57.9
+Belgium,2023,18,weekly,-31.9
 Belgium,2023,19,weekly,51.1
-Belgium,2023,20,weekly,67.1
+Belgium,2023,20,weekly,68.1
 Belgium,2023,21,weekly,-36.9
-Belgium,2023,22,weekly,12.9
-Belgium,2023,23,weekly,246.3
-Belgium,2023,24,weekly,281.7
-Belgium,2023,25,weekly,7.7
+Belgium,2023,22,weekly,13.9
+Belgium,2023,23,weekly,247.3
+Belgium,2023,24,weekly,283.7
+Belgium,2023,25,weekly,8.7
 Belgium,2023,26,weekly,30.3
-Belgium,2023,27,weekly,-81.9
-Belgium,2023,28,weekly,115.5
-Belgium,2023,29,weekly,-145.5
-Belgium,2023,30,weekly,-136.5
-Belgium,2023,31,weekly,-104.1
-Belgium,2023,32,weekly,33.9
-Belgium,2023,33,weekly,98.1
-Belgium,2023,34,weekly,53.5
-Belgium,2023,35,weekly,-79.7
-Belgium,2023,36,weekly,174.3
-Belgium,2023,37,weekly,211.9
-Belgium,2023,38,weekly,-14.5
-Belgium,2023,39,weekly,52.7
-Belgium,2023,40,weekly,-5.7
-Belgium,2023,41,weekly,-70.7
+Belgium,2023,27,weekly,-78.9
+Belgium,2023,28,weekly,116.5
+Belgium,2023,29,weekly,-143.5
+Belgium,2023,30,weekly,-134.5
+Belgium,2023,31,weekly,-103.1
+Belgium,2023,32,weekly,40.9
+Belgium,2023,33,weekly,104.1
+Belgium,2023,34,weekly,56.5
+Belgium,2023,35,weekly,-73.7
+Belgium,2023,36,weekly,175.3
+Belgium,2023,37,weekly,222.9
+Belgium,2023,38,weekly,-4.5
+Belgium,2023,39,weekly,64.7
+Belgium,2023,40,weekly,13.3
+Belgium,2023,41,weekly,-30.7
+Belgium,2023,42,weekly,123.3
+Belgium,2023,43,weekly,178.5
+Belgium,2023,44,weekly,69.9
+Belgium,2023,45,weekly,3.7
 Belize,2020,1,monthly,1.2
 Belize,2020,2,monthly,4.6
 Belize,2020,3,monthly,-19.2
@@ -1052,6 +1066,9 @@ Bosnia,2023,3,monthly,-38.5
 Bosnia,2023,4,monthly,-182.3
 Bosnia,2023,5,monthly,-12.1
 Bosnia,2023,6,monthly,-108.9
+Bosnia,2023,7,monthly,-50.3
+Bosnia,2023,8,monthly,-15.1
+Bosnia,2023,9,monthly,100.1
 Brazil,2020,1,monthly,-723.7
 Brazil,2020,2,monthly,3151.5
 Brazil,2020,3,monthly,5054.5
@@ -1088,16 +1105,17 @@ Brazil,2022,9,monthly,11079.1
 Brazil,2022,10,monthly,5396.7
 Brazil,2022,11,monthly,10792.9
 Brazil,2022,12,monthly,6300.7
-Brazil,2023,1,monthly,8033.4
-Brazil,2023,2,monthly,1582.6
-Brazil,2023,3,monthly,10194.6
-Brazil,2023,4,monthly,1639.6
-Brazil,2023,5,monthly,12926.2
-Brazil,2023,6,monthly,10188.6
-Brazil,2023,7,monthly,5320.0
-Brazil,2023,8,monthly,8935.2
-Brazil,2023,9,monthly,3948.2
-Brazil,2023,10,monthly,7839.8
+Brazil,2023,1,monthly,8234.4
+Brazil,2023,2,monthly,1696.6
+Brazil,2023,3,monthly,10305.6
+Brazil,2023,4,monthly,1710.6
+Brazil,2023,5,monthly,13221.2
+Brazil,2023,6,monthly,10426.6
+Brazil,2023,7,monthly,5945.0
+Brazil,2023,8,monthly,9389.2
+Brazil,2023,9,monthly,4662.2
+Brazil,2023,10,monthly,8877.8
+Brazil,2023,11,monthly,13483.0
 Brunei,2020,1,monthly,26.8
 Brunei,2020,2,monthly,16.0
 Brunei,2020,3,monthly,1.2
@@ -1292,44 +1310,49 @@ Bulgaria,2022,50,weekly,-43.4
 Bulgaria,2022,51,weekly,-74.8
 Bulgaria,2022,52,weekly,-108.0
 Bulgaria,2023,1,weekly,-263.8
-Bulgaria,2023,2,weekly,-288.8
+Bulgaria,2023,2,weekly,-285.8
 Bulgaria,2023,3,weekly,-127.6
 Bulgaria,2023,4,weekly,-383.6
 Bulgaria,2023,5,weekly,-388.2
 Bulgaria,2023,6,weekly,-139.8
-Bulgaria,2023,7,weekly,-7.2
-Bulgaria,2023,8,weekly,-177.0
+Bulgaria,2023,7,weekly,-6.2
+Bulgaria,2023,8,weekly,-176.0
 Bulgaria,2023,9,weekly,-273.8
-Bulgaria,2023,10,weekly,-320.6
-Bulgaria,2023,11,weekly,-224.2
-Bulgaria,2023,12,weekly,-231.2
-Bulgaria,2023,13,weekly,-149.6
-Bulgaria,2023,14,weekly,-279.2
-Bulgaria,2023,15,weekly,-164.2
-Bulgaria,2023,16,weekly,-74.0
-Bulgaria,2023,17,weekly,-178.2
-Bulgaria,2023,18,weekly,-134.8
-Bulgaria,2023,19,weekly,-175.2
-Bulgaria,2023,20,weekly,-108.4
-Bulgaria,2023,21,weekly,-44.8
-Bulgaria,2023,22,weekly,-93.4
-Bulgaria,2023,23,weekly,-69.6
-Bulgaria,2023,24,weekly,-232.2
-Bulgaria,2023,25,weekly,1.6
-Bulgaria,2023,26,weekly,-314.0
-Bulgaria,2023,27,weekly,-144.8
-Bulgaria,2023,28,weekly,-1.4
-Bulgaria,2023,29,weekly,215.2
-Bulgaria,2023,30,weekly,-140.0
-Bulgaria,2023,31,weekly,-146.8
-Bulgaria,2023,32,weekly,-229.2
-Bulgaria,2023,33,weekly,-85.8
-Bulgaria,2023,34,weekly,76.0
-Bulgaria,2023,35,weekly,-83.6
-Bulgaria,2023,36,weekly,-190.6
-Bulgaria,2023,37,weekly,-104.8
-Bulgaria,2023,38,weekly,-83.4
-Bulgaria,2023,39,weekly,-68.0
+Bulgaria,2023,10,weekly,-318.6
+Bulgaria,2023,11,weekly,-221.2
+Bulgaria,2023,12,weekly,-229.2
+Bulgaria,2023,13,weekly,-148.6
+Bulgaria,2023,14,weekly,-278.2
+Bulgaria,2023,15,weekly,-158.2
+Bulgaria,2023,16,weekly,-73.0
+Bulgaria,2023,17,weekly,-172.2
+Bulgaria,2023,18,weekly,-133.8
+Bulgaria,2023,19,weekly,-174.2
+Bulgaria,2023,20,weekly,-105.4
+Bulgaria,2023,21,weekly,-42.8
+Bulgaria,2023,22,weekly,-92.4
+Bulgaria,2023,23,weekly,-66.6
+Bulgaria,2023,24,weekly,-229.2
+Bulgaria,2023,25,weekly,4.6
+Bulgaria,2023,26,weekly,-310.0
+Bulgaria,2023,27,weekly,-140.8
+Bulgaria,2023,28,weekly,3.6
+Bulgaria,2023,29,weekly,224.2
+Bulgaria,2023,30,weekly,-136.0
+Bulgaria,2023,31,weekly,-138.8
+Bulgaria,2023,32,weekly,-223.2
+Bulgaria,2023,33,weekly,-77.8
+Bulgaria,2023,34,weekly,92.0
+Bulgaria,2023,35,weekly,-64.6
+Bulgaria,2023,36,weekly,-174.6
+Bulgaria,2023,37,weekly,-78.8
+Bulgaria,2023,38,weekly,-59.4
+Bulgaria,2023,39,weekly,-50.0
+Bulgaria,2023,40,weekly,-220.6
+Bulgaria,2023,41,weekly,-68.8
+Bulgaria,2023,42,weekly,-115.6
+Bulgaria,2023,43,weekly,-41.0
+Bulgaria,2023,44,weekly,-168.6
 Cabo Verde,2020,1,monthly,-4.0
 Cabo Verde,2020,2,monthly,0.8
 Cabo Verde,2020,3,monthly,-44.4
@@ -1444,8 +1467,8 @@ Canada,2021,34,weekly,354.5
 Canada,2021,35,weekly,492.5
 Canada,2021,36,weekly,720.5
 Canada,2021,37,weekly,611.5
-Canada,2021,38,weekly,584.5
-Canada,2021,39,weekly,530.5
+Canada,2021,38,weekly,579.5
+Canada,2021,39,weekly,525.5
 Canada,2021,40,weekly,388.5
 Canada,2021,41,weekly,532.5
 Canada,2021,42,weekly,456.5
@@ -1458,84 +1481,89 @@ Canada,2021,48,weekly,524.5
 Canada,2021,49,weekly,355.5
 Canada,2021,50,weekly,454.5
 Canada,2021,51,weekly,495.5
-Canada,2021,52,weekly,379.5
-Canada,2022,1,weekly,508.1
-Canada,2022,2,weekly,1119.1
-Canada,2022,3,weekly,1380.1
-Canada,2022,4,weekly,1202.1
-Canada,2022,5,weekly,1100.1
+Canada,2021,52,weekly,384.5
+Canada,2022,1,weekly,513.1
+Canada,2022,2,weekly,1124.1
+Canada,2022,3,weekly,1395.1
+Canada,2022,4,weekly,1212.1
+Canada,2022,5,weekly,1105.1
 Canada,2022,6,weekly,782.1
-Canada,2022,7,weekly,398.1
-Canada,2022,8,weekly,147.1
+Canada,2022,7,weekly,403.1
+Canada,2022,8,weekly,157.1
 Canada,2022,9,weekly,132.1
-Canada,2022,10,weekly,-85.9
-Canada,2022,11,weekly,-84.9
-Canada,2022,12,weekly,-185.9
-Canada,2022,13,weekly,-165.9
-Canada,2022,14,weekly,261.1
-Canada,2022,15,weekly,228.1
-Canada,2022,16,weekly,217.1
-Canada,2022,17,weekly,306.1
-Canada,2022,18,weekly,422.1
-Canada,2022,19,weekly,677.1
+Canada,2022,10,weekly,-80.9
+Canada,2022,11,weekly,-79.9
+Canada,2022,12,weekly,-180.9
+Canada,2022,13,weekly,-160.9
+Canada,2022,14,weekly,271.1
+Canada,2022,15,weekly,233.1
+Canada,2022,16,weekly,222.1
+Canada,2022,17,weekly,311.1
+Canada,2022,18,weekly,427.1
+Canada,2022,19,weekly,682.1
 Canada,2022,20,weekly,357.1
 Canada,2022,21,weekly,317.1
-Canada,2022,22,weekly,342.1
-Canada,2022,23,weekly,366.1
+Canada,2022,22,weekly,347.1
+Canada,2022,23,weekly,371.1
 Canada,2022,24,weekly,294.1
-Canada,2022,25,weekly,168.1
-Canada,2022,26,weekly,346.1
-Canada,2022,27,weekly,322.1
+Canada,2022,25,weekly,163.1
+Canada,2022,26,weekly,351.1
+Canada,2022,27,weekly,327.1
 Canada,2022,28,weekly,644.1
-Canada,2022,29,weekly,717.1
-Canada,2022,30,weekly,630.1
-Canada,2022,31,weekly,633.1
-Canada,2022,32,weekly,666.1
-Canada,2022,33,weekly,646.1
+Canada,2022,29,weekly,722.1
+Canada,2022,30,weekly,635.1
+Canada,2022,31,weekly,643.1
+Canada,2022,32,weekly,671.1
+Canada,2022,33,weekly,656.1
 Canada,2022,34,weekly,591.1
-Canada,2022,35,weekly,724.1
-Canada,2022,36,weekly,537.1
-Canada,2022,37,weekly,603.1
+Canada,2022,35,weekly,729.1
+Canada,2022,36,weekly,542.1
+Canada,2022,37,weekly,608.1
 Canada,2022,38,weekly,711.1
 Canada,2022,39,weekly,827.1
-Canada,2022,40,weekly,835.1
-Canada,2022,41,weekly,739.1
-Canada,2022,42,weekly,823.1
-Canada,2022,43,weekly,951.1
-Canada,2022,44,weekly,963.1
-Canada,2022,45,weekly,867.1
-Canada,2022,46,weekly,1035.1
-Canada,2022,47,weekly,1192.1
-Canada,2022,48,weekly,1351.1
-Canada,2022,49,weekly,1312.1
-Canada,2022,50,weekly,1041.1
-Canada,2022,51,weekly,1092.1
-Canada,2022,52,weekly,1256.1
-Canada,2023,1,weekly,419.7
-Canada,2023,2,weekly,350.8
-Canada,2023,3,weekly,191.8
-Canada,2023,4,weekly,23.8
-Canada,2023,5,weekly,176.8
-Canada,2023,6,weekly,348.8
-Canada,2023,7,weekly,124.8
-Canada,2023,8,weekly,18.8
-Canada,2023,9,weekly,348.8
-Canada,2023,10,weekly,175.8
-Canada,2023,11,weekly,301.8
-Canada,2023,12,weekly,230.8
-Canada,2023,13,weekly,320.7
-Canada,2023,14,weekly,217.8
-Canada,2023,15,weekly,349.7
-Canada,2023,16,weekly,178.8
-Canada,2023,17,weekly,327.8
-Canada,2023,18,weekly,78.8
-Canada,2023,19,weekly,108.8
-Canada,2023,20,weekly,-21.2
-Canada,2023,21,weekly,-156.2
-Canada,2023,22,weekly,223.8
-Canada,2023,23,weekly,-147.2
-Canada,2023,24,weekly,90.8
-Canada,2023,25,weekly,99.8
+Canada,2022,40,weekly,830.1
+Canada,2022,41,weekly,724.1
+Canada,2022,42,weekly,793.1
+Canada,2022,43,weekly,896.1
+Canada,2022,44,weekly,903.1
+Canada,2022,45,weekly,812.1
+Canada,2022,46,weekly,980.1
+Canada,2022,47,weekly,1152.1
+Canada,2022,48,weekly,1326.1
+Canada,2022,49,weekly,1277.1
+Canada,2022,50,weekly,1016.1
+Canada,2022,51,weekly,1067.1
+Canada,2022,52,weekly,1236.1
+Canada,2023,1,weekly,429.7
+Canada,2023,2,weekly,335.8
+Canada,2023,3,weekly,181.8
+Canada,2023,4,weekly,18.8
+Canada,2023,5,weekly,151.8
+Canada,2023,6,weekly,343.8
+Canada,2023,7,weekly,109.8
+Canada,2023,8,weekly,3.8
+Canada,2023,9,weekly,323.8
+Canada,2023,10,weekly,140.8
+Canada,2023,11,weekly,271.8
+Canada,2023,12,weekly,195.8
+Canada,2023,13,weekly,275.7
+Canada,2023,14,weekly,167.8
+Canada,2023,15,weekly,309.7
+Canada,2023,16,weekly,223.8
+Canada,2023,17,weekly,412.8
+Canada,2023,18,weekly,218.8
+Canada,2023,19,weekly,283.8
+Canada,2023,20,weekly,143.8
+Canada,2023,21,weekly,43.8
+Canada,2023,22,weekly,423.8
+Canada,2023,23,weekly,87.8
+Canada,2023,24,weekly,320.8
+Canada,2023,25,weekly,304.8
+Canada,2023,26,weekly,172.8
+Canada,2023,27,weekly,113.8
+Canada,2023,28,weekly,150.8
+Canada,2023,29,weekly,48.8
+Canada,2023,30,weekly,126.8
 Chile,2020,1,weekly,-485.1
 Chile,2020,2,weekly,121.1
 Chile,2020,3,weekly,75.6
@@ -2101,7 +2129,7 @@ Croatia,2023,6,weekly,-36.0
 Croatia,2023,7,weekly,17.0
 Croatia,2023,8,weekly,15.2
 Croatia,2023,9,weekly,-91.0
-Croatia,2023,10,weekly,-122.0
+Croatia,2023,10,weekly,-121.0
 Croatia,2023,11,weekly,-104.8
 Croatia,2023,12,weekly,-47.8
 Croatia,2023,13,weekly,-73.4
@@ -2110,27 +2138,32 @@ Croatia,2023,15,weekly,28.4
 Croatia,2023,16,weekly,65.4
 Croatia,2023,17,weekly,-20.2
 Croatia,2023,18,weekly,26.6
-Croatia,2023,19,weekly,-12.0
+Croatia,2023,19,weekly,-10.0
 Croatia,2023,20,weekly,7.0
 Croatia,2023,21,weekly,30.0
-Croatia,2023,22,weekly,17.2
+Croatia,2023,22,weekly,18.2
 Croatia,2023,23,weekly,-7.4
-Croatia,2023,24,weekly,-76.6
+Croatia,2023,24,weekly,-75.6
 Croatia,2023,25,weekly,96.6
 Croatia,2023,26,weekly,27.6
-Croatia,2023,27,weekly,-34.4
+Croatia,2023,27,weekly,-31.4
 Croatia,2023,28,weekly,20.8
 Croatia,2023,29,weekly,70.0
-Croatia,2023,30,weekly,-29.0
-Croatia,2023,31,weekly,22.8
-Croatia,2023,32,weekly,-90.4
-Croatia,2023,33,weekly,104.0
+Croatia,2023,30,weekly,-28.0
+Croatia,2023,31,weekly,23.8
+Croatia,2023,32,weekly,-89.4
+Croatia,2023,33,weekly,108.0
 Croatia,2023,34,weekly,106.0
-Croatia,2023,35,weekly,21.2
-Croatia,2023,36,weekly,75.8
-Croatia,2023,37,weekly,-4.0
-Croatia,2023,38,weekly,15.8
-Croatia,2023,39,weekly,-34.8
+Croatia,2023,35,weekly,28.2
+Croatia,2023,36,weekly,77.8
+Croatia,2023,37,weekly,1.0
+Croatia,2023,38,weekly,33.8
+Croatia,2023,39,weekly,7.2
+Croatia,2023,40,weekly,28.0
+Croatia,2023,41,weekly,-10.6
+Croatia,2023,42,weekly,39.4
+Croatia,2023,43,weekly,8.2
+Croatia,2023,44,weekly,-53.6
 Cuba,2020,1,monthly,-38.3
 Cuba,2020,2,monthly,22.9
 Cuba,2020,3,monthly,754.5
@@ -2325,43 +2358,48 @@ Cyprus,2022,50,weekly,16.1
 Cyprus,2022,51,weekly,4.1
 Cyprus,2022,52,weekly,35.3
 Cyprus,2023,1,weekly,13.1
-Cyprus,2023,2,weekly,0.1
-Cyprus,2023,3,weekly,-9.3
-Cyprus,2023,4,weekly,-7.9
-Cyprus,2023,5,weekly,-19.9
-Cyprus,2023,6,weekly,-5.7
-Cyprus,2023,7,weekly,0.9
-Cyprus,2023,8,weekly,39.5
-Cyprus,2023,9,weekly,23.1
-Cyprus,2023,10,weekly,-3.1
+Cyprus,2023,2,weekly,1.1
+Cyprus,2023,3,weekly,-10.3
+Cyprus,2023,4,weekly,-5.9
+Cyprus,2023,5,weekly,-18.9
+Cyprus,2023,6,weekly,-6.7
+Cyprus,2023,7,weekly,1.9
+Cyprus,2023,8,weekly,38.5
+Cyprus,2023,9,weekly,24.1
+Cyprus,2023,10,weekly,-4.1
 Cyprus,2023,11,weekly,-5.5
-Cyprus,2023,12,weekly,-8.9
-Cyprus,2023,13,weekly,-23.1
+Cyprus,2023,12,weekly,-7.9
+Cyprus,2023,13,weekly,-22.1
 Cyprus,2023,14,weekly,-21.9
 Cyprus,2023,15,weekly,-15.7
 Cyprus,2023,16,weekly,-14.3
-Cyprus,2023,17,weekly,-1.9
-Cyprus,2023,18,weekly,-25.3
+Cyprus,2023,17,weekly,0.1
+Cyprus,2023,18,weekly,-24.3
 Cyprus,2023,19,weekly,-11.1
 Cyprus,2023,20,weekly,-1.9
-Cyprus,2023,21,weekly,-9.5
-Cyprus,2023,22,weekly,-14.7
+Cyprus,2023,21,weekly,-8.5
+Cyprus,2023,22,weekly,-13.7
 Cyprus,2023,23,weekly,16.7
 Cyprus,2023,24,weekly,5.3
 Cyprus,2023,25,weekly,-10.5
-Cyprus,2023,26,weekly,-9.5
+Cyprus,2023,26,weekly,-7.5
 Cyprus,2023,27,weekly,-9.9
-Cyprus,2023,28,weekly,-2.1
+Cyprus,2023,28,weekly,-3.1
 Cyprus,2023,29,weekly,25.1
-Cyprus,2023,30,weekly,21.5
-Cyprus,2023,31,weekly,-19.9
-Cyprus,2023,32,weekly,-8.1
-Cyprus,2023,33,weekly,2.9
-Cyprus,2023,34,weekly,-14.7
-Cyprus,2023,35,weekly,-12.3
+Cyprus,2023,30,weekly,22.5
+Cyprus,2023,31,weekly,-18.9
+Cyprus,2023,32,weekly,-7.1
+Cyprus,2023,33,weekly,3.9
+Cyprus,2023,34,weekly,-13.7
+Cyprus,2023,35,weekly,-10.3
 Cyprus,2023,36,weekly,-6.1
-Cyprus,2023,37,weekly,-22.3
-Cyprus,2023,38,weekly,12.9
+Cyprus,2023,37,weekly,-21.3
+Cyprus,2023,38,weekly,17.9
+Cyprus,2023,39,weekly,-7.9
+Cyprus,2023,40,weekly,7.1
+Cyprus,2023,41,weekly,-3.9
+Cyprus,2023,42,weekly,8.7
+Cyprus,2023,43,weekly,-1.5
 Czechia,2020,1,weekly,-103.2
 Czechia,2020,2,weekly,-60.4
 Czechia,2020,3,weekly,-187.8
@@ -2518,45 +2556,50 @@ Czechia,2022,48,weekly,252.9
 Czechia,2022,49,weekly,236.1
 Czechia,2022,50,weekly,475.5
 Czechia,2022,51,weekly,674.9
-Czechia,2022,52,weekly,800.7
+Czechia,2022,52,weekly,798.7
 Czechia,2023,1,weekly,467.1
-Czechia,2023,2,weekly,178.9
-Czechia,2023,3,weekly,3.5
+Czechia,2023,2,weekly,180.9
+Czechia,2023,3,weekly,4.5
 Czechia,2023,4,weekly,-172.7
 Czechia,2023,5,weekly,-166.1
 Czechia,2023,6,weekly,-272.9
-Czechia,2023,7,weekly,-269.5
-Czechia,2023,8,weekly,-306.5
-Czechia,2023,9,weekly,-259.3
-Czechia,2023,10,weekly,-190.5
+Czechia,2023,7,weekly,-268.5
+Czechia,2023,8,weekly,-305.5
+Czechia,2023,9,weekly,-260.3
+Czechia,2023,10,weekly,-189.5
 Czechia,2023,11,weekly,-218.3
-Czechia,2023,12,weekly,-103.3
-Czechia,2023,13,weekly,-119.5
-Czechia,2023,14,weekly,-155.3
+Czechia,2023,12,weekly,-101.3
+Czechia,2023,13,weekly,-118.5
+Czechia,2023,14,weekly,-154.3
 Czechia,2023,15,weekly,1.1
-Czechia,2023,16,weekly,-19.5
+Czechia,2023,16,weekly,-20.5
 Czechia,2023,17,weekly,-141.7
-Czechia,2023,18,weekly,-17.9
-Czechia,2023,19,weekly,-158.3
-Czechia,2023,20,weekly,-53.1
-Czechia,2023,21,weekly,-138.1
-Czechia,2023,22,weekly,-190.9
+Czechia,2023,18,weekly,-16.9
+Czechia,2023,19,weekly,-157.3
+Czechia,2023,20,weekly,-52.1
+Czechia,2023,21,weekly,-135.1
+Czechia,2023,22,weekly,-186.9
 Czechia,2023,23,weekly,-76.9
-Czechia,2023,24,weekly,-116.9
-Czechia,2023,25,weekly,48.5
+Czechia,2023,24,weekly,-113.9
+Czechia,2023,25,weekly,50.5
 Czechia,2023,26,weekly,-138.7
-Czechia,2023,27,weekly,-133.3
-Czechia,2023,28,weekly,-49.5
-Czechia,2023,29,weekly,-155.3
-Czechia,2023,30,weekly,-286.5
-Czechia,2023,31,weekly,-279.3
+Czechia,2023,27,weekly,-124.3
+Czechia,2023,28,weekly,-46.5
+Czechia,2023,29,weekly,-152.3
+Czechia,2023,30,weekly,-282.5
+Czechia,2023,31,weekly,-277.3
 Czechia,2023,32,weekly,-152.3
-Czechia,2023,33,weekly,-75.5
-Czechia,2023,34,weekly,92.5
-Czechia,2023,35,weekly,-160.9
-Czechia,2023,36,weekly,-187.5
-Czechia,2023,37,weekly,-146.7
-Czechia,2023,38,weekly,-114.3
+Czechia,2023,33,weekly,-65.5
+Czechia,2023,34,weekly,112.5
+Czechia,2023,35,weekly,-151.9
+Czechia,2023,36,weekly,-158.5
+Czechia,2023,37,weekly,-127.7
+Czechia,2023,38,weekly,-96.3
+Czechia,2023,39,weekly,-190.7
+Czechia,2023,40,weekly,-193.3
+Czechia,2023,41,weekly,-53.9
+Czechia,2023,42,weekly,-9.3
+Czechia,2023,43,weekly,-10.9
 Denmark,2020,1,weekly,-34.4
 Denmark,2020,2,weekly,5.0
 Denmark,2020,3,weekly,-61.4
@@ -3039,6 +3082,7 @@ Egypt,2023,6,monthly,313.3
 Egypt,2023,7,monthly,6647.1
 Egypt,2023,8,monthly,3431.5
 Egypt,2023,9,monthly,2864.3
+Egypt,2023,10,monthly,1941.3
 El Salvador,2020,1,monthly,131.8
 El Salvador,2020,2,monthly,-122.2
 El Salvador,2020,3,monthly,-665.0
@@ -3204,50 +3248,55 @@ Estonia,2022,49,weekly,70.0
 Estonia,2022,50,weekly,90.4
 Estonia,2022,51,weekly,58.0
 Estonia,2022,52,weekly,44.8
-Estonia,2023,1,weekly,40.2
+Estonia,2023,1,weekly,41.2
 Estonia,2023,2,weekly,60.2
-Estonia,2023,3,weekly,37.2
+Estonia,2023,3,weekly,38.2
 Estonia,2023,4,weekly,-10.6
 Estonia,2023,5,weekly,-23.6
 Estonia,2023,6,weekly,-33.8
-Estonia,2023,7,weekly,6.4
-Estonia,2023,8,weekly,-48.6
+Estonia,2023,7,weekly,7.4
+Estonia,2023,8,weekly,-47.6
 Estonia,2023,9,weekly,-46.4
 Estonia,2023,10,weekly,-26.4
 Estonia,2023,11,weekly,-35.6
-Estonia,2023,12,weekly,-29.8
-Estonia,2023,13,weekly,-7.8
-Estonia,2023,14,weekly,-21.2
-Estonia,2023,15,weekly,-7.0
-Estonia,2023,16,weekly,25.6
-Estonia,2023,17,weekly,25.8
-Estonia,2023,18,weekly,12.6
-Estonia,2023,19,weekly,-9.6
-Estonia,2023,20,weekly,-11.2
-Estonia,2023,21,weekly,-29.6
-Estonia,2023,22,weekly,15.6
+Estonia,2023,12,weekly,-28.8
+Estonia,2023,13,weekly,-1.8
+Estonia,2023,14,weekly,-20.2
+Estonia,2023,15,weekly,-6.0
+Estonia,2023,16,weekly,28.6
+Estonia,2023,17,weekly,27.8
+Estonia,2023,18,weekly,13.6
+Estonia,2023,19,weekly,-5.6
+Estonia,2023,20,weekly,-10.2
+Estonia,2023,21,weekly,-27.6
+Estonia,2023,22,weekly,16.6
 Estonia,2023,23,weekly,24.4
-Estonia,2023,24,weekly,32.2
-Estonia,2023,25,weekly,38.0
-Estonia,2023,26,weekly,-19.8
-Estonia,2023,27,weekly,-2.2
-Estonia,2023,28,weekly,3.6
-Estonia,2023,29,weekly,3.0
-Estonia,2023,30,weekly,-31.6
+Estonia,2023,24,weekly,35.2
+Estonia,2023,25,weekly,42.0
+Estonia,2023,26,weekly,-16.8
+Estonia,2023,27,weekly,8.8
+Estonia,2023,28,weekly,7.6
+Estonia,2023,29,weekly,15.0
+Estonia,2023,30,weekly,-30.6
 Estonia,2023,31,weekly,-4.0
 Estonia,2023,32,weekly,-36.2
-Estonia,2023,33,weekly,5.8
+Estonia,2023,33,weekly,6.8
 Estonia,2023,34,weekly,-0.2
-Estonia,2023,35,weekly,-5.2
-Estonia,2023,36,weekly,20.2
-Estonia,2023,37,weekly,-26.6
-Estonia,2023,38,weekly,-15.6
-Estonia,2023,39,weekly,-23.6
-Estonia,2023,40,weekly,-31.8
-Estonia,2023,41,weekly,22.6
+Estonia,2023,35,weekly,-4.2
+Estonia,2023,36,weekly,21.2
+Estonia,2023,37,weekly,-25.6
+Estonia,2023,38,weekly,-14.6
+Estonia,2023,39,weekly,-19.6
+Estonia,2023,40,weekly,-29.8
+Estonia,2023,41,weekly,26.6
 Estonia,2023,42,weekly,41.6
 Estonia,2023,43,weekly,13.4
 Estonia,2023,44,weekly,9.6
+Estonia,2023,45,weekly,23.2
+Estonia,2023,46,weekly,34.0
+Estonia,2023,47,weekly,25.4
+Estonia,2023,48,weekly,18.2
+Estonia,2023,49,weekly,39.8
 Faroe Islands,2020,1,monthly,-12.0
 Faroe Islands,2020,2,monthly,-10.4
 Faroe Islands,2020,3,monthly,-11.4
@@ -3289,6 +3338,11 @@ Faroe Islands,2023,2,monthly,4.7
 Faroe Islands,2023,3,monthly,-22.3
 Faroe Islands,2023,4,monthly,2.1
 Faroe Islands,2023,5,monthly,-3.3
+Faroe Islands,2023,6,monthly,-1.7
+Faroe Islands,2023,7,monthly,-4.5
+Faroe Islands,2023,8,monthly,-6.9
+Faroe Islands,2023,9,monthly,0.9
+Faroe Islands,2023,10,monthly,0.5
 Fiji,2020,1,monthly,-14.0
 Fiji,2020,2,monthly,-37.0
 Fiji,2020,3,monthly,60.0
@@ -3469,47 +3523,53 @@ Finland,2022,48,weekly,136.0
 Finland,2022,49,weekly,267.6
 Finland,2022,50,weekly,309.0
 Finland,2022,51,weekly,321.4
-Finland,2022,52,weekly,266.2
+Finland,2022,52,weekly,267.2
 Finland,2023,1,weekly,160.4
 Finland,2023,2,weekly,107.2
-Finland,2023,3,weekly,26.2
+Finland,2023,3,weekly,27.2
 Finland,2023,4,weekly,27.4
-Finland,2023,5,weekly,15.0
-Finland,2023,6,weekly,-14.4
+Finland,2023,5,weekly,17.0
+Finland,2023,6,weekly,-13.4
 Finland,2023,7,weekly,6.8
 Finland,2023,8,weekly,15.4
 Finland,2023,9,weekly,-58.6
-Finland,2023,10,weekly,-61.0
-Finland,2023,11,weekly,-39.2
+Finland,2023,10,weekly,-60.0
+Finland,2023,11,weekly,-38.2
 Finland,2023,12,weekly,-60.0
-Finland,2023,13,weekly,41.6
-Finland,2023,14,weekly,74.6
+Finland,2023,13,weekly,42.6
+Finland,2023,14,weekly,75.6
 Finland,2023,15,weekly,69.2
-Finland,2023,16,weekly,124.8
+Finland,2023,16,weekly,125.8
 Finland,2023,17,weekly,78.2
 Finland,2023,18,weekly,59.8
-Finland,2023,19,weekly,106.2
-Finland,2023,20,weekly,90.8
+Finland,2023,19,weekly,107.2
+Finland,2023,20,weekly,91.8
 Finland,2023,21,weekly,119.0
 Finland,2023,22,weekly,99.2
-Finland,2023,23,weekly,95.4
-Finland,2023,24,weekly,160.6
+Finland,2023,23,weekly,97.4
+Finland,2023,24,weekly,162.6
 Finland,2023,25,weekly,39.6
-Finland,2023,26,weekly,101.0
-Finland,2023,27,weekly,-0.2
+Finland,2023,26,weekly,102.0
+Finland,2023,27,weekly,0.8
 Finland,2023,28,weekly,54.6
-Finland,2023,29,weekly,44.0
-Finland,2023,30,weekly,-68.8
+Finland,2023,29,weekly,46.0
+Finland,2023,30,weekly,-65.8
 Finland,2023,31,weekly,45.0
-Finland,2023,32,weekly,89.8
-Finland,2023,33,weekly,17.2
-Finland,2023,34,weekly,46.0
-Finland,2023,35,weekly,-6.4
-Finland,2023,36,weekly,103.4
-Finland,2023,37,weekly,90.6
-Finland,2023,38,weekly,80.0
-Finland,2023,39,weekly,49.8
-Finland,2023,40,weekly,30.2
+Finland,2023,32,weekly,94.8
+Finland,2023,33,weekly,20.2
+Finland,2023,34,weekly,48.0
+Finland,2023,35,weekly,-0.4
+Finland,2023,36,weekly,108.4
+Finland,2023,37,weekly,99.6
+Finland,2023,38,weekly,93.0
+Finland,2023,39,weekly,85.8
+Finland,2023,40,weekly,94.2
+Finland,2023,41,weekly,139.8
+Finland,2023,42,weekly,159.2
+Finland,2023,43,weekly,183.8
+Finland,2023,44,weekly,327.0
+Finland,2023,45,weekly,369.0
+Finland,2023,46,weekly,279.8
 France,2020,1,weekly,-1002.2
 France,2020,2,weekly,-657.2
 France,2020,3,weekly,-906.2
@@ -3578,14 +3638,14 @@ France,2021,12,weekly,642.8
 France,2021,13,weekly,1206.4
 France,2021,14,weekly,1229.6
 France,2021,15,weekly,1521.2
-France,2021,16,weekly,1802.0
+France,2021,16,weekly,1803.0
 France,2021,17,weekly,1439.4
 France,2021,18,weekly,1335.8
 France,2021,19,weekly,474.6
-France,2021,20,weekly,318.6
+France,2021,20,weekly,319.6
 France,2021,21,weekly,133.8
 France,2021,22,weekly,162.2
-France,2021,23,weekly,78.2
+France,2021,23,weekly,79.2
 France,2021,24,weekly,374.6
 France,2021,25,weekly,-894.6
 France,2021,26,weekly,-642.4
@@ -3594,16 +3654,16 @@ France,2021,28,weekly,-278.8
 France,2021,29,weekly,665.2
 France,2021,30,weekly,-152.8
 France,2021,31,weekly,-2.8
-France,2021,32,weekly,932.2
+France,2021,32,weekly,933.2
 France,2021,33,weekly,806.8
 France,2021,34,weekly,238.8
 France,2021,35,weekly,798.6
 France,2021,36,weekly,1262.4
 France,2021,37,weekly,202.6
-France,2021,38,weekly,-92.8
+France,2021,38,weekly,-91.8
 France,2021,39,weekly,293.4
-France,2021,40,weekly,141.4
-France,2021,41,weekly,530.0
+France,2021,40,weekly,142.4
+France,2021,41,weekly,531.0
 France,2021,42,weekly,579.4
 France,2021,43,weekly,705.6
 France,2021,44,weekly,117.2
@@ -3614,7 +3674,7 @@ France,2021,48,weekly,1569.4
 France,2021,49,weekly,1920.0
 France,2021,50,weekly,1551.8
 France,2021,51,weekly,1902.6
-France,2021,52,weekly,1725.2
+France,2021,52,weekly,1726.2
 France,2022,1,weekly,633.7
 France,2022,2,weekly,492.7
 France,2022,3,weekly,763.7
@@ -3627,13 +3687,13 @@ France,2022,9,weekly,-621.5
 France,2022,10,weekly,-538.9
 France,2022,11,weekly,-141.1
 France,2022,12,weekly,190.7
-France,2022,13,weekly,712.3
+France,2022,13,weekly,713.3
 France,2022,14,weekly,1219.5
 France,2022,15,weekly,1563.1
 France,2022,16,weekly,1198.9
 France,2022,17,weekly,710.3
 France,2022,18,weekly,785.7
-France,2022,19,weekly,401.5
+France,2022,19,weekly,402.5
 France,2022,20,weekly,271.5
 France,2022,21,weekly,-636.3
 France,2022,22,weekly,303.1
@@ -3641,7 +3701,7 @@ France,2022,23,weekly,-114.9
 France,2022,24,weekly,777.5
 France,2022,25,weekly,143.3
 France,2022,26,weekly,-399.5
-France,2022,27,weekly,245.1
+France,2022,27,weekly,246.1
 France,2022,28,weekly,1805.1
 France,2022,29,weekly,2123.1
 France,2022,30,weekly,744.1
@@ -3655,59 +3715,63 @@ France,2022,37,weekly,38.5
 France,2022,38,weekly,426.1
 France,2022,39,weekly,960.3
 France,2022,40,weekly,1073.3
-France,2022,41,weekly,775.9
+France,2022,41,weekly,776.9
 France,2022,42,weekly,1071.3
 France,2022,43,weekly,435.5
-France,2022,44,weekly,34.1
-France,2022,45,weekly,342.5
-France,2022,46,weekly,1026.5
+France,2022,44,weekly,36.1
+France,2022,45,weekly,343.5
+France,2022,46,weekly,1027.5
 France,2022,47,weekly,1122.9
 France,2022,48,weekly,1260.3
 France,2022,49,weekly,2521.9
-France,2022,50,weekly,3229.7
-France,2022,51,weekly,4094.5
-France,2022,52,weekly,3387.1
-France,2023,1,weekly,1440.6
+France,2022,50,weekly,3231.7
+France,2022,51,weekly,4095.5
+France,2022,52,weekly,3391.1
+France,2023,1,weekly,1441.6
 France,2023,2,weekly,-17.4
 France,2023,3,weekly,-281.4
-France,2023,4,weekly,-371.2
-France,2023,5,weekly,-668.6
-France,2023,6,weekly,-875.0
-France,2023,7,weekly,-928.4
+France,2023,4,weekly,-370.2
+France,2023,5,weekly,-666.6
+France,2023,6,weekly,-874.0
+France,2023,7,weekly,-926.4
 France,2023,8,weekly,-970.4
-France,2023,9,weekly,-1030.6
-France,2023,10,weekly,-522.0
-France,2023,11,weekly,-316.2
+France,2023,9,weekly,-1029.6
+France,2023,10,weekly,-520.0
+France,2023,11,weekly,-315.2
 France,2023,12,weekly,-627.4
-France,2023,13,weekly,-628.8
-France,2023,14,weekly,-340.6
-France,2023,15,weekly,-40.0
-France,2023,16,weekly,282.8
-France,2023,17,weekly,299.2
-France,2023,18,weekly,69.6
-France,2023,19,weekly,-277.6
+France,2023,13,weekly,-624.8
+France,2023,14,weekly,-336.6
+France,2023,15,weekly,-38.0
+France,2023,16,weekly,284.8
+France,2023,17,weekly,300.2
+France,2023,18,weekly,71.6
+France,2023,19,weekly,-274.6
 France,2023,20,weekly,-88.6
-France,2023,21,weekly,316.6
-France,2023,22,weekly,367.0
-France,2023,23,weekly,498.0
-France,2023,24,weekly,221.4
-France,2023,25,weekly,-234.8
-France,2023,26,weekly,-818.6
-France,2023,27,weekly,-744.0
-France,2023,28,weekly,-165.0
-France,2023,29,weekly,-605.0
-France,2023,30,weekly,-495.0
-France,2023,31,weekly,-587.0
-France,2023,32,weekly,159.0
-France,2023,33,weekly,491.6
-France,2023,34,weekly,580.6
-France,2023,35,weekly,100.4
-France,2023,36,weekly,717.2
-France,2023,37,weekly,-5.6
-France,2023,38,weekly,-632.0
-France,2023,39,weekly,-185.8
-France,2023,40,weekly,-446.8
-France,2023,41,weekly,-913.2
+France,2023,21,weekly,318.6
+France,2023,22,weekly,369.0
+France,2023,23,weekly,501.0
+France,2023,24,weekly,225.4
+France,2023,25,weekly,-229.8
+France,2023,26,weekly,-809.6
+France,2023,27,weekly,-736.0
+France,2023,28,weekly,-156.0
+France,2023,29,weekly,-600.0
+France,2023,30,weekly,-491.0
+France,2023,31,weekly,-580.0
+France,2023,32,weekly,183.0
+France,2023,33,weekly,505.6
+France,2023,34,weekly,595.6
+France,2023,35,weekly,128.4
+France,2023,36,weekly,768.2
+France,2023,37,weekly,40.4
+France,2023,38,weekly,-543.0
+France,2023,39,weekly,-41.8
+France,2023,40,weekly,-172.8
+France,2023,41,weekly,-208.2
+France,2023,42,weekly,200.2
+France,2023,43,weekly,531.4
+France,2023,44,weekly,212.0
+France,2023,45,weekly,-408.6
 French Guiana,2020,1,weekly,-1.0
 French Guiana,2020,2,weekly,-7.8
 French Guiana,2020,3,weekly,-5.6
@@ -3878,7 +3942,7 @@ French Guiana,2023,10,weekly,-4.0
 French Guiana,2023,11,weekly,0.4
 French Guiana,2023,12,weekly,-6.0
 French Guiana,2023,13,weekly,3.8
-French Guiana,2023,14,weekly,-2.2
+French Guiana,2023,14,weekly,-1.2
 French Guiana,2023,15,weekly,-4.6
 French Guiana,2023,16,weekly,-4.2
 French Guiana,2023,17,weekly,-5.6
@@ -3887,25 +3951,29 @@ French Guiana,2023,19,weekly,-8.6
 French Guiana,2023,20,weekly,4.2
 French Guiana,2023,21,weekly,-3.2
 French Guiana,2023,22,weekly,8.6
-French Guiana,2023,23,weekly,4.2
+French Guiana,2023,23,weekly,5.2
 French Guiana,2023,24,weekly,10.2
 French Guiana,2023,25,weekly,3.2
 French Guiana,2023,26,weekly,-10.2
-French Guiana,2023,27,weekly,-2.8
+French Guiana,2023,27,weekly,-1.8
 French Guiana,2023,28,weekly,1.4
-French Guiana,2023,29,weekly,-3.2
+French Guiana,2023,29,weekly,-2.2
 French Guiana,2023,30,weekly,6.4
 French Guiana,2023,31,weekly,0.2
-French Guiana,2023,32,weekly,-5.6
-French Guiana,2023,33,weekly,-6.0
-French Guiana,2023,34,weekly,0.4
-French Guiana,2023,35,weekly,-0.6
-French Guiana,2023,36,weekly,1.2
-French Guiana,2023,37,weekly,-5.0
-French Guiana,2023,38,weekly,-2.0
-French Guiana,2023,39,weekly,10.4
-French Guiana,2023,40,weekly,3.8
+French Guiana,2023,32,weekly,-4.6
+French Guiana,2023,33,weekly,-5.0
+French Guiana,2023,34,weekly,3.4
+French Guiana,2023,35,weekly,5.4
+French Guiana,2023,36,weekly,4.2
+French Guiana,2023,37,weekly,-3.0
+French Guiana,2023,38,weekly,2.0
+French Guiana,2023,39,weekly,12.4
+French Guiana,2023,40,weekly,4.8
 French Guiana,2023,41,weekly,4.6
+French Guiana,2023,42,weekly,2.6
+French Guiana,2023,43,weekly,-7.6
+French Guiana,2023,44,weekly,-4.2
+French Guiana,2023,45,weekly,-2.6
 French Polynesia,2020,1,monthly,-23.2
 French Polynesia,2020,2,monthly,4.6
 French Polynesia,2020,3,monthly,8.4
@@ -4128,50 +4196,55 @@ Germany,2022,48,weekly,3676.2
 Germany,2022,49,weekly,5111.2
 Germany,2022,50,weekly,6982.2
 Germany,2022,51,weekly,9317.4
-Germany,2022,52,weekly,8238.6
-Germany,2023,1,weekly,5308.9
-Germany,2023,2,weekly,2294.7
-Germany,2023,3,weekly,823.5
-Germany,2023,4,weekly,9.7
-Germany,2023,5,weekly,-216.7
-Germany,2023,6,weekly,-818.3
-Germany,2023,7,weekly,-873.9
-Germany,2023,8,weekly,-1415.3
-Germany,2023,9,weekly,-1764.7
-Germany,2023,10,weekly,-360.3
-Germany,2023,11,weekly,428.9
-Germany,2023,12,weekly,839.5
-Germany,2023,13,weekly,878.7
-Germany,2023,14,weekly,543.3
-Germany,2023,15,weekly,1301.3
-Germany,2023,16,weekly,1455.3
-Germany,2023,17,weekly,969.7
-Germany,2023,18,weekly,1158.5
-Germany,2023,19,weekly,730.5
-Germany,2023,20,weekly,653.1
-Germany,2023,21,weekly,962.1
-Germany,2023,22,weekly,422.5
-Germany,2023,23,weekly,981.7
-Germany,2023,24,weekly,907.7
-Germany,2023,25,weekly,818.1
-Germany,2023,26,weekly,-354.7
-Germany,2023,27,weekly,-773.7
-Germany,2023,28,weekly,514.1
-Germany,2023,29,weekly,-844.7
-Germany,2023,30,weekly,-1278.3
-Germany,2023,31,weekly,-1031.9
-Germany,2023,32,weekly,-98.9
-Germany,2023,33,weekly,1016.9
-Germany,2023,34,weekly,898.1
-Germany,2023,35,weekly,-681.7
-Germany,2023,36,weekly,1105.3
-Germany,2023,37,weekly,638.1
-Germany,2023,38,weekly,65.9
-Germany,2023,39,weekly,203.9
-Germany,2023,40,weekly,525.9
-Germany,2023,41,weekly,709.7
-Germany,2023,42,weekly,1733.9
-Germany,2023,43,weekly,1639.9
+Germany,2022,52,weekly,8240.6
+Germany,2023,1,weekly,5320.9
+Germany,2023,2,weekly,2305.7
+Germany,2023,3,weekly,829.5
+Germany,2023,4,weekly,18.7
+Germany,2023,5,weekly,-204.7
+Germany,2023,6,weekly,-809.3
+Germany,2023,7,weekly,-860.9
+Germany,2023,8,weekly,-1405.3
+Germany,2023,9,weekly,-1760.7
+Germany,2023,10,weekly,-346.3
+Germany,2023,11,weekly,435.9
+Germany,2023,12,weekly,847.5
+Germany,2023,13,weekly,898.7
+Germany,2023,14,weekly,560.3
+Germany,2023,15,weekly,1315.3
+Germany,2023,16,weekly,1474.3
+Germany,2023,17,weekly,983.7
+Germany,2023,18,weekly,1175.5
+Germany,2023,19,weekly,745.5
+Germany,2023,20,weekly,675.1
+Germany,2023,21,weekly,980.1
+Germany,2023,22,weekly,436.5
+Germany,2023,23,weekly,994.7
+Germany,2023,24,weekly,931.7
+Germany,2023,25,weekly,835.1
+Germany,2023,26,weekly,-326.7
+Germany,2023,27,weekly,-735.7
+Germany,2023,28,weekly,552.1
+Germany,2023,29,weekly,-813.7
+Germany,2023,30,weekly,-1237.3
+Germany,2023,31,weekly,-979.9
+Germany,2023,32,weekly,-25.9
+Germany,2023,33,weekly,1124.9
+Germany,2023,34,weekly,1020.1
+Germany,2023,35,weekly,-564.7
+Germany,2023,36,weekly,1201.3
+Germany,2023,37,weekly,717.1
+Germany,2023,38,weekly,113.9
+Germany,2023,39,weekly,233.9
+Germany,2023,40,weekly,579.9
+Germany,2023,41,weekly,489.7
+Germany,2023,42,weekly,1281.9
+Germany,2023,43,weekly,1713.9
+Germany,2023,44,weekly,2014.1
+Germany,2023,45,weekly,1808.1
+Germany,2023,46,weekly,2018.7
+Germany,2023,47,weekly,2068.9
+Germany,2023,48,weekly,2666.7
 Gibraltar,2020,1,monthly,0.2
 Gibraltar,2020,2,monthly,-2.0
 Gibraltar,2020,3,monthly,-1.2
@@ -4342,45 +4415,50 @@ Greece,2022,49,weekly,256.2
 Greece,2022,50,weekly,69.4
 Greece,2022,51,weekly,118.6
 Greece,2022,52,weekly,366.2
-Greece,2023,1,weekly,121.3
+Greece,2023,1,weekly,120.3
 Greece,2023,2,weekly,-6.3
-Greece,2023,3,weekly,-32.9
+Greece,2023,3,weekly,-31.9
 Greece,2023,4,weekly,-102.9
-Greece,2023,5,weekly,-93.9
-Greece,2023,6,weekly,72.9
-Greece,2023,7,weekly,234.7
-Greece,2023,8,weekly,115.3
-Greece,2023,9,weekly,45.1
+Greece,2023,5,weekly,-96.9
+Greece,2023,6,weekly,73.9
+Greece,2023,7,weekly,236.7
+Greece,2023,8,weekly,117.3
+Greece,2023,9,weekly,48.1
 Greece,2023,10,weekly,-50.1
-Greece,2023,11,weekly,-170.7
-Greece,2023,12,weekly,-47.7
+Greece,2023,11,weekly,-171.7
+Greece,2023,12,weekly,-44.7
 Greece,2023,13,weekly,18.5
-Greece,2023,14,weekly,-192.9
-Greece,2023,15,weekly,-85.3
-Greece,2023,16,weekly,-32.9
-Greece,2023,17,weekly,10.7
-Greece,2023,18,weekly,-15.3
-Greece,2023,19,weekly,-60.1
-Greece,2023,20,weekly,9.3
-Greece,2023,21,weekly,73.3
-Greece,2023,22,weekly,-77.7
-Greece,2023,23,weekly,39.1
+Greece,2023,14,weekly,-190.9
+Greece,2023,15,weekly,-81.3
+Greece,2023,16,weekly,-29.9
+Greece,2023,17,weekly,12.7
+Greece,2023,18,weekly,-14.3
+Greece,2023,19,weekly,-58.1
+Greece,2023,20,weekly,12.3
+Greece,2023,21,weekly,77.3
+Greece,2023,22,weekly,-72.7
+Greece,2023,23,weekly,40.1
 Greece,2023,24,weekly,-255.9
 Greece,2023,25,weekly,-181.5
-Greece,2023,26,weekly,-242.7
+Greece,2023,26,weekly,-241.7
 Greece,2023,27,weekly,-10.9
-Greece,2023,28,weekly,56.9
+Greece,2023,28,weekly,57.9
 Greece,2023,29,weekly,731.9
-Greece,2023,30,weekly,566.9
-Greece,2023,31,weekly,-105.9
-Greece,2023,32,weekly,-383.3
-Greece,2023,33,weekly,12.9
-Greece,2023,34,weekly,362.3
-Greece,2023,35,weekly,103.9
-Greece,2023,36,weekly,-71.7
+Greece,2023,30,weekly,567.9
+Greece,2023,31,weekly,-103.9
+Greece,2023,32,weekly,-381.3
+Greece,2023,33,weekly,14.9
+Greece,2023,34,weekly,363.3
+Greece,2023,35,weekly,104.9
+Greece,2023,36,weekly,-70.7
 Greece,2023,37,weekly,89.9
-Greece,2023,38,weekly,147.7
-Greece,2023,39,weekly,88.3
+Greece,2023,38,weekly,149.7
+Greece,2023,39,weekly,96.3
+Greece,2023,40,weekly,-60.5
+Greece,2023,41,weekly,-160.9
+Greece,2023,42,weekly,-11.5
+Greece,2023,43,weekly,0.1
+Greece,2023,44,weekly,-145.1
 Greenland,2020,1,monthly,-10.7
 Greenland,2020,2,monthly,5.7
 Greenland,2020,3,monthly,-13.3
@@ -4516,7 +4594,7 @@ Guadeloupe,2021,34,weekly,217.2
 Guadeloupe,2021,35,weekly,119.0
 Guadeloupe,2021,36,weekly,97.6
 Guadeloupe,2021,37,weekly,20.0
-Guadeloupe,2021,38,weekly,31.2
+Guadeloupe,2021,38,weekly,32.2
 Guadeloupe,2021,39,weekly,17.6
 Guadeloupe,2021,40,weekly,-6.4
 Guadeloupe,2021,41,weekly,3.6
@@ -4605,8 +4683,8 @@ Guadeloupe,2023,19,weekly,15.8
 Guadeloupe,2023,20,weekly,-2.2
 Guadeloupe,2023,21,weekly,-4.2
 Guadeloupe,2023,22,weekly,23.4
-Guadeloupe,2023,23,weekly,22.6
-Guadeloupe,2023,24,weekly,1.4
+Guadeloupe,2023,23,weekly,23.6
+Guadeloupe,2023,24,weekly,2.4
 Guadeloupe,2023,25,weekly,4.6
 Guadeloupe,2023,26,weekly,0.0
 Guadeloupe,2023,27,weekly,3.2
@@ -4622,8 +4700,12 @@ Guadeloupe,2023,36,weekly,12.6
 Guadeloupe,2023,37,weekly,2.0
 Guadeloupe,2023,38,weekly,25.2
 Guadeloupe,2023,39,weekly,-1.4
-Guadeloupe,2023,40,weekly,-18.4
-Guadeloupe,2023,41,weekly,-17.4
+Guadeloupe,2023,40,weekly,-17.4
+Guadeloupe,2023,41,weekly,-8.4
+Guadeloupe,2023,42,weekly,0.0
+Guadeloupe,2023,43,weekly,3.8
+Guadeloupe,2023,44,weekly,-8.6
+Guadeloupe,2023,45,weekly,-7.0
 Guatemala,2020,1,weekly,104.3
 Guatemala,2020,2,weekly,-10.9
 Guatemala,2020,3,weekly,0.7
@@ -4982,7 +5064,7 @@ Hungary,2022,49,weekly,274.1
 Hungary,2022,50,weekly,246.3
 Hungary,2022,51,weekly,244.7
 Hungary,2022,52,weekly,307.9
-Hungary,2023,1,weekly,-85.8
+Hungary,2023,1,weekly,-86.8
 Hungary,2023,2,weekly,-267.8
 Hungary,2023,3,weekly,-277.0
 Hungary,2023,4,weekly,-522.0
@@ -4992,36 +5074,41 @@ Hungary,2023,7,weekly,-128.8
 Hungary,2023,8,weekly,-121.2
 Hungary,2023,9,weekly,-179.2
 Hungary,2023,10,weekly,-53.4
-Hungary,2023,11,weekly,63.4
-Hungary,2023,12,weekly,75.4
+Hungary,2023,11,weekly,62.4
+Hungary,2023,12,weekly,76.4
 Hungary,2023,13,weekly,0.0
 Hungary,2023,14,weekly,-48.0
 Hungary,2023,15,weekly,34.4
 Hungary,2023,16,weekly,3.4
 Hungary,2023,17,weekly,-117.2
-Hungary,2023,18,weekly,-2.4
+Hungary,2023,18,weekly,-1.4
 Hungary,2023,19,weekly,-84.0
 Hungary,2023,20,weekly,39.8
 Hungary,2023,21,weekly,-0.2
-Hungary,2023,22,weekly,-88.0
-Hungary,2023,23,weekly,-72.6
+Hungary,2023,22,weekly,-87.0
+Hungary,2023,23,weekly,-71.6
 Hungary,2023,24,weekly,-122.4
 Hungary,2023,25,weekly,73.6
-Hungary,2023,26,weekly,-119.8
+Hungary,2023,26,weekly,-118.8
 Hungary,2023,27,weekly,-72.4
-Hungary,2023,28,weekly,101.6
-Hungary,2023,29,weekly,-66.6
+Hungary,2023,28,weekly,102.6
+Hungary,2023,29,weekly,-64.6
 Hungary,2023,30,weekly,-237.8
-Hungary,2023,31,weekly,-308.8
-Hungary,2023,32,weekly,-258.2
-Hungary,2023,33,weekly,61.0
-Hungary,2023,34,weekly,251.4
-Hungary,2023,35,weekly,-159.0
-Hungary,2023,36,weekly,-67.0
-Hungary,2023,37,weekly,-55.8
-Hungary,2023,38,weekly,-174.4
-Hungary,2023,39,weekly,-290.8
-Hungary,2023,40,weekly,-182.8
+Hungary,2023,31,weekly,-307.8
+Hungary,2023,32,weekly,-254.2
+Hungary,2023,33,weekly,65.0
+Hungary,2023,34,weekly,252.4
+Hungary,2023,35,weekly,-155.0
+Hungary,2023,36,weekly,-51.0
+Hungary,2023,37,weekly,-34.8
+Hungary,2023,38,weekly,-151.4
+Hungary,2023,39,weekly,-255.8
+Hungary,2023,40,weekly,-84.8
+Hungary,2023,41,weekly,62.6
+Hungary,2023,42,weekly,33.8
+Hungary,2023,43,weekly,120.4
+Hungary,2023,44,weekly,25.4
+Hungary,2023,45,weekly,-105.4
 Iceland,2020,1,weekly,10.4
 Iceland,2020,2,weekly,6.4
 Iceland,2020,3,weekly,6.8
@@ -5218,6 +5305,11 @@ Iceland,2023,36,weekly,22.2
 Iceland,2023,37,weekly,7.8
 Iceland,2023,38,weekly,-2.6
 Iceland,2023,39,weekly,-6.6
+Iceland,2023,40,weekly,5.0
+Iceland,2023,41,weekly,-9.0
+Iceland,2023,42,weekly,-15.8
+Iceland,2023,43,weekly,14.4
+Iceland,2023,44,weekly,14.0
 Iran,2020,1,weekly,-532.2
 Iran,2020,2,weekly,-579.2
 Iran,2020,3,weekly,-488.6
@@ -5537,7 +5629,7 @@ Ireland,2023,15,weekly,43.4
 Ireland,2023,16,weekly,43.4
 Ireland,2023,17,weekly,73.4
 Ireland,2023,18,weekly,45.0
-Ireland,2023,19,weekly,84.4
+Ireland,2023,19,weekly,85.4
 Ireland,2023,20,weekly,46.8
 Ireland,2023,21,weekly,31.4
 Ireland,2023,22,weekly,39.2
@@ -5555,9 +5647,14 @@ Ireland,2023,33,weekly,106.0
 Ireland,2023,34,weekly,111.4
 Ireland,2023,35,weekly,79.0
 Ireland,2023,36,weekly,66.6
-Ireland,2023,37,weekly,38.4
-Ireland,2023,38,weekly,58.6
-Ireland,2023,39,weekly,38.0
+Ireland,2023,37,weekly,39.4
+Ireland,2023,38,weekly,60.6
+Ireland,2023,39,weekly,40.0
+Ireland,2023,40,weekly,119.8
+Ireland,2023,41,weekly,60.4
+Ireland,2023,42,weekly,119.0
+Ireland,2023,43,weekly,75.4
+Ireland,2023,44,weekly,64.0
 Israel,2020,1,weekly,56.3
 Israel,2020,2,weekly,-68.5
 Israel,2020,3,weekly,41.3
@@ -5718,48 +5815,52 @@ Israel,2022,52,weekly,6.3
 Israel,2023,1,weekly,43.0
 Israel,2023,2,weekly,-57.8
 Israel,2023,3,weekly,-13.0
-Israel,2023,4,weekly,32.2
+Israel,2023,4,weekly,33.2
 Israel,2023,5,weekly,-86.6
-Israel,2023,6,weekly,-47.6
+Israel,2023,6,weekly,-46.6
 Israel,2023,7,weekly,38.8
 Israel,2023,8,weekly,22.0
 Israel,2023,9,weekly,72.4
-Israel,2023,10,weekly,4.4
+Israel,2023,10,weekly,6.4
 Israel,2023,11,weekly,41.4
 Israel,2023,12,weekly,95.4
 Israel,2023,13,weekly,-36.6
 Israel,2023,14,weekly,76.6
 Israel,2023,15,weekly,75.6
 Israel,2023,16,weekly,73.8
-Israel,2023,17,weekly,3.2
+Israel,2023,17,weekly,4.2
 Israel,2023,18,weekly,9.6
-Israel,2023,19,weekly,54.2
-Israel,2023,20,weekly,54.2
-Israel,2023,21,weekly,77.6
-Israel,2023,22,weekly,62.4
-Israel,2023,23,weekly,-6.8
+Israel,2023,19,weekly,55.2
+Israel,2023,20,weekly,55.2
+Israel,2023,21,weekly,78.6
+Israel,2023,22,weekly,64.4
+Israel,2023,23,weekly,-5.8
 Israel,2023,24,weekly,-25.6
 Israel,2023,25,weekly,39.6
 Israel,2023,26,weekly,5.6
 Israel,2023,27,weekly,11.2
-Israel,2023,28,weekly,-21.2
+Israel,2023,28,weekly,-20.2
 Israel,2023,29,weekly,-0.8
-Israel,2023,30,weekly,-75.6
+Israel,2023,30,weekly,-74.6
 Israel,2023,31,weekly,57.8
-Israel,2023,32,weekly,59.6
+Israel,2023,32,weekly,61.6
 Israel,2023,33,weekly,27.8
-Israel,2023,34,weekly,-10.2
-Israel,2023,35,weekly,12.2
-Israel,2023,36,weekly,36.6
-Israel,2023,37,weekly,29.2
-Israel,2023,38,weekly,79.2
-Israel,2023,39,weekly,65.8
-Israel,2023,40,weekly,1079.4
-Israel,2023,41,weekly,67.4
-Israel,2023,42,weekly,65.4
-Israel,2023,43,weekly,63.0
-Israel,2023,44,weekly,-19.0
-Israel,2023,45,weekly,-51.8
+Israel,2023,34,weekly,-9.2
+Israel,2023,35,weekly,13.2
+Israel,2023,36,weekly,41.6
+Israel,2023,37,weekly,33.2
+Israel,2023,38,weekly,84.2
+Israel,2023,39,weekly,68.8
+Israel,2023,40,weekly,1095.4
+Israel,2023,41,weekly,80.4
+Israel,2023,42,weekly,72.4
+Israel,2023,43,weekly,73.0
+Israel,2023,44,weekly,-6.0
+Israel,2023,45,weekly,-20.8
+Israel,2023,46,weekly,-53.0
+Israel,2023,47,weekly,-43.0
+Israel,2023,48,weekly,-57.2
+Israel,2023,49,weekly,-12.8
 Italy,2020,1,weekly,-1904.1
 Italy,2020,2,weekly,-1710.3
 Italy,2020,3,weekly,-1413.5
@@ -5916,46 +6017,51 @@ Italy,2022,48,weekly,2602.9
 Italy,2022,49,weekly,2715.3
 Italy,2022,50,weekly,2629.1
 Italy,2022,51,weekly,2098.9
-Italy,2022,52,weekly,1614.7
-Italy,2023,1,weekly,67.8
-Italy,2023,2,weekly,-588.4
-Italy,2023,3,weekly,-578.6
-Italy,2023,4,weekly,110.8
-Italy,2023,5,weekly,139.8
-Italy,2023,6,weekly,565.6
-Italy,2023,7,weekly,1004.2
-Italy,2023,8,weekly,295.2
-Italy,2023,9,weekly,-616.2
-Italy,2023,10,weekly,-79.6
-Italy,2023,11,weekly,-573.4
-Italy,2023,12,weekly,-193.0
-Italy,2023,13,weekly,-441.2
-Italy,2023,14,weekly,-236.0
-Italy,2023,15,weekly,520.0
-Italy,2023,16,weekly,677.4
-Italy,2023,17,weekly,275.8
-Italy,2023,18,weekly,52.2
-Italy,2023,19,weekly,-291.6
-Italy,2023,20,weekly,-201.6
-Italy,2023,21,weekly,432.2
-Italy,2023,22,weekly,-87.4
-Italy,2023,23,weekly,-458.2
-Italy,2023,24,weekly,-566.2
-Italy,2023,25,weekly,442.6
-Italy,2023,26,weekly,-362.4
-Italy,2023,27,weekly,-481.6
-Italy,2023,28,weekly,96.0
-Italy,2023,29,weekly,2030.0
-Italy,2023,30,weekly,1300.0
-Italy,2023,31,weekly,-464.6
-Italy,2023,32,weekly,-1395.8
-Italy,2023,33,weekly,144.2
-Italy,2023,34,weekly,1808.0
-Italy,2023,35,weekly,95.2
-Italy,2023,36,weekly,469.0
-Italy,2023,37,weekly,457.2
-Italy,2023,38,weekly,61.0
-Italy,2023,39,weekly,126.6
+Italy,2022,52,weekly,1617.7
+Italy,2023,1,weekly,87.8
+Italy,2023,2,weekly,-572.4
+Italy,2023,3,weekly,-557.6
+Italy,2023,4,weekly,136.8
+Italy,2023,5,weekly,154.8
+Italy,2023,6,weekly,577.6
+Italy,2023,7,weekly,1026.2
+Italy,2023,8,weekly,328.2
+Italy,2023,9,weekly,-582.2
+Italy,2023,10,weekly,-15.6
+Italy,2023,11,weekly,-531.4
+Italy,2023,12,weekly,-173.0
+Italy,2023,13,weekly,-393.2
+Italy,2023,14,weekly,-153.0
+Italy,2023,15,weekly,565.0
+Italy,2023,16,weekly,708.4
+Italy,2023,17,weekly,337.8
+Italy,2023,18,weekly,103.2
+Italy,2023,19,weekly,-231.6
+Italy,2023,20,weekly,-152.6
+Italy,2023,21,weekly,499.2
+Italy,2023,22,weekly,-11.4
+Italy,2023,23,weekly,-385.2
+Italy,2023,24,weekly,-501.2
+Italy,2023,25,weekly,532.6
+Italy,2023,26,weekly,-316.4
+Italy,2023,27,weekly,-407.6
+Italy,2023,28,weekly,195.0
+Italy,2023,29,weekly,2169.0
+Italy,2023,30,weekly,1402.0
+Italy,2023,31,weekly,-391.6
+Italy,2023,32,weekly,-1298.8
+Italy,2023,33,weekly,286.2
+Italy,2023,34,weekly,1955.0
+Italy,2023,35,weekly,150.2
+Italy,2023,36,weekly,529.0
+Italy,2023,37,weekly,519.2
+Italy,2023,38,weekly,134.0
+Italy,2023,39,weekly,229.6
+Italy,2023,40,weekly,150.6
+Italy,2023,41,weekly,-423.4
+Italy,2023,42,weekly,-238.0
+Italy,2023,43,weekly,-111.0
+Italy,2023,44,weekly,-88.6
 Jamaica,2020,1,monthly,-128.0
 Jamaica,2020,2,monthly,-144.4
 Jamaica,2020,3,monthly,-146.8
@@ -6024,6 +6130,7 @@ Japan,2023,6,monthly,3334.7
 Japan,2023,7,monthly,5199.1
 Japan,2023,8,monthly,13318.9
 Japan,2023,9,monthly,12450.3
+Japan,2023,10,monthly,10638.5
 Jordan,2020,1,monthly,329.9
 Jordan,2020,2,monthly,117.7
 Jordan,2020,3,monthly,45.4
@@ -6151,6 +6258,7 @@ Kosovo,2023,6,monthly,-159.7
 Kosovo,2023,7,monthly,-68.3
 Kosovo,2023,8,monthly,-118.7
 Kosovo,2023,9,monthly,-104.3
+Kosovo,2023,10,monthly,-167.5
 Kuwait,2020,1,monthly,-122.8
 Kuwait,2020,2,monthly,9.2
 Kuwait,2020,3,monthly,0.6
@@ -6232,6 +6340,7 @@ Kyrgyzstan,2023,6,monthly,113.5
 Kyrgyzstan,2023,7,monthly,-172.9
 Kyrgyzstan,2023,8,monthly,182.3
 Kyrgyzstan,2023,9,monthly,-45.5
+Kyrgyzstan,2023,10,monthly,60.9
 Latvia,2020,1,weekly,-2.0
 Latvia,2020,2,weekly,-21.4
 Latvia,2020,3,weekly,-86.8
@@ -6400,8 +6509,8 @@ Latvia,2023,8,weekly,4.5
 Latvia,2023,9,weekly,-58.1
 Latvia,2023,10,weekly,-72.3
 Latvia,2023,11,weekly,-82.5
-Latvia,2023,12,weekly,-27.7
-Latvia,2023,13,weekly,-94.9
+Latvia,2023,12,weekly,-26.7
+Latvia,2023,13,weekly,-93.9
 Latvia,2023,14,weekly,-62.5
 Latvia,2023,15,weekly,-13.3
 Latvia,2023,16,weekly,50.3
@@ -6414,7 +6523,7 @@ Latvia,2023,22,weekly,-22.9
 Latvia,2023,23,weekly,-37.7
 Latvia,2023,24,weekly,46.5
 Latvia,2023,25,weekly,15.9
-Latvia,2023,26,weekly,3.5
+Latvia,2023,26,weekly,4.5
 Latvia,2023,27,weekly,-65.9
 Latvia,2023,28,weekly,-66.3
 Latvia,2023,29,weekly,-47.5
@@ -6423,11 +6532,16 @@ Latvia,2023,31,weekly,-9.9
 Latvia,2023,32,weekly,11.3
 Latvia,2023,33,weekly,14.3
 Latvia,2023,34,weekly,-37.3
-Latvia,2023,35,weekly,-31.5
+Latvia,2023,35,weekly,-30.5
 Latvia,2023,36,weekly,-12.9
 Latvia,2023,37,weekly,-10.9
 Latvia,2023,38,weekly,-18.9
-Latvia,2023,39,weekly,-32.7
+Latvia,2023,39,weekly,-30.7
+Latvia,2023,40,weekly,-38.1
+Latvia,2023,41,weekly,-17.3
+Latvia,2023,42,weekly,32.9
+Latvia,2023,43,weekly,52.3
+Latvia,2023,44,weekly,43.9
 Lebanon,2020,1,monthly,353.7
 Lebanon,2020,2,monthly,210.5
 Lebanon,2020,3,monthly,-211.5
@@ -6681,6 +6795,11 @@ Lithuania,2023,36,weekly,52.2
 Lithuania,2023,37,weekly,133.6
 Lithuania,2023,38,weekly,76.2
 Lithuania,2023,39,weekly,72.4
+Lithuania,2023,40,weekly,-1.0
+Lithuania,2023,41,weekly,67.4
+Lithuania,2023,42,weekly,30.0
+Lithuania,2023,43,weekly,98.2
+Lithuania,2023,44,weekly,135.8
 Luxembourg,2020,1,weekly,-30.6
 Luxembourg,2020,2,weekly,-15.4
 Luxembourg,2020,3,weekly,-1.2
@@ -6877,6 +6996,11 @@ Luxembourg,2023,36,weekly,-5.6
 Luxembourg,2023,37,weekly,2.6
 Luxembourg,2023,38,weekly,-16.0
 Luxembourg,2023,39,weekly,0.6
+Luxembourg,2023,40,weekly,-2.8
+Luxembourg,2023,41,weekly,1.6
+Luxembourg,2023,42,weekly,4.6
+Luxembourg,2023,43,weekly,-4.0
+Luxembourg,2023,44,weekly,3.2
 Macao,2020,1,monthly,-17.1
 Macao,2020,2,monthly,2.7
 Macao,2020,3,monthly,-28.7
@@ -7181,12 +7305,16 @@ Malta,2023,32,weekly,-3.0
 Malta,2023,33,weekly,4.0
 Malta,2023,34,weekly,4.8
 Malta,2023,35,weekly,0.0
-Malta,2023,36,weekly,-4.8
+Malta,2023,36,weekly,-3.8
 Malta,2023,37,weekly,3.4
-Malta,2023,38,weekly,-7.8
+Malta,2023,38,weekly,-3.8
 Malta,2023,39,weekly,-14.2
-Malta,2023,40,weekly,-3.6
-Malta,2023,41,weekly,4.2
+Malta,2023,40,weekly,-2.6
+Malta,2023,41,weekly,12.2
+Malta,2023,42,weekly,-12.6
+Malta,2023,43,weekly,2.8
+Malta,2023,44,weekly,-11.4
+Malta,2023,45,weekly,0.8
 Martinique,2020,1,weekly,-15.9
 Martinique,2020,2,weekly,-8.5
 Martinique,2020,3,weekly,-2.5
@@ -7367,24 +7495,28 @@ Martinique,2023,20,weekly,6.0
 Martinique,2023,21,weekly,-15.0
 Martinique,2023,22,weekly,9.6
 Martinique,2023,23,weekly,-1.2
-Martinique,2023,24,weekly,7.6
+Martinique,2023,24,weekly,8.6
 Martinique,2023,25,weekly,-2.4
 Martinique,2023,26,weekly,-3.8
 Martinique,2023,27,weekly,-16.8
 Martinique,2023,28,weekly,-5.8
 Martinique,2023,29,weekly,-4.6
-Martinique,2023,30,weekly,7.4
-Martinique,2023,31,weekly,4.2
-Martinique,2023,32,weekly,25.4
+Martinique,2023,30,weekly,8.4
+Martinique,2023,31,weekly,7.2
+Martinique,2023,32,weekly,28.4
 Martinique,2023,33,weekly,-1.0
-Martinique,2023,34,weekly,31.0
-Martinique,2023,35,weekly,26.0
-Martinique,2023,36,weekly,6.0
-Martinique,2023,37,weekly,11.2
-Martinique,2023,38,weekly,5.4
-Martinique,2023,39,weekly,12.4
-Martinique,2023,40,weekly,-9.2
-Martinique,2023,41,weekly,-8.0
+Martinique,2023,34,weekly,32.0
+Martinique,2023,35,weekly,29.0
+Martinique,2023,36,weekly,7.0
+Martinique,2023,37,weekly,15.2
+Martinique,2023,38,weekly,7.4
+Martinique,2023,39,weekly,14.4
+Martinique,2023,40,weekly,-6.2
+Martinique,2023,41,weekly,2.0
+Martinique,2023,42,weekly,-14.6
+Martinique,2023,43,weekly,4.0
+Martinique,2023,44,weekly,10.6
+Martinique,2023,45,weekly,-9.2
 Mauritius,2020,1,monthly,-24.1
 Mauritius,2020,2,monthly,-27.9
 Mauritius,2020,3,monthly,-45.3
@@ -7602,7 +7734,7 @@ Mayotte,2023,21,weekly,2.8
 Mayotte,2023,22,weekly,5.0
 Mayotte,2023,23,weekly,1.4
 Mayotte,2023,24,weekly,-5.4
-Mayotte,2023,25,weekly,-2.4
+Mayotte,2023,25,weekly,-1.4
 Mayotte,2023,26,weekly,-2.8
 Mayotte,2023,27,weekly,-2.0
 Mayotte,2023,28,weekly,3.4
@@ -7615,10 +7747,14 @@ Mayotte,2023,34,weekly,1.2
 Mayotte,2023,35,weekly,2.2
 Mayotte,2023,36,weekly,2.6
 Mayotte,2023,37,weekly,5.8
-Mayotte,2023,38,weekly,2.0
+Mayotte,2023,38,weekly,3.0
 Mayotte,2023,39,weekly,2.4
 Mayotte,2023,40,weekly,-6.8
 Mayotte,2023,41,weekly,5.8
+Mayotte,2023,42,weekly,-1.4
+Mayotte,2023,43,weekly,-4.2
+Mayotte,2023,44,weekly,-10.8
+Mayotte,2023,45,weekly,6.0
 Mexico,2020,1,weekly,176.0
 Mexico,2020,2,weekly,442.4
 Mexico,2020,3,weekly,75.2
@@ -7929,6 +8065,7 @@ Mongolia,2023,7,monthly,2.2
 Mongolia,2023,8,monthly,-65.2
 Mongolia,2023,9,monthly,-182.2
 Mongolia,2023,10,monthly,-212.4
+Mongolia,2023,11,monthly,143.2
 Montenegro,2020,1,weekly,-68.2
 Montenegro,2020,2,weekly,-35.4
 Montenegro,2020,3,weekly,-9.8
@@ -8284,48 +8421,52 @@ Netherlands,2022,50,weekly,792.9
 Netherlands,2022,51,weekly,1000.1
 Netherlands,2022,52,weekly,478.7
 Netherlands,2023,1,weekly,593.2
-Netherlands,2023,2,weekly,360.2
+Netherlands,2023,2,weekly,361.2
 Netherlands,2023,3,weekly,232.2
 Netherlands,2023,4,weekly,-52.4
 Netherlands,2023,5,weekly,155.2
-Netherlands,2023,6,weekly,1.0
+Netherlands,2023,6,weekly,2.0
 Netherlands,2023,7,weekly,56.4
 Netherlands,2023,8,weekly,-101.4
 Netherlands,2023,9,weekly,40.0
-Netherlands,2023,10,weekly,288.6
+Netherlands,2023,10,weekly,289.6
 Netherlands,2023,11,weekly,325.2
 Netherlands,2023,12,weekly,348.6
 Netherlands,2023,13,weekly,179.8
 Netherlands,2023,14,weekly,201.6
 Netherlands,2023,15,weekly,60.4
-Netherlands,2023,16,weekly,240.6
-Netherlands,2023,17,weekly,-52.0
+Netherlands,2023,16,weekly,241.6
+Netherlands,2023,17,weekly,-50.0
 Netherlands,2023,18,weekly,129.4
 Netherlands,2023,19,weekly,58.0
-Netherlands,2023,20,weekly,30.8
+Netherlands,2023,20,weekly,31.8
 Netherlands,2023,21,weekly,93.8
 Netherlands,2023,22,weekly,12.8
-Netherlands,2023,23,weekly,282.4
-Netherlands,2023,24,weekly,416.2
-Netherlands,2023,25,weekly,245.2
+Netherlands,2023,23,weekly,285.4
+Netherlands,2023,24,weekly,418.2
+Netherlands,2023,25,weekly,246.2
 Netherlands,2023,26,weekly,83.2
-Netherlands,2023,27,weekly,-116.2
+Netherlands,2023,27,weekly,-115.2
 Netherlands,2023,28,weekly,155.4
-Netherlands,2023,29,weekly,-40.2
-Netherlands,2023,30,weekly,84.4
-Netherlands,2023,31,weekly,21.0
-Netherlands,2023,32,weekly,107.8
-Netherlands,2023,33,weekly,186.4
-Netherlands,2023,34,weekly,134.0
-Netherlands,2023,35,weekly,91.4
-Netherlands,2023,36,weekly,229.2
-Netherlands,2023,37,weekly,109.8
-Netherlands,2023,38,weekly,210.4
-Netherlands,2023,39,weekly,222.2
-Netherlands,2023,40,weekly,221.6
-Netherlands,2023,41,weekly,103.4
-Netherlands,2023,42,weekly,189.8
-Netherlands,2023,43,weekly,417.8
+Netherlands,2023,29,weekly,-39.2
+Netherlands,2023,30,weekly,87.4
+Netherlands,2023,31,weekly,24.0
+Netherlands,2023,32,weekly,108.8
+Netherlands,2023,33,weekly,189.4
+Netherlands,2023,34,weekly,138.0
+Netherlands,2023,35,weekly,95.4
+Netherlands,2023,36,weekly,235.2
+Netherlands,2023,37,weekly,111.8
+Netherlands,2023,38,weekly,213.4
+Netherlands,2023,39,weekly,226.2
+Netherlands,2023,40,weekly,229.6
+Netherlands,2023,41,weekly,117.4
+Netherlands,2023,42,weekly,213.8
+Netherlands,2023,43,weekly,448.8
+Netherlands,2023,44,weekly,504.6
+Netherlands,2023,45,weekly,499.0
+Netherlands,2023,46,weekly,393.8
+Netherlands,2023,47,weekly,205.4
 New Caledonia,2020,1,monthly,-4.0
 New Caledonia,2020,2,monthly,8.8
 New Caledonia,2020,3,monthly,17.2
@@ -8386,8 +8527,8 @@ New Zealand,2020,15,weekly,25.8
 New Zealand,2020,16,weekly,7.8
 New Zealand,2020,17,weekly,-11.8
 New Zealand,2020,18,weekly,-89.2
-New Zealand,2020,19,weekly,-41.8
-New Zealand,2020,20,weekly,-34.6
+New Zealand,2020,19,weekly,-40.8
+New Zealand,2020,20,weekly,-35.6
 New Zealand,2020,21,weekly,-67.6
 New Zealand,2020,22,weekly,-96.4
 New Zealand,2020,23,weekly,-84.8
@@ -8517,11 +8658,11 @@ New Zealand,2022,41,weekly,-21.0
 New Zealand,2022,42,weekly,70.6
 New Zealand,2022,43,weekly,29.2
 New Zealand,2022,44,weekly,29.6
-New Zealand,2022,45,weekly,-4.6
+New Zealand,2022,45,weekly,-5.6
 New Zealand,2022,46,weekly,15.8
 New Zealand,2022,47,weekly,54.2
-New Zealand,2022,48,weekly,-20.8
-New Zealand,2022,49,weekly,69.6
+New Zealand,2022,48,weekly,-19.8
+New Zealand,2022,49,weekly,70.6
 New Zealand,2022,50,weekly,71.0
 New Zealand,2022,51,weekly,38.2
 New Zealand,2022,52,weekly,64.0
@@ -8532,25 +8673,25 @@ New Zealand,2023,4,weekly,34.1
 New Zealand,2023,5,weekly,-13.5
 New Zealand,2023,6,weekly,-11.5
 New Zealand,2023,7,weekly,62.5
-New Zealand,2023,8,weekly,32.7
+New Zealand,2023,8,weekly,33.7
 New Zealand,2023,9,weekly,23.1
-New Zealand,2023,10,weekly,29.9
-New Zealand,2023,11,weekly,-25.5
+New Zealand,2023,10,weekly,28.9
+New Zealand,2023,11,weekly,-24.5
 New Zealand,2023,12,weekly,11.1
 New Zealand,2023,13,weekly,32.7
 New Zealand,2023,14,weekly,52.3
-New Zealand,2023,15,weekly,14.5
-New Zealand,2023,16,weekly,44.5
+New Zealand,2023,15,weekly,15.5
+New Zealand,2023,16,weekly,45.5
 New Zealand,2023,17,weekly,-28.1
 New Zealand,2023,18,weekly,-27.5
 New Zealand,2023,19,weekly,7.9
-New Zealand,2023,20,weekly,60.1
-New Zealand,2023,21,weekly,44.1
+New Zealand,2023,20,weekly,61.1
+New Zealand,2023,21,weekly,43.1
 New Zealand,2023,22,weekly,-5.7
 New Zealand,2023,23,weekly,0.9
 New Zealand,2023,24,weekly,44.9
 New Zealand,2023,25,weekly,-15.3
-New Zealand,2023,26,weekly,-18.5
+New Zealand,2023,26,weekly,-17.5
 New Zealand,2023,27,weekly,11.5
 New Zealand,2023,28,weekly,-9.3
 New Zealand,2023,29,weekly,-21.5
@@ -8559,15 +8700,19 @@ New Zealand,2023,31,weekly,-49.9
 New Zealand,2023,32,weekly,-104.5
 New Zealand,2023,33,weekly,-44.3
 New Zealand,2023,34,weekly,69.1
-New Zealand,2023,35,weekly,35.9
-New Zealand,2023,36,weekly,57.3
-New Zealand,2023,37,weekly,-7.7
-New Zealand,2023,38,weekly,35.9
-New Zealand,2023,39,weekly,-18.5
-New Zealand,2023,40,weekly,3.5
-New Zealand,2023,41,weekly,14.9
-New Zealand,2023,42,weekly,45.5
-New Zealand,2023,43,weekly,-52.9
+New Zealand,2023,35,weekly,36.9
+New Zealand,2023,36,weekly,59.3
+New Zealand,2023,37,weekly,-4.7
+New Zealand,2023,38,weekly,37.9
+New Zealand,2023,39,weekly,-12.5
+New Zealand,2023,40,weekly,11.5
+New Zealand,2023,41,weekly,22.9
+New Zealand,2023,42,weekly,57.5
+New Zealand,2023,43,weekly,-27.9
+New Zealand,2023,44,weekly,35.5
+New Zealand,2023,45,weekly,0.3
+New Zealand,2023,46,weekly,24.7
+New Zealand,2023,47,weekly,14.1
 Nicaragua,2020,1,monthly,-40.3
 Nicaragua,2020,2,monthly,89.3
 Nicaragua,2020,3,monthly,-76.5
@@ -8637,6 +8782,7 @@ North Macedonia,2023,6,monthly,-55.0
 North Macedonia,2023,7,monthly,8.4
 North Macedonia,2023,8,monthly,65.6
 North Macedonia,2023,9,monthly,131.6
+North Macedonia,2023,10,monthly,-24.0
 Norway,2020,1,weekly,-61.4
 Norway,2020,2,weekly,35.4
 Norway,2020,3,weekly,-69.2
@@ -8648,7 +8794,7 @@ Norway,2020,8,weekly,-53.6
 Norway,2020,9,weekly,-40.4
 Norway,2020,10,weekly,-68.4
 Norway,2020,11,weekly,-0.2
-Norway,2020,12,weekly,-6.0
+Norway,2020,12,weekly,-5.0
 Norway,2020,13,weekly,73.8
 Norway,2020,14,weekly,32.6
 Norway,2020,15,weekly,56.4
@@ -8721,7 +8867,7 @@ Norway,2021,28,weekly,1.3
 Norway,2021,29,weekly,35.1
 Norway,2021,30,weekly,25.9
 Norway,2021,31,weekly,74.9
-Norway,2021,32,weekly,63.1
+Norway,2021,32,weekly,64.1
 Norway,2021,33,weekly,81.1
 Norway,2021,34,weekly,69.1
 Norway,2021,35,weekly,59.9
@@ -8791,52 +8937,57 @@ Norway,2022,46,weekly,102.2
 Norway,2022,47,weekly,155.6
 Norway,2022,48,weekly,132.0
 Norway,2022,49,weekly,124.4
-Norway,2022,50,weekly,204.2
+Norway,2022,50,weekly,205.2
 Norway,2022,51,weekly,234.8
 Norway,2022,52,weekly,261.4
 Norway,2023,1,weekly,181.6
 Norway,2023,2,weekly,158.4
 Norway,2023,3,weekly,6.8
 Norway,2023,4,weekly,6.2
-Norway,2023,5,weekly,-17.2
-Norway,2023,6,weekly,-11.0
+Norway,2023,5,weekly,-16.2
+Norway,2023,6,weekly,-10.0
 Norway,2023,7,weekly,-33.6
 Norway,2023,8,weekly,-22.6
-Norway,2023,9,weekly,-83.4
+Norway,2023,9,weekly,-82.4
 Norway,2023,10,weekly,-29.4
 Norway,2023,11,weekly,24.8
 Norway,2023,12,weekly,37.0
-Norway,2023,13,weekly,35.8
-Norway,2023,14,weekly,-7.4
-Norway,2023,15,weekly,27.4
+Norway,2023,13,weekly,36.8
+Norway,2023,14,weekly,-6.4
+Norway,2023,15,weekly,28.4
 Norway,2023,16,weekly,75.2
 Norway,2023,17,weekly,48.0
 Norway,2023,18,weekly,34.4
 Norway,2023,19,weekly,80.6
-Norway,2023,20,weekly,-11.6
+Norway,2023,20,weekly,-10.6
 Norway,2023,21,weekly,43.8
-Norway,2023,22,weekly,93.4
+Norway,2023,22,weekly,94.4
 Norway,2023,23,weekly,65.8
 Norway,2023,24,weekly,80.4
 Norway,2023,25,weekly,30.0
-Norway,2023,26,weekly,96.8
-Norway,2023,27,weekly,2.4
-Norway,2023,28,weekly,34.0
-Norway,2023,29,weekly,12.8
-Norway,2023,30,weekly,29.6
-Norway,2023,31,weekly,98.6
-Norway,2023,32,weekly,34.8
-Norway,2023,33,weekly,15.8
-Norway,2023,34,weekly,36.8
-Norway,2023,35,weekly,22.6
-Norway,2023,36,weekly,83.2
-Norway,2023,37,weekly,128.6
-Norway,2023,38,weekly,93.4
-Norway,2023,39,weekly,83.6
-Norway,2023,40,weekly,42.8
-Norway,2023,41,weekly,46.6
-Norway,2023,42,weekly,83.8
-Norway,2023,43,weekly,49.0
+Norway,2023,26,weekly,97.8
+Norway,2023,27,weekly,3.4
+Norway,2023,28,weekly,36.0
+Norway,2023,29,weekly,13.8
+Norway,2023,30,weekly,30.6
+Norway,2023,31,weekly,99.6
+Norway,2023,32,weekly,37.8
+Norway,2023,33,weekly,17.8
+Norway,2023,34,weekly,37.8
+Norway,2023,35,weekly,25.6
+Norway,2023,36,weekly,84.2
+Norway,2023,37,weekly,132.6
+Norway,2023,38,weekly,97.4
+Norway,2023,39,weekly,90.6
+Norway,2023,40,weekly,52.8
+Norway,2023,41,weekly,51.6
+Norway,2023,42,weekly,96.8
+Norway,2023,43,weekly,78.0
+Norway,2023,44,weekly,112.6
+Norway,2023,45,weekly,118.2
+Norway,2023,46,weekly,132.6
+Norway,2023,47,weekly,183.0
+Norway,2023,48,weekly,85.4
 Oman,2020,1,monthly,-29.3
 Oman,2020,2,monthly,-2.9
 Oman,2020,3,monthly,-123.9
@@ -8881,8 +9032,9 @@ Oman,2023,5,monthly,-22.1
 Oman,2023,6,monthly,-40.1
 Oman,2023,7,monthly,-71.3
 Oman,2023,8,monthly,-82.5
-Oman,2023,9,monthly,-102.1
-Oman,2023,10,monthly,-13.9
+Oman,2023,9,monthly,-100.1
+Oman,2023,10,monthly,2.1
+Oman,2023,11,monthly,-32.5
 Palestine,2020,1,monthly,-18.8
 Palestine,2020,2,monthly,43.2
 Palestine,2020,3,monthly,-50.8
@@ -9154,9 +9306,10 @@ Philippines,2022,9,monthly,2435.9
 Philippines,2022,10,monthly,1173.7
 Philippines,2022,11,monthly,1939.1
 Philippines,2022,12,monthly,3113.1
-Philippines,2023,1,monthly,1750.4
-Philippines,2023,2,monthly,-296.2
-Philippines,2023,3,monthly,-182.4
+Philippines,2023,1,monthly,2121.4
+Philippines,2023,2,monthly,357.8
+Philippines,2023,3,monthly,2877.6
+Philippines,2023,4,monthly,453.4
 Poland,2020,1,weekly,-337.9
 Poland,2020,2,weekly,-567.9
 Poland,2020,3,weekly,-777.7
@@ -9316,46 +9469,51 @@ Poland,2022,51,weekly,1667.5
 Poland,2022,52,weekly,2219.9
 Poland,2023,1,weekly,1292.8
 Poland,2023,2,weekly,426.8
-Poland,2023,3,weekly,-517.0
+Poland,2023,3,weekly,-518.0
 Poland,2023,4,weekly,-924.2
 Poland,2023,5,weekly,-1212.2
 Poland,2023,6,weekly,-1157.6
 Poland,2023,7,weekly,-1367.8
 Poland,2023,8,weekly,-1150.4
-Poland,2023,9,weekly,-1118.0
+Poland,2023,9,weekly,-1117.0
 Poland,2023,10,weekly,-837.0
 Poland,2023,11,weekly,-664.2
-Poland,2023,12,weekly,-668.0
-Poland,2023,13,weekly,-782.2
-Poland,2023,14,weekly,-767.2
+Poland,2023,12,weekly,-667.0
+Poland,2023,13,weekly,-781.2
+Poland,2023,14,weekly,-768.2
 Poland,2023,15,weekly,-706.6
-Poland,2023,16,weekly,-464.4
-Poland,2023,17,weekly,-596.8
+Poland,2023,16,weekly,-462.4
+Poland,2023,17,weekly,-595.8
 Poland,2023,18,weekly,-543.6
-Poland,2023,19,weekly,-515.8
-Poland,2023,20,weekly,-321.6
-Poland,2023,21,weekly,-380.6
-Poland,2023,22,weekly,-562.0
+Poland,2023,19,weekly,-514.8
+Poland,2023,20,weekly,-322.6
+Poland,2023,21,weekly,-379.6
+Poland,2023,22,weekly,-561.0
 Poland,2023,23,weekly,-235.2
 Poland,2023,24,weekly,-682.8
-Poland,2023,25,weekly,-307.8
-Poland,2023,26,weekly,-650.0
-Poland,2023,27,weekly,-798.4
-Poland,2023,28,weekly,-317.4
-Poland,2023,29,weekly,-848.8
-Poland,2023,30,weekly,-724.4
-Poland,2023,31,weekly,-897.8
-Poland,2023,32,weekly,-965.8
-Poland,2023,33,weekly,166.2
-Poland,2023,34,weekly,-178.6
-Poland,2023,35,weekly,-1048.0
-Poland,2023,36,weekly,-524.0
-Poland,2023,37,weekly,-476.0
-Poland,2023,38,weekly,-626.0
-Poland,2023,39,weekly,-932.8
-Poland,2023,40,weekly,-1224.2
-Poland,2023,41,weekly,-826.8
-Poland,2023,42,weekly,-896.4
+Poland,2023,25,weekly,-306.8
+Poland,2023,26,weekly,-649.0
+Poland,2023,27,weekly,-796.4
+Poland,2023,28,weekly,-315.4
+Poland,2023,29,weekly,-846.8
+Poland,2023,30,weekly,-722.4
+Poland,2023,31,weekly,-892.8
+Poland,2023,32,weekly,-964.8
+Poland,2023,33,weekly,168.2
+Poland,2023,34,weekly,-172.6
+Poland,2023,35,weekly,-1046.0
+Poland,2023,36,weekly,-517.0
+Poland,2023,37,weekly,-470.0
+Poland,2023,38,weekly,-619.0
+Poland,2023,39,weekly,-830.8
+Poland,2023,40,weekly,-879.2
+Poland,2023,41,weekly,-456.8
+Poland,2023,42,weekly,-439.4
+Poland,2023,43,weekly,-257.0
+Poland,2023,44,weekly,-594.6
+Poland,2023,45,weekly,-482.2
+Poland,2023,46,weekly,-520.4
+Poland,2023,47,weekly,-423.2
 Portugal,2020,1,weekly,-336.0
 Portugal,2020,2,weekly,-194.6
 Portugal,2020,3,weekly,-138.2
@@ -9513,45 +9671,50 @@ Portugal,2022,49,weekly,511.2
 Portugal,2022,50,weekly,555.6
 Portugal,2022,51,weekly,246.4
 Portugal,2022,52,weekly,80.2
-Portugal,2023,1,weekly,-152.6
-Portugal,2023,2,weekly,-304.2
+Portugal,2023,1,weekly,-150.6
+Portugal,2023,2,weekly,-303.2
 Portugal,2023,3,weekly,-251.8
 Portugal,2023,4,weekly,-290.0
 Portugal,2023,5,weekly,50.0
-Portugal,2023,6,weekly,111.8
+Portugal,2023,6,weekly,112.8
 Portugal,2023,7,weekly,-44.6
 Portugal,2023,8,weekly,-76.2
-Portugal,2023,9,weekly,12.6
+Portugal,2023,9,weekly,13.6
 Portugal,2023,10,weekly,111.4
 Portugal,2023,11,weekly,-30.6
 Portugal,2023,12,weekly,-96.6
 Portugal,2023,13,weekly,-38.8
 Portugal,2023,14,weekly,-140.4
 Portugal,2023,15,weekly,-129.2
-Portugal,2023,16,weekly,35.0
-Portugal,2023,17,weekly,137.0
+Portugal,2023,16,weekly,38.0
+Portugal,2023,17,weekly,138.0
 Portugal,2023,18,weekly,57.4
-Portugal,2023,19,weekly,-79.0
-Portugal,2023,20,weekly,39.6
+Portugal,2023,19,weekly,-78.0
+Portugal,2023,20,weekly,40.6
 Portugal,2023,21,weekly,97.8
 Portugal,2023,22,weekly,84.0
 Portugal,2023,23,weekly,119.4
-Portugal,2023,24,weekly,44.2
-Portugal,2023,25,weekly,-13.2
-Portugal,2023,26,weekly,59.0
+Portugal,2023,24,weekly,46.2
+Portugal,2023,25,weekly,-12.2
+Portugal,2023,26,weekly,62.0
 Portugal,2023,27,weekly,25.2
-Portugal,2023,28,weekly,38.0
+Portugal,2023,28,weekly,39.0
 Portugal,2023,29,weekly,23.8
 Portugal,2023,30,weekly,18.0
-Portugal,2023,31,weekly,68.2
-Portugal,2023,32,weekly,180.2
-Portugal,2023,33,weekly,159.6
-Portugal,2023,34,weekly,290.0
-Portugal,2023,35,weekly,157.4
-Portugal,2023,36,weekly,116.8
-Portugal,2023,37,weekly,154.2
-Portugal,2023,38,weekly,112.2
-Portugal,2023,39,weekly,-62.8
+Portugal,2023,31,weekly,69.2
+Portugal,2023,32,weekly,183.2
+Portugal,2023,33,weekly,162.6
+Portugal,2023,34,weekly,294.0
+Portugal,2023,35,weekly,167.4
+Portugal,2023,36,weekly,119.8
+Portugal,2023,37,weekly,165.2
+Portugal,2023,38,weekly,120.2
+Portugal,2023,39,weekly,143.2
+Portugal,2023,40,weekly,74.0
+Portugal,2023,41,weekly,124.2
+Portugal,2023,42,weekly,-10.4
+Portugal,2023,43,weekly,21.4
+Portugal,2023,44,weekly,-40.6
 Puerto Rico,2020,1,weekly,-122.0
 Puerto Rico,2020,2,weekly,-51.4
 Puerto Rico,2020,3,weekly,12.8
@@ -9788,6 +9951,7 @@ Qatar,2023,6,monthly,9.0
 Qatar,2023,7,monthly,48.4
 Qatar,2023,8,monthly,31.6
 Qatar,2023,9,monthly,41.2
+Qatar,2023,10,monthly,78.4
 Romania,2020,1,weekly,-600.7
 Romania,2020,2,weekly,-545.7
 Romania,2020,3,weekly,-447.9
@@ -9945,44 +10109,49 @@ Romania,2022,49,weekly,-94.9
 Romania,2022,50,weekly,-319.5
 Romania,2022,51,weekly,-244.3
 Romania,2022,52,weekly,-755.1
-Romania,2023,1,weekly,-186.8
-Romania,2023,2,weekly,-256.8
-Romania,2023,3,weekly,-378.0
-Romania,2023,4,weekly,-770.2
-Romania,2023,5,weekly,-725.6
-Romania,2023,6,weekly,-576.4
-Romania,2023,7,weekly,-459.2
-Romania,2023,8,weekly,-726.8
-Romania,2023,9,weekly,-887.8
-Romania,2023,10,weekly,-609.0
-Romania,2023,11,weekly,-684.8
-Romania,2023,12,weekly,-542.2
-Romania,2023,13,weekly,-616.2
-Romania,2023,14,weekly,-544.0
-Romania,2023,15,weekly,-452.8
-Romania,2023,16,weekly,-271.0
-Romania,2023,17,weekly,-446.8
-Romania,2023,18,weekly,-275.2
-Romania,2023,19,weekly,-212.4
-Romania,2023,20,weekly,-41.4
-Romania,2023,21,weekly,-276.0
-Romania,2023,22,weekly,-559.6
-Romania,2023,23,weekly,-346.4
-Romania,2023,24,weekly,-592.6
-Romania,2023,25,weekly,-355.6
-Romania,2023,26,weekly,-689.0
-Romania,2023,27,weekly,-403.4
-Romania,2023,28,weekly,-257.2
-Romania,2023,29,weekly,165.0
-Romania,2023,30,weekly,-687.0
-Romania,2023,31,weekly,-663.2
-Romania,2023,32,weekly,-640.6
-Romania,2023,33,weekly,-75.8
-Romania,2023,34,weekly,156.4
-Romania,2023,35,weekly,-112.0
-Romania,2023,36,weekly,-505.4
-Romania,2023,37,weekly,-346.4
-Romania,2023,38,weekly,-273.8
+Romania,2023,1,weekly,-178.8
+Romania,2023,2,weekly,-249.8
+Romania,2023,3,weekly,-365.0
+Romania,2023,4,weekly,-755.2
+Romania,2023,5,weekly,-717.6
+Romania,2023,6,weekly,-566.4
+Romania,2023,7,weekly,-451.2
+Romania,2023,8,weekly,-719.8
+Romania,2023,9,weekly,-878.8
+Romania,2023,10,weekly,-600.0
+Romania,2023,11,weekly,-679.8
+Romania,2023,12,weekly,-525.2
+Romania,2023,13,weekly,-611.2
+Romania,2023,14,weekly,-537.0
+Romania,2023,15,weekly,-448.8
+Romania,2023,16,weekly,-267.0
+Romania,2023,17,weekly,-439.8
+Romania,2023,18,weekly,-268.2
+Romania,2023,19,weekly,-204.4
+Romania,2023,20,weekly,-33.4
+Romania,2023,21,weekly,-268.0
+Romania,2023,22,weekly,-554.6
+Romania,2023,23,weekly,-338.4
+Romania,2023,24,weekly,-582.6
+Romania,2023,25,weekly,-341.6
+Romania,2023,26,weekly,-666.0
+Romania,2023,27,weekly,-371.4
+Romania,2023,28,weekly,-226.2
+Romania,2023,29,weekly,208.0
+Romania,2023,30,weekly,-645.0
+Romania,2023,31,weekly,-622.2
+Romania,2023,32,weekly,-610.6
+Romania,2023,33,weekly,-36.8
+Romania,2023,34,weekly,195.4
+Romania,2023,35,weekly,-68.0
+Romania,2023,36,weekly,-444.4
+Romania,2023,37,weekly,-269.4
+Romania,2023,38,weekly,-185.8
+Romania,2023,39,weekly,-436.0
+Romania,2023,40,weekly,-536.8
+Romania,2023,41,weekly,-405.2
+Romania,2023,42,weekly,-472.2
+Romania,2023,43,weekly,-404.6
 Russia,2020,1,monthly,-5538.1
 Russia,2020,2,monthly,3748.5
 Russia,2020,3,monthly,-925.7
@@ -10099,7 +10268,7 @@ Réunion,2021,16,weekly,8.2
 Réunion,2021,17,weekly,24.8
 Réunion,2021,18,weekly,7.8
 Réunion,2021,19,weekly,12.2
-Réunion,2021,20,weekly,-12.0
+Réunion,2021,20,weekly,-11.0
 Réunion,2021,21,weekly,15.4
 Réunion,2021,22,weekly,40.4
 Réunion,2021,23,weekly,26.4
@@ -10222,9 +10391,13 @@ Réunion,2023,35,weekly,-11.0
 Réunion,2023,36,weekly,-6.4
 Réunion,2023,37,weekly,-5.0
 Réunion,2023,38,weekly,4.2
-Réunion,2023,39,weekly,-17.6
-Réunion,2023,40,weekly,-14.2
-Réunion,2023,41,weekly,-1.8
+Réunion,2023,39,weekly,-15.6
+Réunion,2023,40,weekly,-13.2
+Réunion,2023,41,weekly,0.2
+Réunion,2023,42,weekly,24.0
+Réunion,2023,43,weekly,-1.2
+Réunion,2023,44,weekly,5.6
+Réunion,2023,45,weekly,-19.4
 Saint Kitts and Nevis,2020,1,monthly,-5.8
 Saint Kitts and Nevis,2020,2,monthly,-0.8
 Saint Kitts and Nevis,2020,3,monthly,-0.6
@@ -10326,6 +10499,8 @@ San Marino,2023,5,monthly,-4.3
 San Marino,2023,6,monthly,-10.5
 San Marino,2023,7,monthly,-1.1
 San Marino,2023,8,monthly,1.5
+San Marino,2023,9,monthly,-1.9
+San Marino,2023,10,monthly,6.7
 Serbia,2020,1,monthly,-504.7
 Serbia,2020,2,monthly,78.1
 Serbia,2020,3,monthly,-93.5
@@ -10372,6 +10547,7 @@ Serbia,2023,7,monthly,-87.3
 Serbia,2023,8,monthly,-15.3
 Serbia,2023,9,monthly,-335.5
 Serbia,2023,10,monthly,116.1
+Serbia,2023,11,monthly,84.7
 Seychelles,2020,1,monthly,-3.2
 Seychelles,2020,2,monthly,-4.6
 Seychelles,2020,3,monthly,-12.2
@@ -10558,94 +10734,99 @@ Slovakia,2021,49,weekly,914.2
 Slovakia,2021,50,weekly,739.8
 Slovakia,2021,51,weekly,502.4
 Slovakia,2021,52,weekly,393.6
-Slovakia,2022,1,weekly,246.0
+Slovakia,2022,1,weekly,245.0
 Slovakia,2022,2,weekly,104.0
 Slovakia,2022,3,weekly,12.8
-Slovakia,2022,4,weekly,6.4
-Slovakia,2022,5,weekly,23.8
+Slovakia,2022,4,weekly,5.4
+Slovakia,2022,5,weekly,24.8
 Slovakia,2022,6,weekly,18.4
 Slovakia,2022,7,weekly,168.4
 Slovakia,2022,8,weekly,115.8
-Slovakia,2022,9,weekly,193.2
+Slovakia,2022,9,weekly,195.2
 Slovakia,2022,10,weekly,210.4
 Slovakia,2022,11,weekly,253.0
 Slovakia,2022,12,weekly,212.0
-Slovakia,2022,13,weekly,204.4
-Slovakia,2022,14,weekly,182.8
+Slovakia,2022,13,weekly,206.4
+Slovakia,2022,14,weekly,181.8
 Slovakia,2022,15,weekly,33.2
 Slovakia,2022,16,weekly,91.0
 Slovakia,2022,17,weekly,102.0
-Slovakia,2022,18,weekly,80.6
+Slovakia,2022,18,weekly,82.6
 Slovakia,2022,19,weekly,54.4
-Slovakia,2022,20,weekly,22.6
-Slovakia,2022,21,weekly,-3.8
-Slovakia,2022,22,weekly,99.2
+Slovakia,2022,20,weekly,23.6
+Slovakia,2022,21,weekly,-2.8
+Slovakia,2022,22,weekly,100.2
 Slovakia,2022,23,weekly,87.6
-Slovakia,2022,24,weekly,-49.4
+Slovakia,2022,24,weekly,-48.4
 Slovakia,2022,25,weekly,93.6
-Slovakia,2022,26,weekly,167.2
+Slovakia,2022,26,weekly,170.2
 Slovakia,2022,27,weekly,25.4
-Slovakia,2022,28,weekly,41.8
-Slovakia,2022,29,weekly,211.4
-Slovakia,2022,30,weekly,53.4
+Slovakia,2022,28,weekly,43.8
+Slovakia,2022,29,weekly,214.4
+Slovakia,2022,30,weekly,55.4
 Slovakia,2022,31,weekly,81.8
-Slovakia,2022,32,weekly,101.6
-Slovakia,2022,33,weekly,146.0
-Slovakia,2022,34,weekly,138.0
-Slovakia,2022,35,weekly,17.6
-Slovakia,2022,36,weekly,60.2
-Slovakia,2022,37,weekly,-0.8
-Slovakia,2022,38,weekly,65.6
-Slovakia,2022,39,weekly,140.6
-Slovakia,2022,40,weekly,116.4
-Slovakia,2022,41,weekly,107.4
-Slovakia,2022,42,weekly,86.4
-Slovakia,2022,43,weekly,139.0
-Slovakia,2022,44,weekly,106.0
-Slovakia,2022,45,weekly,13.0
-Slovakia,2022,46,weekly,37.2
-Slovakia,2022,47,weekly,109.4
-Slovakia,2022,48,weekly,-12.4
-Slovakia,2022,49,weekly,135.6
-Slovakia,2022,50,weekly,218.2
-Slovakia,2022,51,weekly,274.8
+Slovakia,2022,32,weekly,102.6
+Slovakia,2022,33,weekly,147.0
+Slovakia,2022,34,weekly,139.0
+Slovakia,2022,35,weekly,21.6
+Slovakia,2022,36,weekly,63.2
+Slovakia,2022,37,weekly,5.2
+Slovakia,2022,38,weekly,69.6
+Slovakia,2022,39,weekly,142.6
+Slovakia,2022,40,weekly,122.4
+Slovakia,2022,41,weekly,113.4
+Slovakia,2022,42,weekly,90.4
+Slovakia,2022,43,weekly,141.0
+Slovakia,2022,44,weekly,113.0
+Slovakia,2022,45,weekly,22.0
+Slovakia,2022,46,weekly,44.2
+Slovakia,2022,47,weekly,115.4
+Slovakia,2022,48,weekly,5.6
+Slovakia,2022,49,weekly,152.6
+Slovakia,2022,50,weekly,249.2
+Slovakia,2022,51,weekly,302.8
 Slovakia,2022,52,weekly,256.0
-Slovakia,2023,1,weekly,103.3
-Slovakia,2023,2,weekly,11.3
+Slovakia,2023,1,weekly,104.3
+Slovakia,2023,2,weekly,13.3
 Slovakia,2023,3,weekly,-57.9
-Slovakia,2023,4,weekly,-112.3
+Slovakia,2023,4,weekly,-111.3
 Slovakia,2023,5,weekly,-153.9
-Slovakia,2023,6,weekly,-141.3
+Slovakia,2023,6,weekly,-139.3
 Slovakia,2023,7,weekly,-164.3
-Slovakia,2023,8,weekly,-112.9
-Slovakia,2023,9,weekly,-98.5
-Slovakia,2023,10,weekly,-30.3
-Slovakia,2023,11,weekly,23.3
-Slovakia,2023,12,weekly,25.3
-Slovakia,2023,13,weekly,-1.3
-Slovakia,2023,14,weekly,-54.9
-Slovakia,2023,15,weekly,-2.5
+Slovakia,2023,8,weekly,-111.9
+Slovakia,2023,9,weekly,-97.5
+Slovakia,2023,10,weekly,-28.3
+Slovakia,2023,11,weekly,25.3
+Slovakia,2023,12,weekly,26.3
+Slovakia,2023,13,weekly,0.7
+Slovakia,2023,14,weekly,-51.9
+Slovakia,2023,15,weekly,0.5
 Slovakia,2023,16,weekly,-23.7
-Slovakia,2023,17,weekly,-11.7
-Slovakia,2023,18,weekly,-53.1
+Slovakia,2023,17,weekly,-10.7
+Slovakia,2023,18,weekly,-52.1
 Slovakia,2023,19,weekly,-34.3
-Slovakia,2023,20,weekly,-87.1
-Slovakia,2023,21,weekly,52.5
-Slovakia,2023,22,weekly,-55.5
-Slovakia,2023,23,weekly,10.9
+Slovakia,2023,20,weekly,-85.1
+Slovakia,2023,21,weekly,53.5
+Slovakia,2023,22,weekly,-53.5
+Slovakia,2023,23,weekly,11.9
 Slovakia,2023,24,weekly,-18.1
-Slovakia,2023,25,weekly,45.9
-Slovakia,2023,26,weekly,-0.5
-Slovakia,2023,27,weekly,4.7
-Slovakia,2023,28,weekly,41.1
-Slovakia,2023,29,weekly,-12.3
-Slovakia,2023,30,weekly,-121.3
-Slovakia,2023,31,weekly,-69.9
-Slovakia,2023,32,weekly,-112.1
-Slovakia,2023,33,weekly,8.3
-Slovakia,2023,34,weekly,94.3
-Slovakia,2023,35,weekly,-40.1
-Slovakia,2023,36,weekly,-20.5
+Slovakia,2023,25,weekly,49.9
+Slovakia,2023,26,weekly,3.5
+Slovakia,2023,27,weekly,6.7
+Slovakia,2023,28,weekly,43.1
+Slovakia,2023,29,weekly,-10.3
+Slovakia,2023,30,weekly,-114.3
+Slovakia,2023,31,weekly,-65.9
+Slovakia,2023,32,weekly,-107.1
+Slovakia,2023,33,weekly,18.3
+Slovakia,2023,34,weekly,105.3
+Slovakia,2023,35,weekly,-30.1
+Slovakia,2023,36,weekly,4.5
+Slovakia,2023,37,weekly,10.5
+Slovakia,2023,38,weekly,-54.1
+Slovakia,2023,39,weekly,-59.1
+Slovakia,2023,40,weekly,-92.3
+Slovakia,2023,41,weekly,13.7
 Slovenia,2020,1,weekly,-35.3
 Slovenia,2020,2,weekly,-43.9
 Slovenia,2020,3,weekly,-49.5
@@ -10841,16 +11022,21 @@ Slovenia,2023,35,weekly,-50.4
 Slovenia,2023,36,weekly,-20.8
 Slovenia,2023,37,weekly,-32.6
 Slovenia,2023,38,weekly,7.4
-Slovenia,2023,39,weekly,-14.8
-Slovenia,2023,40,weekly,-19.8
-Slovenia,2023,41,weekly,-19.2
+Slovenia,2023,39,weekly,-13.8
+Slovenia,2023,40,weekly,-17.8
+Slovenia,2023,41,weekly,-13.2
+Slovenia,2023,42,weekly,30.8
+Slovenia,2023,43,weekly,15.0
+Slovenia,2023,44,weekly,17.6
+Slovenia,2023,45,weekly,-6.6
+Slovenia,2023,46,weekly,0.4
 South Africa,2020,1,weekly,241.1
 South Africa,2020,2,weekly,384.5
 South Africa,2020,3,weekly,203.1
 South Africa,2020,4,weekly,-285.3
 South Africa,2020,5,weekly,160.9
-South Africa,2020,6,weekly,725.9
-South Africa,2020,7,weekly,257.3
+South Africa,2020,6,weekly,727.9
+South Africa,2020,7,weekly,258.3
 South Africa,2020,8,weekly,349.5
 South Africa,2020,9,weekly,-395.1
 South Africa,2020,10,weekly,469.9
@@ -10863,8 +11049,8 @@ South Africa,2020,16,weekly,-915.3
 South Africa,2020,17,weekly,-1444.9
 South Africa,2020,18,weekly,-1918.3
 South Africa,2020,19,weekly,-1448.9
-South Africa,2020,20,weekly,-1287.5
-South Africa,2020,21,weekly,-1006.7
+South Africa,2020,20,weekly,-1288.5
+South Africa,2020,21,weekly,-1005.7
 South Africa,2020,22,weekly,-1024.9
 South Africa,2020,23,weekly,-1020.1
 South Africa,2020,24,weekly,-537.5
@@ -10905,7 +11091,7 @@ South Africa,2021,5,weekly,4601.1
 South Africa,2021,6,weekly,2836.1
 South Africa,2021,7,weekly,2446.5
 South Africa,2021,8,weekly,1769.7
-South Africa,2021,9,weekly,1566.1
+South Africa,2021,9,weekly,1567.1
 South Africa,2021,10,weekly,1585.1
 South Africa,2021,11,weekly,1040.7
 South Africa,2021,12,weekly,1165.7
@@ -10920,7 +11106,7 @@ South Africa,2021,20,weekly,1526.7
 South Africa,2021,21,weekly,2161.5
 South Africa,2021,22,weekly,2748.3
 South Africa,2021,23,weekly,2853.1
-South Africa,2021,24,weekly,2453.7
+South Africa,2021,24,weekly,2454.7
 South Africa,2021,25,weekly,4421.5
 South Africa,2021,26,weekly,5981.9
 South Africa,2021,27,weekly,7307.9
@@ -10930,15 +11116,15 @@ South Africa,2021,30,weekly,8541.9
 South Africa,2021,31,weekly,6430.1
 South Africa,2021,32,weekly,4751.3
 South Africa,2021,33,weekly,5175.3
-South Africa,2021,34,weekly,4471.5
-South Africa,2021,35,weekly,4315.3
+South Africa,2021,34,weekly,4470.5
+South Africa,2021,35,weekly,4317.3
 South Africa,2021,36,weekly,3031.3
 South Africa,2021,37,weekly,2040.7
 South Africa,2021,38,weekly,1766.9
 South Africa,2021,39,weekly,1231.7
 South Africa,2021,40,weekly,815.9
 South Africa,2021,41,weekly,1212.7
-South Africa,2021,42,weekly,949.9
+South Africa,2021,42,weekly,950.9
 South Africa,2021,43,weekly,525.9
 South Africa,2021,44,weekly,1144.3
 South Africa,2021,45,weekly,1323.3
@@ -10950,7 +11136,7 @@ South Africa,2021,50,weekly,2432.9
 South Africa,2021,51,weekly,3134.9
 South Africa,2021,52,weekly,3454.3
 South Africa,2022,1,weekly,2364.5
-South Africa,2022,2,weekly,2187.9
+South Africa,2022,2,weekly,2189.9
 South Africa,2022,3,weekly,1405.5
 South Africa,2022,4,weekly,1020.1
 South Africa,2022,5,weekly,1087.3
@@ -10959,9 +11145,9 @@ South Africa,2022,7,weekly,691.7
 South Africa,2022,8,weekly,896.9
 South Africa,2022,9,weekly,798.3
 South Africa,2022,10,weekly,850.3
-South Africa,2022,11,weekly,658.9
+South Africa,2022,11,weekly,657.9
 South Africa,2022,12,weekly,909.9
-South Africa,2022,13,weekly,792.1
+South Africa,2022,13,weekly,793.1
 South Africa,2022,14,weekly,527.5
 South Africa,2022,15,weekly,1634.7
 South Africa,2022,16,weekly,1128.1
@@ -10969,81 +11155,86 @@ South Africa,2022,17,weekly,1205.5
 South Africa,2022,18,weekly,1471.1
 South Africa,2022,19,weekly,1519.5
 South Africa,2022,20,weekly,995.9
-South Africa,2022,21,weekly,1665.7
+South Africa,2022,21,weekly,1666.7
 South Africa,2022,22,weekly,1313.5
 South Africa,2022,23,weekly,957.3
-South Africa,2022,24,weekly,1043.9
-South Africa,2022,25,weekly,705.7
+South Africa,2022,24,weekly,1042.9
+South Africa,2022,25,weekly,706.7
 South Africa,2022,26,weekly,972.1
 South Africa,2022,27,weekly,406.1
 South Africa,2022,28,weekly,232.9
 South Africa,2022,29,weekly,93.3
 South Africa,2022,30,weekly,388.1
-South Africa,2022,31,weekly,219.3
-South Africa,2022,32,weekly,34.5
+South Africa,2022,31,weekly,220.3
+South Africa,2022,32,weekly,35.5
 South Africa,2022,33,weekly,225.5
 South Africa,2022,34,weekly,543.7
 South Africa,2022,35,weekly,492.5
 South Africa,2022,36,weekly,488.5
 South Africa,2022,37,weekly,362.9
-South Africa,2022,38,weekly,239.1
-South Africa,2022,39,weekly,474.9
-South Africa,2022,40,weekly,727.1
+South Africa,2022,38,weekly,240.1
+South Africa,2022,39,weekly,475.9
+South Africa,2022,40,weekly,726.1
 South Africa,2022,41,weekly,552.9
-South Africa,2022,42,weekly,157.1
+South Africa,2022,42,weekly,156.1
 South Africa,2022,43,weekly,-199.9
-South Africa,2022,44,weekly,125.5
+South Africa,2022,44,weekly,124.5
 South Africa,2022,45,weekly,227.5
-South Africa,2022,46,weekly,497.7
+South Africa,2022,46,weekly,498.7
 South Africa,2022,47,weekly,434.9
 South Africa,2022,48,weekly,254.3
-South Africa,2022,49,weekly,156.3
-South Africa,2022,50,weekly,490.1
-South Africa,2022,51,weekly,57.1
-South Africa,2022,52,weekly,406.5
-South Africa,2023,1,weekly,24.7
-South Africa,2023,2,weekly,1243.1
+South Africa,2022,49,weekly,155.3
+South Africa,2022,50,weekly,489.1
+South Africa,2022,51,weekly,58.1
+South Africa,2022,52,weekly,407.5
+South Africa,2023,1,weekly,26.7
+South Africa,2023,2,weekly,1245.1
 South Africa,2023,3,weekly,1402.7
-South Africa,2023,4,weekly,1070.3
-South Africa,2023,5,weekly,384.5
+South Africa,2023,4,weekly,1071.3
+South Africa,2023,5,weekly,385.5
 South Africa,2023,6,weekly,161.5
-South Africa,2023,7,weekly,389.9
+South Africa,2023,7,weekly,393.9
 South Africa,2023,8,weekly,631.1
-South Africa,2023,9,weekly,378.5
-South Africa,2023,10,weekly,993.5
-South Africa,2023,11,weekly,540.1
-South Africa,2023,12,weekly,805.1
-South Africa,2023,13,weekly,410.3
+South Africa,2023,9,weekly,381.5
+South Africa,2023,10,weekly,994.5
+South Africa,2023,11,weekly,542.1
+South Africa,2023,12,weekly,807.1
+South Africa,2023,13,weekly,412.3
 South Africa,2023,14,weekly,624.7
-South Africa,2023,15,weekly,818.9
-South Africa,2023,16,weekly,535.3
-South Africa,2023,17,weekly,823.7
-South Africa,2023,18,weekly,370.3
+South Africa,2023,15,weekly,819.9
+South Africa,2023,16,weekly,538.3
+South Africa,2023,17,weekly,824.7
+South Africa,2023,18,weekly,371.3
 South Africa,2023,19,weekly,690.7
-South Africa,2023,20,weekly,1003.1
-South Africa,2023,21,weekly,1698.9
+South Africa,2023,20,weekly,1006.1
+South Africa,2023,21,weekly,1701.9
 South Africa,2023,22,weekly,1652.7
-South Africa,2023,23,weekly,1199.5
+South Africa,2023,23,weekly,1201.5
 South Africa,2023,24,weekly,570.1
-South Africa,2023,25,weekly,339.9
-South Africa,2023,26,weekly,123.3
-South Africa,2023,27,weekly,22.3
-South Africa,2023,28,weekly,1105.1
-South Africa,2023,29,weekly,402.5
-South Africa,2023,30,weekly,611.3
-South Africa,2023,31,weekly,406.5
-South Africa,2023,32,weekly,409.7
-South Africa,2023,33,weekly,247.7
-South Africa,2023,34,weekly,-262.1
-South Africa,2023,35,weekly,-37.3
-South Africa,2023,36,weekly,-183.3
-South Africa,2023,37,weekly,338.1
-South Africa,2023,38,weekly,231.3
-South Africa,2023,39,weekly,271.1
-South Africa,2023,40,weekly,222.3
-South Africa,2023,41,weekly,194.1
-South Africa,2023,42,weekly,355.3
-South Africa,2023,43,weekly,265.3
+South Africa,2023,25,weekly,343.9
+South Africa,2023,26,weekly,124.3
+South Africa,2023,27,weekly,24.3
+South Africa,2023,28,weekly,1109.1
+South Africa,2023,29,weekly,403.5
+South Africa,2023,30,weekly,616.3
+South Africa,2023,31,weekly,410.5
+South Africa,2023,32,weekly,414.7
+South Africa,2023,33,weekly,250.7
+South Africa,2023,34,weekly,-258.1
+South Africa,2023,35,weekly,-26.3
+South Africa,2023,36,weekly,-172.3
+South Africa,2023,37,weekly,346.1
+South Africa,2023,38,weekly,247.3
+South Africa,2023,39,weekly,282.1
+South Africa,2023,40,weekly,240.3
+South Africa,2023,41,weekly,212.1
+South Africa,2023,42,weekly,377.3
+South Africa,2023,43,weekly,283.3
+South Africa,2023,44,weekly,545.7
+South Africa,2023,45,weekly,545.7
+South Africa,2023,46,weekly,258.9
+South Africa,2023,47,weekly,1504.1
+South Africa,2023,48,weekly,601.5
 South Korea,2020,1,weekly,24.4
 South Korea,2020,2,weekly,-129.2
 South Korea,2020,3,weekly,-8.0
@@ -11201,41 +11392,45 @@ South Korea,2022,49,weekly,1180.3
 South Korea,2022,50,weekly,1160.1
 South Korea,2022,51,weekly,1294.5
 South Korea,2022,52,weekly,1273.5
-South Korea,2023,1,weekly,921.5
-South Korea,2023,2,weekly,804.9
-South Korea,2023,3,weekly,228.1
-South Korea,2023,4,weekly,552.3
-South Korea,2023,5,weekly,547.9
-South Korea,2023,6,weekly,388.3
-South Korea,2023,7,weekly,330.9
-South Korea,2023,8,weekly,155.7
-South Korea,2023,9,weekly,103.3
-South Korea,2023,10,weekly,221.5
-South Korea,2023,11,weekly,8.7
-South Korea,2023,12,weekly,197.9
-South Korea,2023,13,weekly,318.3
-South Korea,2023,14,weekly,-19.1
-South Korea,2023,15,weekly,376.7
-South Korea,2023,16,weekly,306.1
-South Korea,2023,17,weekly,426.9
-South Korea,2023,18,weekly,414.7
-South Korea,2023,19,weekly,472.1
-South Korea,2023,20,weekly,550.1
-South Korea,2023,21,weekly,455.5
-South Korea,2023,22,weekly,445.9
-South Korea,2023,23,weekly,498.3
-South Korea,2023,24,weekly,572.3
-South Korea,2023,25,weekly,358.9
-South Korea,2023,26,weekly,334.9
-South Korea,2023,27,weekly,277.1
-South Korea,2023,28,weekly,580.9
-South Korea,2023,29,weekly,548.9
-South Korea,2023,30,weekly,706.5
-South Korea,2023,31,weekly,1026.3
-South Korea,2023,32,weekly,1023.7
-South Korea,2023,33,weekly,891.1
-South Korea,2023,34,weekly,914.1
-South Korea,2023,35,weekly,619.7
+South Korea,2023,1,weekly,922.5
+South Korea,2023,2,weekly,809.9
+South Korea,2023,3,weekly,233.1
+South Korea,2023,4,weekly,554.3
+South Korea,2023,5,weekly,552.9
+South Korea,2023,6,weekly,392.3
+South Korea,2023,7,weekly,331.9
+South Korea,2023,8,weekly,162.7
+South Korea,2023,9,weekly,107.3
+South Korea,2023,10,weekly,224.5
+South Korea,2023,11,weekly,13.7
+South Korea,2023,12,weekly,205.9
+South Korea,2023,13,weekly,322.3
+South Korea,2023,14,weekly,-12.1
+South Korea,2023,15,weekly,380.7
+South Korea,2023,16,weekly,309.1
+South Korea,2023,17,weekly,431.9
+South Korea,2023,18,weekly,422.7
+South Korea,2023,19,weekly,481.1
+South Korea,2023,20,weekly,562.1
+South Korea,2023,21,weekly,461.5
+South Korea,2023,22,weekly,447.9
+South Korea,2023,23,weekly,500.3
+South Korea,2023,24,weekly,584.3
+South Korea,2023,25,weekly,373.9
+South Korea,2023,26,weekly,347.9
+South Korea,2023,27,weekly,286.1
+South Korea,2023,28,weekly,595.9
+South Korea,2023,29,weekly,561.9
+South Korea,2023,30,weekly,731.5
+South Korea,2023,31,weekly,1061.3
+South Korea,2023,32,weekly,1086.7
+South Korea,2023,33,weekly,977.1
+South Korea,2023,34,weekly,1014.1
+South Korea,2023,35,weekly,842.7
+South Korea,2023,36,weekly,869.1
+South Korea,2023,37,weekly,665.3
+South Korea,2023,38,weekly,309.1
+South Korea,2023,39,weekly,347.7
 Spain,2020,1,weekly,-1205.0
 Spain,2020,2,weekly,-939.0
 Spain,2020,3,weekly,-598.0
@@ -11432,6 +11627,11 @@ Spain,2023,36,weekly,567.7
 Spain,2023,37,weekly,346.1
 Spain,2023,38,weekly,176.3
 Spain,2023,39,weekly,126.3
+Spain,2023,40,weekly,594.7
+Spain,2023,41,weekly,182.1
+Spain,2023,42,weekly,90.9
+Spain,2023,43,weekly,39.5
+Spain,2023,44,weekly,-165.9
 Suriname,2020,1,monthly,-42.1
 Suriname,2020,2,monthly,47.3
 Suriname,2020,3,monthly,-46.9
@@ -11616,13 +11816,13 @@ Sweden,2022,52,weekly,545.0
 Sweden,2023,1,weekly,469.5
 Sweden,2023,2,weekly,253.7
 Sweden,2023,3,weekly,121.9
-Sweden,2023,4,weekly,-7.3
-Sweden,2023,5,weekly,-18.3
-Sweden,2023,6,weekly,-69.7
-Sweden,2023,7,weekly,-131.9
-Sweden,2023,8,weekly,-193.9
-Sweden,2023,9,weekly,-108.7
-Sweden,2023,10,weekly,-24.7
+Sweden,2023,4,weekly,-9.3
+Sweden,2023,5,weekly,-17.3
+Sweden,2023,6,weekly,-68.7
+Sweden,2023,7,weekly,-130.9
+Sweden,2023,8,weekly,-192.9
+Sweden,2023,9,weekly,-107.7
+Sweden,2023,10,weekly,-23.7
 Sweden,2023,11,weekly,-61.5
 Sweden,2023,12,weekly,-14.7
 Sweden,2023,13,weekly,-27.9
@@ -11630,27 +11830,32 @@ Sweden,2023,14,weekly,-44.1
 Sweden,2023,15,weekly,50.9
 Sweden,2023,16,weekly,67.7
 Sweden,2023,17,weekly,98.5
-Sweden,2023,18,weekly,58.1
-Sweden,2023,19,weekly,-3.9
-Sweden,2023,20,weekly,115.3
-Sweden,2023,21,weekly,22.9
-Sweden,2023,22,weekly,56.5
-Sweden,2023,23,weekly,120.1
-Sweden,2023,24,weekly,90.1
-Sweden,2023,25,weekly,93.7
-Sweden,2023,26,weekly,-8.7
+Sweden,2023,18,weekly,59.1
+Sweden,2023,19,weekly,-2.9
+Sweden,2023,20,weekly,116.3
+Sweden,2023,21,weekly,24.9
+Sweden,2023,22,weekly,57.5
+Sweden,2023,23,weekly,122.1
+Sweden,2023,24,weekly,92.1
+Sweden,2023,25,weekly,94.7
+Sweden,2023,26,weekly,-7.7
 Sweden,2023,27,weekly,-1.5
-Sweden,2023,28,weekly,-30.7
-Sweden,2023,29,weekly,-33.7
+Sweden,2023,28,weekly,-29.7
+Sweden,2023,29,weekly,-32.7
 Sweden,2023,30,weekly,46.3
-Sweden,2023,31,weekly,-34.5
-Sweden,2023,32,weekly,47.3
+Sweden,2023,31,weekly,-30.5
+Sweden,2023,32,weekly,49.3
 Sweden,2023,33,weekly,65.3
-Sweden,2023,34,weekly,58.1
-Sweden,2023,35,weekly,-57.1
-Sweden,2023,36,weekly,168.9
-Sweden,2023,37,weekly,39.1
-Sweden,2023,38,weekly,87.9
+Sweden,2023,34,weekly,60.1
+Sweden,2023,35,weekly,-54.1
+Sweden,2023,36,weekly,174.9
+Sweden,2023,37,weekly,43.1
+Sweden,2023,38,weekly,94.9
+Sweden,2023,39,weekly,21.7
+Sweden,2023,40,weekly,26.1
+Sweden,2023,41,weekly,203.5
+Sweden,2023,42,weekly,177.1
+Sweden,2023,43,weekly,193.9
 Switzerland,2020,1,weekly,-167.1
 Switzerland,2020,2,weekly,-126.1
 Switzerland,2020,3,weekly,-83.5
@@ -11809,46 +12014,51 @@ Switzerland,2022,50,weekly,346.4
 Switzerland,2022,51,weekly,399.0
 Switzerland,2022,52,weekly,279.4
 Switzerland,2023,1,weekly,173.5
-Switzerland,2023,2,weekly,29.5
+Switzerland,2023,2,weekly,30.5
 Switzerland,2023,3,weekly,-3.9
 Switzerland,2023,4,weekly,-27.5
 Switzerland,2023,5,weekly,-122.9
 Switzerland,2023,6,weekly,-144.9
-Switzerland,2023,7,weekly,-116.5
-Switzerland,2023,8,weekly,-162.9
-Switzerland,2023,9,weekly,-127.3
-Switzerland,2023,10,weekly,-0.1
+Switzerland,2023,7,weekly,-115.5
+Switzerland,2023,8,weekly,-161.9
+Switzerland,2023,9,weekly,-126.3
+Switzerland,2023,10,weekly,1.9
 Switzerland,2023,11,weekly,26.7
 Switzerland,2023,12,weekly,51.3
-Switzerland,2023,13,weekly,23.1
-Switzerland,2023,14,weekly,-1.7
-Switzerland,2023,15,weekly,60.9
+Switzerland,2023,13,weekly,24.1
+Switzerland,2023,14,weekly,-0.7
+Switzerland,2023,15,weekly,61.9
 Switzerland,2023,16,weekly,48.9
-Switzerland,2023,17,weekly,148.5
-Switzerland,2023,18,weekly,74.3
-Switzerland,2023,19,weekly,15.1
-Switzerland,2023,20,weekly,14.1
+Switzerland,2023,17,weekly,153.5
+Switzerland,2023,18,weekly,75.3
+Switzerland,2023,19,weekly,18.1
+Switzerland,2023,20,weekly,15.1
 Switzerland,2023,21,weekly,0.9
-Switzerland,2023,22,weekly,26.3
-Switzerland,2023,23,weekly,30.7
-Switzerland,2023,24,weekly,16.7
-Switzerland,2023,25,weekly,-3.9
-Switzerland,2023,26,weekly,-13.7
-Switzerland,2023,27,weekly,-50.9
-Switzerland,2023,28,weekly,25.7
-Switzerland,2023,29,weekly,-7.9
-Switzerland,2023,30,weekly,-16.5
-Switzerland,2023,31,weekly,23.9
-Switzerland,2023,32,weekly,43.3
-Switzerland,2023,33,weekly,155.5
-Switzerland,2023,34,weekly,156.7
-Switzerland,2023,35,weekly,36.9
-Switzerland,2023,36,weekly,131.5
-Switzerland,2023,37,weekly,12.5
-Switzerland,2023,38,weekly,-51.5
-Switzerland,2023,39,weekly,-37.3
-Switzerland,2023,40,weekly,-44.9
-Switzerland,2023,41,weekly,-27.5
+Switzerland,2023,22,weekly,27.3
+Switzerland,2023,23,weekly,33.7
+Switzerland,2023,24,weekly,22.7
+Switzerland,2023,25,weekly,0.1
+Switzerland,2023,26,weekly,-10.7
+Switzerland,2023,27,weekly,-45.9
+Switzerland,2023,28,weekly,31.7
+Switzerland,2023,29,weekly,1.1
+Switzerland,2023,30,weekly,-8.5
+Switzerland,2023,31,weekly,33.9
+Switzerland,2023,32,weekly,54.3
+Switzerland,2023,33,weekly,169.5
+Switzerland,2023,34,weekly,172.7
+Switzerland,2023,35,weekly,48.9
+Switzerland,2023,36,weekly,153.5
+Switzerland,2023,37,weekly,36.5
+Switzerland,2023,38,weekly,-36.5
+Switzerland,2023,39,weekly,-14.3
+Switzerland,2023,40,weekly,-3.9
+Switzerland,2023,41,weekly,20.5
+Switzerland,2023,42,weekly,108.9
+Switzerland,2023,43,weekly,142.7
+Switzerland,2023,44,weekly,102.5
+Switzerland,2023,45,weekly,160.3
+Switzerland,2023,46,weekly,189.9
 Taiwan,2020,1,monthly,-922.4
 Taiwan,2020,2,monthly,1525.0
 Taiwan,2020,3,monthly,-1502.8
@@ -12037,9 +12247,13 @@ Tunisia,2022,9,monthly,-336.6
 Tunisia,2022,10,monthly,-628.2
 Tunisia,2022,11,monthly,-513.8
 Tunisia,2022,12,monthly,97.4
-Tunisia,2023,1,monthly,-985.3
-Tunisia,2023,2,monthly,-1188.1
-Tunisia,2023,3,monthly,-2059.5
+Tunisia,2023,1,monthly,-488.3
+Tunisia,2023,2,monthly,-291.1
+Tunisia,2023,3,monthly,-1048.5
+Tunisia,2023,4,monthly,-609.3
+Tunisia,2023,5,monthly,-694.1
+Tunisia,2023,6,monthly,-787.5
+Tunisia,2023,7,monthly,1311.5
 Turkey,2020,1,monthly,-1693.5
 Turkey,2020,2,monthly,-2060.1
 Turkey,2020,3,monthly,-523.5
@@ -12322,9 +12536,14 @@ United Kingdom,2023,37,weekly,951.1
 United Kingdom,2023,38,weekly,1165.5
 United Kingdom,2023,39,weekly,563.1
 United Kingdom,2023,40,weekly,525.7
-United Kingdom,2023,41,weekly,680.1
+United Kingdom,2023,41,weekly,681.1
 United Kingdom,2023,42,weekly,534.9
 United Kingdom,2023,43,weekly,695.3
+United Kingdom,2023,44,weekly,1130.1
+United Kingdom,2023,45,weekly,1255.1
+United Kingdom,2023,46,weekly,918.7
+United Kingdom,2023,47,weekly,1073.5
+United Kingdom,2023,48,weekly,986.1
 United States,2020,1,weekly,-2621.0
 United States,2020,2,weekly,-2408.6
 United States,2020,3,weekly,-2261.8
