@@ -4,6 +4,8 @@
 
 See the [`elife2021`](https://github.com/dkobak/excess-mortality/blob/main/elife2021/) folder for reproducible analysis from the paper. The figures shown below are being continuously updated after the publication.
 
+**NOTE:** We will not provide any excess mortality estimates starting from 2024. Our excess mortality calculations are based on linear extrapolation of 2015--2019 trends, and this becomes more and more tenuous as the years go by. The repository will keep being updated together with the World Mortality Dataset but will only show excess until the end of 2023.
+
 -------------------------------
 
 Analysis code: [`all-countries.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/all-countries.ipynb) (can be [run in Colab](https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb)).
