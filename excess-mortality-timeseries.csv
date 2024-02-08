@@ -6649,6 +6649,10 @@ Latvia,2023,45,weekly,4.3
 Latvia,2023,46,weekly,44.1
 Latvia,2023,47,weekly,64.1
 Latvia,2023,48,weekly,61.7
+Latvia,2023,49,weekly,98.3
+Latvia,2023,50,weekly,84.7
+Latvia,2023,51,weekly,30.7
+Latvia,2023,52,weekly,7.1
 Lebanon,2020,1,monthly,353.7
 Lebanon,2020,2,monthly,210.5
 Lebanon,2020,3,monthly,-211.5
@@ -8606,6 +8610,7 @@ Netherlands,2023,48,weekly,480.2
 Netherlands,2023,49,weekly,464.4
 Netherlands,2023,50,weekly,370.4
 Netherlands,2023,51,weekly,610.6
+Netherlands,2023,52,weekly,268.2
 New Caledonia,2020,1,monthly,-4.0
 New Caledonia,2020,2,monthly,8.8
 New Caledonia,2020,3,monthly,17.2
@@ -8926,6 +8931,7 @@ North Macedonia,2023,7,monthly,8.4
 North Macedonia,2023,8,monthly,65.6
 North Macedonia,2023,9,monthly,131.6
 North Macedonia,2023,10,monthly,-24.0
+North Macedonia,2023,11,monthly,65.0
 Norway,2020,1,weekly,-61.4
 Norway,2020,2,weekly,35.4
 Norway,2020,3,weekly,-69.2
@@ -9181,7 +9187,8 @@ Oman,2023,7,monthly,-71.3
 Oman,2023,8,monthly,-82.5
 Oman,2023,9,monthly,-100.1
 Oman,2023,10,monthly,2.1
-Oman,2023,11,monthly,-32.5
+Oman,2023,11,monthly,-31.5
+Oman,2023,12,monthly,-71.3
 Palestine,2020,1,monthly,-18.8
 Palestine,2020,2,monthly,43.2
 Palestine,2020,3,monthly,-50.8
@@ -10109,6 +10116,7 @@ Qatar,2023,7,monthly,48.4
 Qatar,2023,8,monthly,31.6
 Qatar,2023,9,monthly,41.2
 Qatar,2023,10,monthly,78.4
+Qatar,2023,11,monthly,51.6
 Romania,2020,1,weekly,-600.7
 Romania,2020,2,weekly,-545.7
 Romania,2020,3,weekly,-447.9
@@ -11810,15 +11818,19 @@ Spain,2023,36,weekly,567.7
 Spain,2023,37,weekly,346.1
 Spain,2023,38,weekly,176.3
 Spain,2023,39,weekly,126.3
-Spain,2023,40,weekly,597.7
-Spain,2023,41,weekly,232.1
-Spain,2023,42,weekly,185.9
-Spain,2023,43,weekly,174.5
-Spain,2023,44,weekly,11.1
-Spain,2023,45,weekly,271.3
-Spain,2023,46,weekly,168.1
-Spain,2023,47,weekly,-87.1
-Spain,2023,48,weekly,164.1
+Spain,2023,40,weekly,603.7
+Spain,2023,41,weekly,243.1
+Spain,2023,42,weekly,197.9
+Spain,2023,43,weekly,191.5
+Spain,2023,44,weekly,33.1
+Spain,2023,45,weekly,364.3
+Spain,2023,46,weekly,494.1
+Spain,2023,47,weekly,304.9
+Spain,2023,48,weekly,602.1
+Spain,2023,49,weekly,237.7
+Spain,2023,50,weekly,258.3
+Spain,2023,51,weekly,396.9
+Spain,2023,52,weekly,792.7
 Suriname,2020,1,monthly,-42.1
 Suriname,2020,2,monthly,47.3
 Suriname,2020,3,monthly,-46.9
@@ -12326,6 +12338,18 @@ Tajikistan,2021,9,monthly,313.7
 Tajikistan,2021,10,monthly,241.7
 Tajikistan,2021,11,monthly,308.5
 Tajikistan,2021,12,monthly,-478.1
+Tajikistan,2022,1,monthly,-121.1
+Tajikistan,2022,2,monthly,70.3
+Tajikistan,2022,3,monthly,-418.9
+Tajikistan,2022,4,monthly,-197.5
+Tajikistan,2022,5,monthly,-112.1
+Tajikistan,2022,6,monthly,-87.1
+Tajikistan,2022,7,monthly,-71.3
+Tajikistan,2022,8,monthly,18.3
+Tajikistan,2022,9,monthly,-144.9
+Tajikistan,2022,10,monthly,-129.9
+Tajikistan,2022,11,monthly,-174.1
+Tajikistan,2022,12,monthly,125.3
 Thailand,2020,1,monthly,2428.4
 Thailand,2020,2,monthly,45.2
 Thailand,2020,3,monthly,2804.4
