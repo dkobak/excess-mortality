@@ -10,7 +10,7 @@ See the [`elife2021`](https://github.com/dkobak/excess-mortality/blob/main/elife
 
 Analysis code: [`all-countries.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/all-countries.ipynb) (can be [run in Colab](https://colab.research.google.com/github/dkobak/excess-mortality/blob/main/all-countries.ipynb)).
 
-The data are sourced from the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality). Excess mortality is computed relative to the baseline obtained using linear extrapolation of the 2015–19 trend (different baselines for 2020, 2021, and 2022). In each subplot in the figure below, gray lines are 2015–19, black line is baseline for 2020, red line is 2020, blue line is 2021, orange line is 2022, green line is 2023. Countries are sorted by the total excess mortality as % of the 2020 baseline.
+The data are sourced from the [World Mortality Dataset](https://github.com/akarlinsky/world_mortality). Excess mortality is computed relative to the baseline obtained using linear extrapolation of the 2015–19 trend (different baselines for 2020, 2021, 2022, 2023). In each subplot in the figure below, gray lines are 2015–19, black line is baseline for 2020, red line is 2020, blue line is 2021, orange line is 2022, green line is 2023. Countries are sorted by the total excess mortality as % of the 2020 baseline.
 
 Red number: excess mortality starting from the first officially reported Covid-19 death.<br>
 Gray number: excess mortality as a % of the annual (2020) baseline deaths.<br>
@@ -28,10 +28,6 @@ Top-10 countries in the World Mortality Dataset according to different metrics (
 <p><a href="img/leaderboard.png?raw=true"><img src="img/leaderboard.png" width="600" title="Top countries by excess mortality"></a>
 
 See full table in CSV: [`excess-mortality.csv`](https://github.com/dkobak/excess-mortality/blob/main/excess-mortality.csv). Compare with: [FT](https://www.ft.com/content/a2901ce8-5eb7-4633-b89c-cbdf5b386938), [NYT](https://www.nytimes.com/interactive/2020/04/21/world/coronavirus-missing-deaths.html), [The Economist](https://www.economist.com/graphic-detail/coronavirus-excess-deaths-tracker), [WSJ](https://www.wsj.com/articles/the-covid-19-death-toll-is-even-worse-than-it-looks-11610636840). 
-
-<p>The same figure without the projections (as in the paper): 
-
-<p><a href="img/leaderboard-paper.png?raw=true"><img src="img/leaderboard-paper.png" width="600" title="Top countries by excess mortality (without projections)"></a>
   
 <p>Tracking of excess mortality and official Covid deaths:
   
@@ -41,7 +37,7 @@ See full table in CSV: [`excess-mortality.csv`](https://github.com/dkobak/excess
 
 
 ### Extrapolation until today
-Daily reported Covid-19 mortality and estimated excess mortality across the countries with the most reported Covid-19 deaths. Note that in this figure the excess mortality in all countries is FORECASTED using the undercount coefficient and the LATEST daily reported number of deaths. So this corresponds to the gray markers in the figure above.
+Daily reported Covid-19 mortality and estimated excess mortality across the countries with the most reported Covid-19 deaths. Note that in this figure the excess mortality in all countries is FORECASTED using the undercount coefficient and the LATEST daily reported number of deaths.
 
 <p><a href="img/countries.png?raw=true"><img src="img/countries.png" width="600" title="Across countries"></a>
 
