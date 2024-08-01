@@ -65,9 +65,11 @@ The same figure by P-scores:
 
 The code for my February 2021 paper in *Significance* [Excess mortality reveals Covid's true toll in Russia](https://rss.onlinelibrary.wiley.com/doi/10.1111/1740-9713.01486) is available in the `significance2021` folder, together with the frozen data and the final figures.
 
-Figures below are updated every month. The up-to-date data can be found in the `russian-data` folder. Code: [`russia.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb). I am using monthly data _by date of death_ for all years up to 2022, and monthly date _by date of registration_ starting from 2023 (as the data by date of death are not yet available). The data by date of death were provided by Rosstat upon my request. (Note that the dataset includes deaths with known year but unknown month of death; I redistributed those proportionally to the deaths with known month of death.) Thanks to [Alexey Raksha](https://www.facebook.com/100001739601178) for helpful discussions.
+The up-to-date data can be found in the `russian-data` folder. Code: [`russia.ipynb`](https://github.com/dkobak/excess-mortality/blob/main/russia.ipynb). I am using monthly data _by date of death_ for all years up to and including 2023. The data by date of death were provided by Rosstat upon my request. (Note that the dataset includes deaths with known year but unknown month of death; I redistributed those proportionally to the deaths with known month of death.) Thanks to [Alexey Raksha](https://www.facebook.com/100001739601178) for helpful discussions.
   
-Note: this analysis follows the same principle as the analysis above: baselines are obtained using linear extrapolation from 2015--19, and baselines for 2020, 21, 22, 23, etc. are all different.
+Note: this analysis follows the same principle as the analysis above: baselines are obtained using linear extrapolation from 2015--19, and baselines for 2020, 21, 22, 23, are all different.
+
+Note: I am not planning to update this analysis with 2024+ data.
 
 <p><a href="img/allregions.png?raw=true"><img src="img/allregions.png" width="800" title="Excess mortality in Russian regions"></a>
   
